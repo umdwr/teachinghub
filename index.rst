@@ -9,9 +9,9 @@ Welcome to DWR Teaching Hub's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   teachinghub/guides.md
-   teachinghub/alib.md
-   teachinghub/policies.md
+   guides
+   alib
+   policies
 
 
 
