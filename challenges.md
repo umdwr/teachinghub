@@ -1,0 +1,10 @@
+---
+title: "Challenges"
+date: "2018-10-16"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum augue nec sem molestie, nec pellentesque est luctus. Donec sit amet elit ultricies, iaculis turpis laoreet, dignissim dui. Sed aliquet tortor tortor, ac mattis ante interdum ac. Quisque sed libero libero. Nulla at orci blandit, dapibus diam non, tincidunt nulla. Curabitur vitae ligula mauris. Duis eu vulputate mi. Aenean mi felis, porta sit amet libero et, ultrices varius nulla. Fusce ac auctor dolor. Vivamus pellentesque felis ut erat fermentum pellentesque.
+
+\[expand title="Differences Between 101 and 102" id="differences" tag="h4"\] As part of Syllabus Day, I like to stress to my students that 101 and 102 are different courses with different aims doing different things. The course objectives on the syllabus are different in 101 and 102, so this is the perfect day to address the topic. My students may not themselves see any difference and feel frustrated that they have to take yet another non-major course they aren’t interested in. I may have repeat students who need to know that they are not going to be bored getting a full rehash of what they just learned from me in 101. It’s good for me to remind myself that the classes are different so that I prepare different materials for the different levels of student. 101 is more geared toward introducing students to the standards of college writing. They begin with a personal narrative and graduate to making arguments on more academic topics. 102 is more geared to including research and outside sources into different genres of argument. \[/expand\]
+
+\[expand title="Effective Peer Review" tag="h4" id="pr"\] I created the attached assignment sheet because it accomplishes two different goals. 1) it provides a flawed but passable introduction for students to practice providing good and bad feedback to a peer. 2) it is from a for-profit assignment mill, showing students that their money would be wasted if they were to cheat in that way. \[/expand\]
