@@ -1,2 +1,0 @@
-# teachinghub
-DWR Teaching Hub
