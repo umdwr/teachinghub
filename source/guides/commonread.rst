@@ -1,11 +1,7 @@
 Common Reading Resource Guide
 =============================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Table of Contents:
-
-   Using World of Wonders in the Classroom
+.. contents:: Table of Contents
 
 Using World of Wonders in the Classroom
 ---------------------------------------

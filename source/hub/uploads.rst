@@ -1,2 +1,2 @@
-Document uploads
+Document Uploads
 ================

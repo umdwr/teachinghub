@@ -11,13 +11,28 @@ Welcome
 
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
 
+.. raw:: html
+
+   <a href="hub/syllabi.html"><button class="button">Syllabi and Office Hours</button></a>
+
+   <a href="hub/development.html"><button class="button">Professional Development</button>
+
+   <a href="hub/observations.html"><button class="button">Observations and Course Reviews</button>
+
+   <a href="hub/uploads.html"><button class="button">Document Uploads</button>
+
+   <a href="hub/support.html"><button class="button">Technical Support</button>
+
+   <a href="hub/docs.html"><button class="button">Tools and Resources</button>
+
+
 .. toctree::
    :maxdepth: 1
-   :caption: Teaching Hub:
+   :hidden:
 
    hub/syllabi
-   hub/development
-   hub/observations
+   hub/development/development
+   hub/observations/observations
    hub/uploads
    hub/support
    hub/docs
@@ -26,7 +41,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Teaching Guides:
+   :caption: Teaching Guides
 
    guides/speech
    guides/writing
@@ -42,7 +57,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Assignment Library:
+   :caption: Assignment Library
 
    alib/speech
    alib/writing
@@ -52,21 +67,15 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Policies:
+   :caption: Policies
 
-   policies/index
+   policies/policies.rst
+   policies/infosec.rst
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Reports and Research:
+   :caption: Reports and Research
 
    reports/index
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
