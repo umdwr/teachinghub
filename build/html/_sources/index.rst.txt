@@ -5,10 +5,6 @@
 
 DWR Teaching Hub
 ============================================
-
-Welcome
--------
-
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
 
 .. raw:: html
