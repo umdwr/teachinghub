@@ -49,6 +49,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    guides/civil
    guides/rhetlab
    guides/ballot
+   guides/continuity 
 
 .. toctree::
    :maxdepth: 2
