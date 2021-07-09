@@ -1,11 +1,12 @@
-Teaching SPCH 210: The Art of the Interview
 ===================================================
-.. sidebar:: Important Links
+SPCH 210: The Art of the Interview
+===================================================
+.. sidebar:: Contents
 
-    * :doc:`SPCH 105 Assignment Library </alib/speech/spch210>`
-    * `Sample Syllabus <https://olemiss.box.com/s/gb8qrp7yop3cv2eiifr8l0eelib8lwo4>`_
-    * `Sample Calendar <https://olemiss.box.com/s/9btzxgd2b9fx15dhv9lvrj73zvlqc742>`_
-  
+    .. contents:: 
+        :depth: 1
+        :local: 
+
 Course Description
 ------------------
 Speech 210 (1cr) provides intensive skills training to prepare students for job interviews. Particular attention is given to tailoring application materials and increasing virtual presentation skills. Two versions of the course currently exist – full 15-week and 7-week mini-mester.
@@ -13,6 +14,11 @@ Speech 210 (1cr) provides intensive skills training to prepare students for job 
 Course Design
 -------------
 Spch 210 is designed as an intensive, skills-based course focused on deliverables. By the end of the course, students should have engaged in a variety of interview processes and created job search materials, which should be useful as they engage in future employment endeavors. The course allows students repeated opportunities to engage six phases of job interviewing: 1) analyzing career opportunities, 2) examining the role of social media, 3) building a network, 4) tailoring a cover letter and resume to a specific position, 5) identifying types of interview questions, 6) constructing responses to common interview questions during telephone, video, and live, virtual interviews.
+
+.. admonition:: Sample Syllabus
+
+    * `Sample Syllabus <https://olemiss.box.com/s/gb8qrp7yop3cv2eiifr8l0eelib8lwo4>`_
+    * `Sample Calendar <https://olemiss.box.com/s/9btzxgd2b9fx15dhv9lvrj73zvlqc742>`_
 
 Required Course Materials
 -------------------------
@@ -47,6 +53,13 @@ Please use the following sequence for the interviews.
 
 Core Assignments
 ----------------------------
+.. admonition:: See Also
+
+    :doc:`SPCH 210 Assignment Library </alib/speech/spch210>`
+ 
+Assignment Weights
+^^^^^^^^^^^^^^^^^^
+
 .. table:: 
    :widths: auto
    :width: 100%

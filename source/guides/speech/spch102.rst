@@ -1,11 +1,12 @@
-Teaching SPCH 102: Public Speaking
 ============================================
-.. sidebar:: Important Links
+SPCH 102: Public Speaking
+============================================
+.. sidebar:: Contents
 
-    * :doc:`SPCH 102 Assignment Library </alib/speech/spch102>`
-    * `Sample Syllabus <https://olemiss.box.com/s/njc7x7ytx9su5vw5oziwf8nh7cegilty>`_
-    * `Sample Calendar <https://olemiss.box.com/s/saw6o04eck9cr9vpkwsp5372dzh9n3bp>`_.
-  
+    .. contents::
+        :depth: 1
+        :local:
+
 Course Description
 ------------------
 Speech 102 explores the fundamentals of organizing, preparing, and delivering speeches in a variety of public forums.
@@ -16,9 +17,14 @@ SPCH 102 is a skills-building course and allows students repeated opportunities 
 
 For online version, students should speak to a live audience in a public setting for the informative and persuasive assignments. Live audiences should consist of no less than five adults or peers. If space is available, online instructors may explore a hybrid model.
 
+.. admonition:: Sample Syllabus
+
+    * `Sample Syllabus <https://olemiss.box.com/s/njc7x7ytx9su5vw5oziwf8nh7cegilty>`_
+    * `Sample Calendar <https://olemiss.box.com/s/saw6o04eck9cr9vpkwsp5372dzh9n3bp>`_.
+
 Required Course Materials
 -------------------------
-O’Haire, D., Rubenstein, H., & Stewart, R. (2019). A pocket guide to public speaking (6th ed.). Bedford/St. Martin’s.
+O’Haire, D., Rubenstein, H., & Stewart, R. (2019). *A pocket guide to public *speaking* (6th ed.). Bedford/St. Martin’s.
 
 Using LaunchPad with the 6th edition textbook is optional; however, you should use whichever option you requested for submission into myolemiss.
 
@@ -29,6 +35,10 @@ You may share all relevant purchasing options for your course on your syllabus. 
 
 Assignment Sequence
 -------------------
+.. admonition:: See also
+
+    :doc:`SPCH 102 Assignment Library </alib/speech/spch102>`
+    
 The following series of speech assignments allow students to repeat the process of conceiving, researching, organizing, developing, practicing, and presenting original speeches throughout the course. The short, informative, and persuasive sequence is recommended. The group presentation may be sequenced at the discretion of the instructor (after practice/short presentations are completed).
 
 1. **Two short presentations** to orient students to the process (2-4 minutes).

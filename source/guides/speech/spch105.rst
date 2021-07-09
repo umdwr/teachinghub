@@ -1,10 +1,12 @@
-Teaching SPCH 105: Business and Professional Speech
 ===================================================
-.. sidebar:: Important Links
+SPCH 105: Business and Professional Speech
+===================================================
+.. sidebar:: Contents
 
-    * :doc:`SPCH 105 Assignment Library </alib/speech/spch105>`
-    * `Sample Syllabus <https://olemiss.box.com/s/205q8hiqom49oi6mx4l8fo6rsdacn6d2>`_
-  
+    .. contents:: 
+        :depth: 1
+        :local: 
+
 Course Description
 ------------------
 Speech 105 is a practical introduction to the principles and skills of effective communication in business and professional settings. The course includes frequent performances in business situations requiring effective communication practices. 
@@ -15,32 +17,42 @@ SPCH 105 is a skills-building course, which allows students repeated opportuniti
 
 An online version is not currently being offered but is being developed. The online version will explore professional communication using virtual tools in an authentic manner.
 
+.. admonition:: Sample Syllabus
+
+    `Sample Syllabus <https://olemiss.box.com/s/205q8hiqom49oi6mx4l8fo6rsdacn6d2>`_
+
 Required Course Materials
 -------------------------
 Spch 105 is part of the `Z-degree option <https://oer.olemiss.edu/>`_. An Open Educational Resource is provided for use in the Assignment Library. Please share the materials via Blackboard. 
 
 Assignment Sequence
 -------------------
+.. admonition:: See Also
+
+    :doc:`SPCH 105 Assignment Library </alib/speech/spch105>`
+    
 The following series of speech assignments allow students to repeat the process of conceiving, researching, organizing, developing, practicing and presenting in professional contexts throughout the course. Instructors may use the sequence below or sequence can be rearranged so long as: 1) at least one short presentation precedes longer presentations and 2) the informative precedes the persuasive. When developing sequence consider how each assignment will inform the next.  
 
 1. **Two short presentations**, such as a briefing, an elevator pitch, or panel presentation, orient students to the process (2-4 minutes). 
 2. An **informative presentation** relevant to a specific professional context furthers research and analysis of self, audience, and topic, as well as increasing organizational expectations (5-7 minutes). A Q & A should follow the presentation to enhance interview/response skills. 
 3. A **persuasive presentation** relevant to a professional context explores the fundamentals of argumentation, as well as enhances content evaluation and organizational skills (6-8 minutes). A Q & A should follow the presentation to enhance interview/response skills. 
 4. A **small group assignment**, presenting the results of a challenging group assignment, may be informative or persuasive and adds problem-solving, small group communication, and group performance to the speech process. 
-5. An **interview assignment** may require a live, virtual, and/or print deliverable. The interview unit should cover types of interviews in the workplace, preparing to ask and answer questions, as well as practice with Q & A. The instructor may choose the type of interview students will use for application or instructors may allow the students to choose based on their interests and needs. Types of interviews: 
+5. An **interview assignment** may require a live, virtual, and/or print deliverable. The interview unit should cover types of interviews in the workplace, preparing to ask and answer questions, as well as practice with Q & A. The instructor may choose the type of interview students will use for application or instructors may allow the students to choose based on their interests and needs. 
 
-* Information-gathering/research  
-* Diagnostic (viable option for students majoring in STEM fields) 
-* Selection (prep and practice should focus on screening interview) 
-* Performance  
-* Disciplinary (viable option for an upper level Business Administration major) 
-* Entertainment/Journalistic (i.e., radio interview or informing the press; viable for performing arts, sports majors, or public policy majors) 
+.. admonition:: Types of interviews 
 
-The type of interview assigned will determine deliverables due.  
+   * Information-gathering/research  
+   * Diagnostic (viable option for students majoring in STEM fields) 
+   * Selection (prep and practice should focus on screening interview) 
+   * Performance  
+   * Disciplinary (viable option for an upper level Business Administration major) 
+   * Entertainment/Journalistic (i.e., radio interview or informing the press; viable for performing arts, sports majors, or public policy majors) 
 
-    Example 1: An instructor may assign an information gathering interview in preparation of an informative or persuasive topic. The deliverables might be transcripts and analysis of the interview, as well as a survey response from the interviewee assessing the student’s interview skills.  
+    The type of interview assigned will determine deliverables due.  
 
-    Example 2: For a diagnostic interview, the deliverable might be finding/sharing a case study of an unusual issue, submitting an analysis of the case, and the suggested diagnostic approach for similar cases in future. The student would share the diagnostic plan with a professor or professional in the field and interview the professor/professional to receive feedback on the plan. The interviewee would complete a survey assessing the student’s interview skills. 
+    **Example 1:** An instructor may assign an information gathering interview in preparation of an informative or persuasive topic. The deliverables might be transcripts and analysis of the interview, as well as a survey response from the interviewee assessing the student’s interview skills.  
+
+    **Example 2:** For a diagnostic interview, the deliverable might be finding/sharing a case study of an unusual issue, submitting an analysis of the case, and the suggested diagnostic approach for similar cases in future. The student would share the diagnostic plan with a professor or professional in the field and interview the professor/professional to receive feedback on the plan. The interviewee would complete a survey assessing the student’s interview skills. 
 
 **Note:** More short presentations or assignments may be added wherever instructors find the assignments most useful for their individual curriculum. 
 
