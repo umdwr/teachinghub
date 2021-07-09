@@ -1,18 +1,22 @@
 Information Security Policy & Training
 ======================================
-.. contents:: 
-
-.. sidebar:: Important Links
-
-    * `IT Training Workshops <http://ittraining.olemiss.edu/>`_
-    * `UM Security Awareness Policy <https://policies.olemiss.edu/ShowDetails.jsp?istatPara=1&policyObjidPara=12310599>`_
-    * `UM Information Confidentiality/Security Policy <https://policies.olemiss.edu/ShowDetails.jsp?istatPara=1&policyObjidPara=10654991>`_
+.. sidebar:: Contents
+    
+    .. contents::
+        :local: 
 
 On an annual basis and in consultation with IT, up-to-date training and training documentation will be developed and provided to all faculty and staff who have access to physical and/or electronic versions of sensitive information at the DWR fall orientation session, which takes place in August each year. If a new employee’s hire date begins after the orientation session, training will be provided within one month of their start date to ensure they comply with the university’s information security policies.  Upon completing security awareness training, DWR faculty and staff will be required to submit confirmation of training completion to the Administrative Coordinator.  These training confirmations will be retained in DWR personnel files which are maintained in the department chair’s office. In addition to in-house training,  all employees will be encouraged to attend IT sponsored training throughout the year;which can be found at https://ittraining.olemiss.edu/. We have added the following section about Annual Security Awareness training to the department’s IT Security Policy:
 
 Any member of the department who has access to confidential student or employee information in digital or physical formats is required by the University to complete security awareness training annually.  
  
 Additionally, all faculty and staff should routinely complete training and attend workshops hosted by the department and IT. 
+
+.. admonition:: UM Information Security Resources 
+
+    * `IT Training Workshops <http://ittraining.olemiss.edu/>`_
+    * `UM Security Awareness Policy <https://policies.olemiss.edu/ShowDetails.jsp?istatPara=1&policyObjidPara=12310599>`_
+    * `UM Information Confidentiality/Security Policy <https://policies.olemiss.edu/ShowDetails.jsp?istatPara=1&policyObjidPara=10654991>`_
+
 
 Antivirus and Firewall 
 ----------------------
