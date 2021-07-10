@@ -1,20 +1,3 @@
-================================
-Reflection in First Year Writing
-================================
-.. sidebar:: Contents
-
-    ..contents::
-
-        :local:
-        :depth: 2
-
-
-Since 2010, writing courses at the University of Mississippi have emphasized reflection, revision, and transfer of knowledge.
-
-The Reflection Blog, or Commonplace Book, asks students to engage in frequent, diverse, and sustained reflection over the course of the first-year writing experience. Students use their blogs as a space to collect and unpack ideas. Through the different types of composition in the Reflection Blog, students will develop a more sophisticated understanding of what it means to be an academic writer and they will cultivate an “academic identity” as they move beyond their general education experience.
-
-Setup
-------
 | *Note: In 2020, we are transitioning away from the "Commonplace Book"
   designation in favor of "Reflection Blog."*
 
@@ -31,6 +14,7 @@ manage your students' sites. Instructions for both methods are below.
 
 Classes
 ~~~~~~~
+
 The Classes plugin connects you to student blogs in a teacher/students
 configuration. Even if you don't plan to maintain a class blog, you'll
 need to have one in order to use "My Class." Your default blog is
@@ -74,7 +58,7 @@ Here is an explanation of each one:
    at the beginning of the semester.
 
 Adding Student Blogs to the Class
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 | Students can request to be added to your class blog by going to **My
   Class > Join a Class **\ from their WordPress dashboard (after they've
@@ -101,7 +85,7 @@ and instead relies on WordPress's native subscription/user system.
  
 
 Creating Reader Lists
-~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 Instead of pulling your class rolls from MyOleMiss, this time you'll
 pull them from Blackboard.
@@ -169,3 +153,133 @@ EdBlogs network. Please allowed at least 24 hours for completion (more
 at the beginning and end of the semester). You will receive email
 confirmation when the requested job is complete.
 
+--------------
+
+.. raw:: html
+
+   <div class="wp-block-columns has-2-columns">
+
+.. raw:: html
+
+   <div class="wp-block-column">
+
+` <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UMk05MDBUQjRBUjdCUlJWV0dZREkxSFlaSSQlQCN0PWcu>`__
+Add Students to Class Blog
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="wp-block-column">
+
+If you want us to batch create your student blogs and activate your
+Class Blog in advance, please submit their Web IDs.
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+--------------
+
+.. raw:: html
+
+   <div class="wp-block-columns has-2-columns">
+
+.. raw:: html
+
+   <div class="wp-block-column">
+
+` <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UQjdQVk1EMDk2MUxEMVM0QlRaRDdHVktQOSQlQCN0PWcu>`__
+Access Student Blog
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="wp-block-column">
+
+If you need to access a single (or small number of) student blogs,
+please submit their site names.
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+--------------
+
+.. raw:: html
+
+   <div class="wp-block-columns has-2-columns">
+
+.. raw:: html
+
+   <div class="wp-block-column">
+
+` <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UQ0NXS0g3MEFLV0NCV1JFV0gwUUdIQVRDWCQlQCN0PWcu>`__
+Subscribe to Blogs
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="wp-block-column">
+
+If you want to be added as a subscriber to your student sites without
+using the Classes plugin, please submit their Web IDs.
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+--------------
+
+.. |My Class > Create Class| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2019/08/createclass-150x150.jpg
+   :class: alignleft wp-image-2069 size-thumbnail
+   :width: 150px
+   :height: 150px
+.. |image1| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/1-1.png
+   :class: alignleft wp-image-757 size-full
+   :width: 1925px
+   :height: 402px
+.. |image2| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/2-2.png
+   :class: alignleft wp-image-759 size-full
+   :width: 1571px
+   :height: 1394px
+.. |image3| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/3-1.png
+   :class: alignleft wp-image-760 size-full
+   :width: 1797px
+   :height: 243px
+.. |image4| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/4-1.png
+   :class: wp-image-761 aligncenter
+   :width: 331px
+   :height: 634px
+.. |image5| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/5-1.png
+   :class: alignleft wp-image-762 size-full
+   :width: 1679px
+   :height: 1147px
+.. |image6| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/6-1.png
+   :class: wp-image-763 aligncenter
+   :width: 291px
+   :height: 300px
+.. |image7| image:: http://library.cwr.olemiss.edu/wp-content/uploads/2017/08/7-2.png
+   :class: alignleft wp-image-765 size-full
+   :width: 1437px
+   :height: 1085px
