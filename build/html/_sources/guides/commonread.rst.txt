@@ -1,7 +1,9 @@
 Common Reading Resource Guide
 =============================
+.. sidebar:: Contents
 
-.. contents:: Table of Contents
+    .. contents:: 
+        :local:
 
 Using World of Wonders in the Classroom
 ---------------------------------------
