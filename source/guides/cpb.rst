@@ -3,7 +3,7 @@ Reflection in First Year Writing
 ================================
 .. sidebar:: Contents
 
-    ..contents::
+    .. contents::
 
         :local:
         :depth: 2
