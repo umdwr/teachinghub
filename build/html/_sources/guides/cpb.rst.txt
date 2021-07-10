@@ -4,7 +4,6 @@ Reflection in First Year Writing
 .. sidebar:: Contents
 
     .. contents::
-
         :local:
         :depth: 2
 
