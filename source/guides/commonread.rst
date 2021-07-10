@@ -4,6 +4,7 @@ Common Reading Resource Guide
 
     .. contents:: 
         :local:
+        :depth: 1
 
 Using World of Wonders in the Classroom
 ---------------------------------------
