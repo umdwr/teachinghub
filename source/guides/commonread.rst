@@ -1,5 +1,7 @@
 Common Reading Resource Guide
 =============================
+.. image:: assets/cre-logo.jpg
+
 .. sidebar:: Contents
 
     .. contents:: 
