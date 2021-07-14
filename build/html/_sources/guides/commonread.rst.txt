@@ -102,12 +102,14 @@ Some issues in *World of Wonders* may spark controversy in the classroom. Issues
 Remember that the common read discussion should always serve your course outcomes. If a student raises an issue with which you have no expertise or are uncomfortable tackling, you might respond by explaining the topic is more suited for discussion in a different course (such as English, Sociology, or Political Science). For example, you might say, “[Controversy X] is an important issue, and it’s one that you can study in depth in [Course Y]. [Course Y] is taught by an expert in that field. For the purposes of this course, let’s keep the focus on [your course outcome Z].” Additional guidelines are below.
 
 If a student raises a controversial issue unexpectedly, you may want to:
+
 1. Acknowledge the student’s remark.
 2. Acknowledge that other students may hold different views or positions.
 3. Assess your willingness to continue the discussion further.
 4. Assess other students’ willingness to continue the discussion further. 
 
 The following guidelines may be helpful for facilitating planned discussions of controversial issues:
+
 1. Articulate a clear purpose for the discussion (for example, how the discussion is related to course objectives).
 2. Establish ground rules, such as listening without interrupting the speaker, questioning ideas rather than criticizing individuals, offering at least one piece of evidence to support each point made, using “I” statements rather than “you” statements.
 3. Be an active facilitator by redirecting students who are off topic or participating too actively, ensuring students are not put on the spot as spokespersons for certain groups, providing opportunities for all students to participate (orally or through writing), and being attuned to students’ emotions.
