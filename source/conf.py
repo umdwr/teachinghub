@@ -51,7 +51,7 @@ html_theme_options = {
     'navigation_depth': 5,
 }
 
-html_logo = "/assets/logo.png"
+html_logo = "assets/logo.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
