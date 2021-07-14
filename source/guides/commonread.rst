@@ -134,3 +134,56 @@ What if one of my students has a disability and needs a copy of the book in a di
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Students with disabilities should visit Student Disability Services in 234 Martindale as soon as possible at the beginning of the semester. SDS provides classroom accommodations to all students on campus who disclose a disability, request accommodations, and meet eligibility requirements. SDS will be able to help your student acquire a copy of the CRE book in an appropriate format. The SDS website, http://www.olemiss.edu/depts/sds/SDSFaculty.htm, has some helpful resources for instructors. 
 
+Get Outdoors and Serve
+-----------------------
+
+    *Where does one start to take care of these living things amid the dire and daily news of climate change, and reports of another animal or plant vanishing from the planet*? 
+        --Nezhukumatathil, World of Wonders (159)
+
+Some of the themes present in *World of Wonders* are place, interconnectedness, and being outside. One of the ways these themes intersect at the University of Mississippi and in Oxford is through service. Following are some service opportunities that connect us with others and the great outdoors.
+
+On Campus
+^^^^^^^^^^
+
+In the local community
+^^^^^^^^^^^^^^^^^^^^^^^
+
+In the local community and beyond
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Integrating World of Wonders into EDHE 105/305
+-----------------------------------------------
+The common reading book selection is used each year in EDHE 105/305 courses primarily as a framework for class discussions, projects, and writing assignments that explore social themes and/or issues from the book. EDHE 105/305 instructors use the text (with a focus on those themes and issues) to teach students how to explore their personal reactions, to understand and appreciate both the things that make them different from their peers and the things that they have in common, and to effectively and respectfully voice their own opinions and viewpoints.
+
+Class Discussion/Writing Prompts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Group/Individual Project Assignments
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Class Activities
+^^^^^^^^^^^^^^^^^
+
+Integrating World of Wonders into WRIT 100/101
+-----------------------------------------------
+The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for a major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with outside sources and/or the student’s own ideas. The prompts are intentionally complex to introduce students to the expectations of college thinking and writing. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
+
+Affordances of *World of Wonders*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Discussion Starters
+^^^^^^^^^^^^^^^^^^^^
+
+Critical Thinking Exercises
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Prompts for Reflection
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Essay Prompts
+^^^^^^^^^^^^^^
+
+
+Appendix
+----------
+
