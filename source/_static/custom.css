@@ -123,5 +123,26 @@ background-color: #3498db; padding: 1em; color: white;
 	color: white;
 }
 
+/* (A) FLEXIBLE CONTAINER */
+.cols {
+  display: flex;
+  width: 100%;
+}
+ 
+/* (B) COLUMN WIDTH */
+.colA { width: 50%; }
+.colB { width: 50%; }
+ 
+/* (C) COSMETICS - NOT IMPORTANT */
+.cols div {
+  padding: 5px;
+}
+
+/* (D) RESPONSIVE */
+@media all and (max-width:768px) {
+  .cols { flex-wrap: wrap; }
+  .colA, .colB { width: 100%; }
+}
+
 
 

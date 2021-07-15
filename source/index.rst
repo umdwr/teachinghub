@@ -9,17 +9,24 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
 .. raw:: html
 
-   <a href="hub/syllabi.html"><button class="button">Syllabi and Office Hours</button></a>
+   <div class="cols">
+      <div class="colA">
+      <a href="hub/syllabi.html"><button class="button">Syllabi/Office Hours</button></a>
 
-   <a href="hub/development.html"><button class="button">Professional Development</button>
+      <a href="hub/development/development.html"><button class="button">Professional Development</button></a>
 
-   <a href="hub/observations.html"><button class="button">Observations and Course Reviews</button>
+      <a href="hub/observations.html"><button class="button">Observations/Course Reviews</button></a>
+      </div>
+      <div class="colB">
+      <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
 
-   <a href="hub/uploads.html"><button class="button">Document Uploads</button>
+      <a href="hub/support.html"><button class="button">Technical Support</button></a>
 
-   <a href="hub/support.html"><button class="button">Technical Support</button>
+      <a href="hub/docs.html"><button class="button">Tools/Resources</button></a>
+      </div>
+   </div>
 
-   <a href="hub/docs.html"><button class="button">Tools and Resources</button>
+   <a href="hub/remotesupport.html"><button class="button orangebutton">Remote Support </button></a>
 
 
 .. toctree::
@@ -32,6 +39,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    hub/uploads
    hub/support
    hub/docs
+   hub/remotesupport
 
 
 .. toctree::

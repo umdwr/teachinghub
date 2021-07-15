@@ -22,6 +22,7 @@ The DWR holds Opening Sessions each August and January before the semester begin
 .. toctree::
    :maxdepth: 1
 
+   os/fa21
    os/sp21
    os/fa20
    os/fa16 
