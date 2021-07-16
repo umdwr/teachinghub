@@ -99,4 +99,4 @@ Most Writing 250 teachers agree that regular in-class writing, group work, and e
 
 Grading
 -------
-Rubrics for each project are available in the the `:doc:/alib/writing/writ250>`_. Sharing the rubric with students at the beginning of each unit, and using the rubric to determine the project’s final grade, helps students understand the expectations for each project and the reasons for the final grade. Using the rubric to determine grades also provides consistency across sections of DWR courses. Projects should be graded and returned within one week of submission.
+Rubrics for each project are available in the the :doc:`/alib/writing/writ250`. Sharing the rubric with students at the beginning of each unit, and using the rubric to determine the project’s final grade, helps students understand the expectations for each project and the reasons for the final grade. Using the rubric to determine grades also provides consistency across sections of DWR courses. Projects should be graded and returned within one week of submission.
