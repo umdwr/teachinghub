@@ -11,19 +11,21 @@ Course Design
 -------------
 Writing 250 is designed to continue the learning trajectory students begin in Writing 100/101 and Writing 102. The overall goal of this course is to strengthen the writing and research skills introduced in first-year composition classes so that students can conduct well-organized and -designed research in their major. Writing 250 assignments emphasize documenting sources, maintaining an online portfolio, and analyzing real research results. Students also create a digital presentation in order to gain experience using digital composing tools for writing and presentation.
 
-.. admonition:: Sample Syllabus
+.. admonition:: See Also
 
-    `Sample WRIT 102 Syllabus <https://olemiss.box.com/s/gfo9m67xbyss3vwuvg8q4pivkj99x79d>`__
+    * `Sample WRIT 250 Syllabus <https://olemiss.box.com/s/foc3ybbkd42jx2dfdkg540t6w3xcjvz2>`__
+    * `Sample WRIT 250 Calendar <https://olemiss.box.com/s/e1cheh6acwlirmlqr7p2cdylxax2hf50>`__
+    * `Additional Resources <https://olemiss.box.com/s/6qx4hyqm1gakigt2bk7ytzliyvx8sbb4>`__
 
 Required Texts
 --------------
-
 All WRIT 250 sections use a `custom OER textbook <https://courses.lumenlearning.com/olemiss-writ250/>`_ designed and written by veteran WRIT 250 faculty. 
 
 .. admonition:: See Also
 
     * `Writing and Research in the Disciplines Blackboard Package <https://olemiss.box.com/shared/static/noilqcbqo48ze9ui6ij7jtz0lru6ae2u.zip>`__
     * `Writing and Research in the Disciplines direct link <https://courses.lumenlearning.com/olemiss-writ250/>`__
+
 Assignment Sequence
 -------------------
 Beginning in Spring 2014, all sections of Writing 250 were standardized to include the following assignments: 1) exploratory essay; 2) annotated bibliography; 3) literature review; 4) prospectus; 5) multimodal presentation, and 6) eportfolio final reflection/analysis essay. Classwork, homework, and process writing assignments are distributed through the ePortfolio in a “Research Toolbox” section.
