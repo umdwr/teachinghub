@@ -1,6 +1,12 @@
 ================================
 WRIT 100/101 NYT Curriculum
 ================================
+.. admonition:: See Also
+
+    * Required Text: A semester-long subscription to The New York Times
+    * Optional Text (can be required by instructor): The Writer’s Practice
+    * `Additional Resources <https://olemiss.box.com/s/byuvvayzk4g2qx28i809qpyclfyolxpj>`_ 
+
 .. sidebar:: Contents
 
     .. contents:: 
@@ -8,12 +14,6 @@ WRIT 100/101 NYT Curriculum
         :depth: 1
 
 Welcome to the Writing 100/101 New York Times assignment library. Assignment sheets, rubrics, and student samples are available under each project content area.
-
-.. admonition:: See Also
-
-    * Required Text: A semester-long subscription to The New York Times
-    * Optional Text (can be required by instructor): The Writer’s Practice
-    * `Additional Resources <https://olemiss.box.com/s/byuvvayzk4g2qx28i809qpyclfyolxpj>`_ 
 
 Common Reading Text Project
 ----------------------------

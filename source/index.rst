@@ -60,7 +60,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    guides/continuity 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Assignment Library
 
