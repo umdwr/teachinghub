@@ -21,6 +21,8 @@ The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the
 
     <iframe src="https://app.box.com/embed_widget/s/3n5vql7jl00u1zgrklskwf144gt99jz5?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Analysis
 ---------
 In analysis, students examine an issue or an artifact’s component parts to understand how it makes meaning. The analysis project is usually the hardest project for students because they don’t have much experience with it and have difficulty moving past summary. Analysis is roughly a three-week unit.
@@ -35,6 +37,8 @@ Areas to highlight: Many students are unaccustomed to examining individual parts
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/tqmuzrbjfvznxs4wd5t7rbqinzdvwayl?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+-------------------------------------
 
 Argument
 ---------
@@ -51,6 +55,8 @@ Areas to highlight: Students often need help narrowing a topic to a specific, de
 
     <iframe src="https://app.box.com/embed_widget/s/kw16m6zffkjb30bpgslgfzwwirgdkz1m?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Multimodal
 -----------
 In the multimodal assignment, students re-work or re-think an earlier project in a different mode or medium. Multimodal is roughly a two-week project.
@@ -65,6 +71,8 @@ Areas to highlight: Students often don’t recognize that a change in mode or me
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/5ynzbifr2yn6ue1tv9nxura65ti7dkc0?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+-------------------------------------
 
 Reflection Blog
 ----------------

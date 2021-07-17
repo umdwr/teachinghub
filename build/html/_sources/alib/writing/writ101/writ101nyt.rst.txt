@@ -28,6 +28,8 @@ The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the
 
     <iframe width="100%" height="500" msallowfullscreen="" webkitallowfullscreen="webkitallowfullscreen" allowfullscreen="allowfullscreen" frameborder="0" src="https://app.box.com/embed_widget/s/lqdxw9am62vx6gx1ex4ch1ybmtzsbuzu?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue"></iframe>
 
+-------------------------------------
+
 Analysis
 ---------
 In an analysis, a writer closely examines an issue or an artifact, systematically breaking down and considering the components, as well as the context in which it was constructed, to posit an interpretation or evaluation. This assignment has several flavors based on *The New York Times*.
@@ -40,6 +42,8 @@ In an analysis, a writer closely examines an issue or an artifact, systematicall
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/v2i6x9shcbxpd615jv5t5a1d662mno4v?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen> </iframe>
+
+-------------------------------------
 
 Argument
 ---------
@@ -56,6 +60,8 @@ Areas to highlight: Students often need help narrowing a topic to a specific, de
 
     <iframe src="https://app.box.com/embed_widget/s/yiox66uacz4m6s2qi6s7uo1j82mvgig7?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+-------------------------------------
+
 Multimodal
 -----------
 In a multimodal project, a writer recomposes an earlier project in a different mode. This assignment has several flavors based on *The New York Times*.
@@ -68,6 +74,8 @@ In a multimodal project, a writer recomposes an earlier project in a different m
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/6av0ynjs452nr5f38sqzp4cnr4oz97dl?view=list&amp;sort=name&amp;direction=ASC&amp;theme=blue" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+-------------------------------------
 
 Reflection Blog
 ----------------

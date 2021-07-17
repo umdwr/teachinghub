@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'DWR Teaching Hub'
-copyright = '2021, DWR'
+copyright = '2021, Department of Writing and Rhetoric'
 author = 'DWR'
 
 

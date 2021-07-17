@@ -25,6 +25,8 @@ Areas to highlight: Students often struggle with understanding the difference be
 
     <iframe src="https://app.box.com/embed_widget/s/zjbuiibc3wuxjpshoi1i1zfoeyr8s597?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Annotated Bibliography
 -----------------------
 The second major assignment is an annotated bibliography based on secondary research for the research project students have identified. Students will articulate a topic and rationale in a topic proposal ePortfolio/Research Toolbox assignment around the same time as they are working on the annotated bibliography. For the annotated bibliography, students select 8 to 10 academic or professional research sources and write summaries and evaluations of each source. Students also write an introduction to the bibliography, in which they identify trends or concepts that connect the sources to one another.
@@ -34,6 +36,8 @@ Areas to highlight: Students often struggle with selecting good sources, even th
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/1w9vfz5br3dermx9ike8mzrkt1m3pzui?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+-------------------------------------
 
 Literature Review
 ------------------
@@ -45,6 +49,8 @@ Areas to highlight: Students struggle with synthesis of sources and identifying 
 
     <iframe src="https://app.box.com/embed_widget/s/rce5rll2mb3cygzd0fuekxi3t7mjfgb7?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Prospectus
 -----------
 The Prospectus is the culmination of the research project students have worked on for the entire semester. The prospectus serves as a formal proposal for an original primary research project in the student’s major, based on the research question identified earlier in the semester. In the prospectus, the students combine a condensation of the literature review with a discussion of the results of their small-scale primary research project (mini-pilot or in-class survey), and outline an original study that they have designed to answer their research question.
@@ -55,6 +61,8 @@ Areas to highlight: It helps to describe the prospectus as a sales pitch. Studen
 
     <iframe src="https://app.box.com/embed_widget/s/nh67vo8t566jxpk9i7oz2gwpaks0zcn8?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Multimodal
 -----------
 Students work on the multimodal presentation concurrently with the prospectus. The presentation is the student’s opportunity to “sell” the research project proposed in the prospectus. Students are required to use different modes of expression in assembling the presentation, including video, audio, and handouts. In a face-to-face class, presentations usually take place during the last week of the semester. In an online class, students create recorded versions of their presentation and share on a discussion board.
@@ -64,6 +72,8 @@ Areas to Highlight: Students often don’t recognize that a change in mode or me
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/ebyeikfedv4m3yiyo33m3em13xly367u?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+-------------------------------------
 
 Research Toolbox
 -----------------

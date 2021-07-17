@@ -42,6 +42,8 @@ Areas to highlight: This assignment will help students learn to look closely at 
 
     <iframe src="https://app.box.com/embed_widget/s/bjyjnmigybo63z73kmsforkr9es9w7ed?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="850" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Synthesis
 ---------
 From the `Online Writing Lab at Purdue <https://owl.english.purdue.edu/owl/owlprint/980/>`_, “Synthesize means that you combine information in a way that could coherently and effectively present your ideas or opinions. In some assignments, you will be required to synthesize sources or ideas. This means that you will combine the sources and ideas and organize them in a way that is appropriate and approachable to your readers.”
@@ -64,6 +66,8 @@ The student will:
 
     <iframe src="https://app.box.com/embed_widget/s/wcg42yy5xn87p21461h2c3rzi2s6z6ag?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 In-Class Writing
 -----------------
 The in-class essay is a timed writing exercise where students may do similar work as in papers 1 and 2 in that students might be asked to respond to a particular text or argument or evaluate a text’s argument. This may be related to paper #3, the research paper. The in-class essay is worth 5% of the student’s final grade.
@@ -74,6 +78,8 @@ Areas to highlight: Timed writing can be intimidating to many students. Going ov
 
     <iframe src="https://app.box.com/embed_widget/s/fyc3s0gt0j2cpyv6raymhx7lrf7bu0yl?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Research Paper
 --------------
 Paper #3 is the research paper where students will come up with their research question in the context of the class theme. This paper should be 7-9 pages and use at least seven credible sources. This assignment is worth 20% of the student’s final grade.
@@ -83,6 +89,8 @@ Areas to highlight: This is the most intimidating assignment for students. Many 
 .. raw:: html
 
     <iframe src="https://app.box.com/embed_widget/s/0aez3nvumcim8g7s2o4ip9x452pxsj82?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+-------------------------------------
 
 Multimodal Project
 -------------------
@@ -96,6 +104,8 @@ In general, since this assignment is most often paired with the research papers,
 
     <iframe src="https://app.box.com/embed_widget/s/b2157yk3czzr97cg6oyy7gvjjk3j15kl?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+-------------------------------------
+
 Reflection Blog
 ----------------
 The creflection is a personalized space for recording, organizing, and reflecting on a student’s learning. This semester-long project incorporates daily, weekly, and unit reflections, culminating in a final reflective post (called an epilogue).
@@ -105,6 +115,8 @@ Areas to highlight: Many students will have practiced self-reflection and metaco
 .. raw:: html
     
     <iframe src="https://app.box.com/embed_widget/s/dse1r51o34lg56zpjna3cj8wh9d0lcyx?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+-------------------------------------
 
 Critical Thinking
 ------------------
