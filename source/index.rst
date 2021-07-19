@@ -15,12 +15,12 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
       <a href="hub/development/development.html"><button class="button">Professional Development</button></a>
 
-      <a href="hub/observations.html"><button class="button">Observations/Course Reviews</button></a>
+      <a href="hub/observations/observations.html"><button class="button">Observations/Course Reviews</button></a>
       </div>
       <div class="colB">
       <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
 
-      <a href="hub/support.html"><button class="button">Technical Support</button></a>
+      <a href="hub/support.html"><button class="button">Instructional Support</button></a>
 
       <a href="hub/docs.html"><button class="button">Tools/Resources</button></a>
       </div>
