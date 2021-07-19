@@ -5,6 +5,8 @@
 
 DWR Teaching Hub
 ============================================
+.. Attention:: Welcome to the new iteration of the DWR Teaching Hub. Some content still needs to be migrated, so if you need something that isn't here yet, just contact `Andrew Davis <mailto:addavis@olemiss.edu>`_. 
+
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
 
 .. raw:: html
