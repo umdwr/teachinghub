@@ -1,3 +1,6 @@
 {
+<<<<<<< HEAD
     "restructuredtext.confPath": "${workspaceFolder}\\source"
+=======
+>>>>>>> f8722183c093df640c7b4eb94c862bf79e158717
 }
