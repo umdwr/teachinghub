@@ -12,17 +12,18 @@ Using World of Wonders in the Classroom
 ---------------------------------------
 The Common Reading Experience provides a shared intellectual experience for new members of the UM community. Through reading and considering a common book, new students engage with each other and with UM faculty in exploring issues relevant to today’s global community. The Common Reading Experience helps students understand the expectations of college-level academic work, the nature of scholarly inquiry, and the values of an academic community. The program also enriches new students’ campus experiences through co-curricular programs and events related to the book. The Common Reading Text is used in EDHE classes, Writing 100/101 classes, and other classes on campus. Visit the `Common Reading Experience website <https://umreads.olemiss.edu/>`_ for more information. 
 
-Why does UM have a Common Reading Experience?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-By reading, writing, and learning together through the shared experience of the UM Common Reading Experience, students: 
-* Develop critical thinking, reading, writing, and research skills and abilities 
-* Gain an emerging sense of confidence as learners, thinkers, readers, and writers 
-* Develop a sense of community among peers, neighbors, and instructors 
-* Develop connections among ideas, experiences, disciplines, and academic and personal goals 
-* Relate the issues raised by the common book to their lives as new or returning students.  
+.. admonition:: Why does UM have a Common Reading Experience? 
+
+    By reading, writing, and learning together through the shared experience of the UM Common Reading Experience, students: 
+
+    * Develop critical thinking, reading, writing, and research skills and abilities 
+    * Gain an emerging sense of confidence as learners, thinkers, readers, and writers 
+    * Develop a sense of community among peers, neighbors, and instructors 
+    * Develop connections among ideas, experiences, disciplines, and academic and personal goals 
+    * Relate the issues raised by the common book to their lives as new or returning students.  
 
 Why was *World of Wonders* selected?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *World of Wonders* is a collection of beautifully written and illustrated essays that invite the reader to participate in, marvel at, and reflect on the natural world.  Through its careful consideration of a variety of plants, animals, and places, the book reminds us that we are surrounded by and part of an incredible ecosystem that deserves our attention, awe, and care.  The book has been named the Barnes and Noble Book of the Year 2020 and a NPR Best Book of 2020.  It was a finalist for the Kirkus Prize for Nonfiction.
 
 Who is Aimee Nezhukumatahil?
