@@ -49,6 +49,7 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'logo_only': True,
     'navigation_depth': 5,
+    'analytics_id': 'G-2L56XZ4KKX',  
 }
 
 html_logo = "assets/logo.png"
