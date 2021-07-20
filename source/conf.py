@@ -50,6 +50,7 @@ html_theme_options = {
     'logo_only': True,
     'navigation_depth': 5,
     'analytics_id': 'G-2L56XZ4KKX',  
+    'sticky_navigation': True,
 }
 
 html_logo = "assets/logo.png"
@@ -66,3 +67,4 @@ html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
+
