@@ -50,7 +50,7 @@ html_theme_options = {
     'logo_only': True,
     'navigation_depth': 5,
     'analytics_id': 'G-2L56XZ4KKX',  
-    'sticky_navigation': False,
+    'sticky_navigation': True,
 }
 
 html_logo = "assets/logo.png"
