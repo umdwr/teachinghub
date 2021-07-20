@@ -9,4 +9,5 @@ Writing Courses
     writing/writ101cr
     writing/writ102
     writing/writ102rg
+    writing/writ250
 
