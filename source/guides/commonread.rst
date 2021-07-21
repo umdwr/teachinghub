@@ -196,6 +196,7 @@ Critical Thinking Exercises
     The UM QEP, *Think Forward*, defines critical thinking as the ability to conceptualize problems, gather pertinent information, interpret data, appraise evidence, distinguish diverse points of view, and articulate personal insights, in order to present reasonable and effective arguments, responses, or conclusions.
 
     .. image:: /assets/qep.png
+        :align: center
         :alt: Diagram of the Think Forward QEP Learning outcomes
 
 The small group exercises below help students develop critical thinking skills.
