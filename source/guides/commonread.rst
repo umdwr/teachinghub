@@ -7,7 +7,7 @@ Common Reading Resource Guide
 
     * `World of Wonders Resource Guide (pdf) <https://olemiss.box.com/s/iz4li722p5kqn0rol1sry0f0tbtbzxlc>`__
     * `World of Wonders Resource Guide (docx) <https://olemiss.box.com/s/b0tbypi7xazjfn033bz53f8v7lysjbyz>`__
-    * :doc:`alib/writ101`
+    * :doc:`/alib/writ101`
 
 .. sidebar:: Contents
 
