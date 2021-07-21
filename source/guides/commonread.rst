@@ -52,7 +52,7 @@ Before assigning reading
 * Preview World of Wonders with students. Introduce the book during class. Explain how the book will be used in the course and how it will help students meet learning outcomes. Share your own excitement about the book, perhaps describing some favorite passages, events, or people.
 * Help students understand the depth of reading required. Display a passage, and model critical reading strategies such as text annotation and marginalia.
 
-As students Read
+As students read
 ~~~~~~~~~~~~~~~~~~
 * Provide focused questions for students to consider while they are reading. Ask them to respond to those questions in writing before the next class.
 * Have students identify and submit a discussion topic or question via email or Blackboard after they have read an assignment but before the next class meeting. Use their topics and questions as the basis for class activities.
@@ -187,7 +187,7 @@ In the local community and beyond
     *Suppose that boom shaking in our body can be a physical reminder that we are all connected--that if the cassowary population decreases, so does the proliferation of fruit trees, and, with that, hundreds of animals and insects then become endangered. . . .We are all connected. Boom.*
         --Nezhukumatathil, *World of Wonders* (149)
 
-Another way the themes of place, interconnectedness, and being outside come together is through service with organizations like Habitat for Humanity. In his book *Our Better Angels: Seven Simple Virtues That Will Change Your Life and the World*, Habitat for Humanity CEO Jonathan Reckford writes about community, one of the seven virtues: “When we reach out and become neighbors, when we help one another, we create a better place that supports all of us and lifts us up when we need it most” (47). This is the type of spirit present in so many UM students, people who develop a lifelong passion for the campus and the city of Oxford. Encourage students to learn more about Habitat for Humanity and how they can be a part of changing their lives and the lives of others by reading Reckford’s book and by learning more about the local Habitat for Humanity group here: `https://www.habitat.org/us-ms/oxford/oxford-lafayette-county-hfh <https://www.habitat.org/us-ms/oxford/oxford-lafayette-county-hfh>`__.
+Another way the themes of place, interconnectedness, and being outside come together is through service with organizations like Habitat for Humanity. In his book *Our Better Angels: Seven Simple Virtues That Will Change Your Life and the World*, Habitat for Humanity CEO and UM 2021 Convocation speaker Jonathan Reckford writes about community, one of the seven virtues: “When we reach out and become neighbors, when we help one another, we create a better place that supports all of us and lifts us up when we need it most” (47). This is the type of spirit present in so many UM students, people who develop a lifelong passion for the campus and the city of Oxford. Encourage students to learn more about Habitat for Humanity and how they can be a part of changing their lives and the lives of others by reading Reckford’s book and by learning more about the local Habitat for Humanity group here: `https://www.habitat.org/us-ms/oxford/oxford-lafayette-county-hfh <https://www.habitat.org/us-ms/oxford/oxford-lafayette-county-hfh>`__.
 
 Critical Thinking Exercises
 ----------------------------
