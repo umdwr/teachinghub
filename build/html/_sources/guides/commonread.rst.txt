@@ -1,5 +1,11 @@
+==============================
 Common Reading Resource Guide
-=============================
+==============================
+.. admonition: See Also
+
+    * `World of Wonders Resource Guide (pdf) <https://olemiss.box.com/s/iz4li722p5kqn0rol1sry0f0tbtbzxlc>`__
+    * `World of Wonders Resource Guide (docx) <https://olemiss.box.com/s/b0tbypi7xazjfn033bz53f8v7lysjbyz>`__
+  
 .. image:: /assets/cre-logo.png
 
 .. sidebar:: Contents
@@ -227,7 +233,7 @@ Class Activities
 4. Take your class to a quiet and aesthetically pleasing outdoor spot to sketch, draw, or write in nature. In her `interview <https://www.pw.org/content/world_of_wonders_a_qa_with_aimee_nezhukumatathil>`__ with *Poets and Writers,* Nezhukumatathil says: “I always teach wonder in my writing classes...Of *course* there are difficult days when I don’t feel like drafting a poem or the start of an essay. So think smaller: brick by brick. One line. One anecdote. Make a blank journal a *sky journal*...In it you can record the day/time of your observation of the moon. Or make a cloud report. Describe and/or sketch the clouds...Sketch them. Make a sunset report, even if it is just from your window. What do you hear at sunset? What do you smell? How about at sunrise? And you got it—these are like sports drills...The writing will always come. Sometimes you might need to make other things so the writing can come. But it will come.” Encourage your students to think of an upcoming assignment for any class and then to sketch or draw or write for 20 minutes about anything they see. Afterwards, ask them to revisit the assignment and see if they have any new or creative ideas on how to approach the work.
 
 Integrating *World of Wonders* into WRIT 100/101
------------------------------------------------
+--------------------------------------------------
 The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for a major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with outside sources and/or the student’s own ideas. The prompts are intentionally complex to introduce students to the expectations of college thinking and writing. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
 
 Affordances of *World of Wonders*
