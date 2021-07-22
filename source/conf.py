@@ -53,6 +53,7 @@ html_theme_options = {
     'navigation_depth': 5,
     'analytics_id': 'G-2L56XZ4KKX',  
     'sticky_navigation': True,
+    'prev_next_buttons_location': 'none',
 }
 
 html_logo = "assets/logo.png"
