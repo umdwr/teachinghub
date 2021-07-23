@@ -24,9 +24,8 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    `Download the RhetLab Blackboard Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`__
-
-    Follow these instructions to import the package:
+    Follow these instructions to import the package:    
+    * `Download the RhetLab Blackboard Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`__
 
     **Import**
     
@@ -147,7 +146,7 @@ All of the skills and objectives in the courseware target the first two levels o
 
 .. admonition:: Bloom's Taxonomy of Verbs
 
-    .. image:: assets/blooms.png
+    .. image:: /assets/blooms.png
 
 When we evaluate student writing, we base our assessment on an application of learning objectives from the top three tiers of Bloom’s Taxonomy: Evaluation, Synthesis, and Analysis. For example, when we decide if a student’s thesis statement is “supported by sound reasons” or if it “demonstrates awareness of the depth of the issue,” we’re looking at the student’s application of higher-order critical thinking skills. Are they able to construct a logical thesis that is supported by the right mix of evidence which targets a specific time and an identified audience?
 
