@@ -131,6 +131,8 @@ Here is the full skill map for this question:
    :width: 100%
 
     ============ ===========================================================================================================================================================================================================
+     Level        Outcome  
+    ============ ===========================================================================================================================================================================================================
      Skill        Recognize keys to successful analysis writing, Recognize and evaluate keys to successful, analysis writing.  
      Module       Evaluate keys to successful analysis           
      Course       Exploration and Argumentation: Students will use writing and other modes to analyze texts, explore unfamiliar ideas, engage with thinking different from their own, develop sound arguments, and reflect.
