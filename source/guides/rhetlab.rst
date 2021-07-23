@@ -162,4 +162,4 @@ Take a look at the chart below. It breaks down one of the WRIT 100/101 rubric ca
 
 .. raw:: html
 
-    <iframe src="https://olemiss.app.box.com/embed/s/1i3jt8nq63m7jkmzjpznh527clvl4sl2?sortColumn=date&amp;view=list" allowfullscreen="" webkitallowfullscreen="" msallowfullscreen="" width="800" height="550" frameborder="0"></iframe>
+    <iframe src="https://olemiss.app.box.com/embed/s/1i3jt8nq63m7jkmzjpznh527clvl4sl2?sortColumn=date&amp;view=list" allowfullscreen="" webkitallowfullscreen="" msallowfullscreen="" width="100%" height="550" frameborder="0"></iframe>
