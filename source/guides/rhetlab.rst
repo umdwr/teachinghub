@@ -5,6 +5,7 @@ Teaching with UM RhetLab
 
     .. contents:: 
         :local:
+        :depth: 1
 
 UM students enter Writing 100/101 classes with wide-ranging levels of exposure to rhetorical terms and strategies. UM RhetLab is designed to level the playing field for students by addressing the rhetorical content knowledge that DWR teachers emphasize. RhetLab modules consist of pre-tests, short readings with embedded activities, and end-of-module quizzes. Students work on these modules mostly outside of class, using the personalized learning features of the courseware to address their own needs and to take ownership of their learning. In annual surveys, two-thirds of 100/101 students have reported that the modules have helped them with their larger papers and projects. In this guide you will find best practices for teaching and learning with the Lumen modules.
 
@@ -128,7 +129,7 @@ Here is the full skill map for this question:
 
 .. table:: Skill Map
    :width: 100%
-   
+
     +-----------+------------------------------------------------+
     | Skill     | Recognize keys to successful analysis writing  |
     +-----------+------------------------------------------------+
