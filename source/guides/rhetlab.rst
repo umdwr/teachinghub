@@ -26,7 +26,7 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 .. admonition:: Installation Instructions
 
     Follow these instructions to import the package:
-        
+
     * `Download the RhetLab Blackboard Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`__
 
     **Import**
@@ -128,13 +128,16 @@ This question appears in the analysis module quiz:
 
 Here is the full skill map for this question:
 
-============ ===========================================================================================================================================================================================================
-Level        Outcome  
-============ ===========================================================================================================================================================================================================
-Skill        Recognize keys to successful analysis writing, Recognize and evaluate keys to successful, analysis writing.  
-Module       Evaluate keys to successful analysis           
-Course       Exploration and Argumentation: Students will use writing and other modes to analyze texts, explore unfamiliar ideas, engage with thinking different from their own, develop sound arguments, and reflect.
-============ ===========================================================================================================================================================================================================
+.. table:: 
+    :width: 100%
+
+    ============ ===========================================================================================================================================================================================================
+    Level        Outcome  
+    ============ ===========================================================================================================================================================================================================
+    Skill        Recognize keys to successful analysis writing, Recognize and evaluate keys to successful, analysis writing.  
+    Module       Evaluate keys to successful analysis           
+    Course       Exploration and Argumentation: Students will use writing and other modes to analyze texts, explore unfamiliar ideas, engage with thinking different from their own, develop sound arguments, and reflect.
+    ============ ===========================================================================================================================================================================================================
 
 All of the skills and objectives in the courseware target the first two levels of Bloom’s taxonomy. If we accept the validity of Bloom’s taxonomy, foundational knowledge and comprehension are prerequisite for application, which is in turn prerequisite for analysis, evaluation, and other higher-order knowledge work. Students cannot analyze texts in their own writing until they can evaluate keys to successful analysis. In order to evaluate, they must first recognize those keys.
 
