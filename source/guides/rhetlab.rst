@@ -1,7 +1,7 @@
 =================================
 Teaching with UM RhetLab 
 =================================
-.. sidebar:: 
+.. sidebar:: Contents
 
     .. contents:: 
         :local:
