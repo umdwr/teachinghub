@@ -1,10 +1,11 @@
 =================================
 Teaching with UM RhetLab 
 =================================
-.. sidebar:: 
+.. sidebar:: Contents
 
     .. contents:: 
         :local:
+        :depth: 1
 
 UM students enter Writing 100/101 classes with wide-ranging levels of exposure to rhetorical terms and strategies. UM RhetLab is designed to level the playing field for students by addressing the rhetorical content knowledge that DWR teachers emphasize. RhetLab modules consist of pre-tests, short readings with embedded activities, and end-of-module quizzes. Students work on these modules mostly outside of class, using the personalized learning features of the courseware to address their own needs and to take ownership of their learning. In annual surveys, two-thirds of 100/101 students have reported that the modules have helped them with their larger papers and projects. In this guide you will find best practices for teaching and learning with the Lumen modules.
 
@@ -24,9 +25,9 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    `Download the RhetLab Blackboard Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`__
-
     Follow these instructions to import the package:
+
+    * `Download the RhetLab Blackboard Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`__
 
     **Import**
     
@@ -127,27 +128,22 @@ This question appears in the analysis module quiz:
 
 Here is the full skill map for this question:
 
-+-----------+------------------------------------------------+
-| Skill     | Recognize keys to successful analysis writing  |
-+-----------+------------------------------------------------+
-| Objective | Recognize and evaluate keys to successful      |
-|           | analysis writing                               |
-+-----------+------------------------------------------------+
-| Module    | Evaluate keys to successful analysis           |
-| Outcome   |                                                |        
-+-----------+------------------------------------------------+
-| Course    | Exploration and Argumentation: Students will   |
-| Outcome   | use writing and other modes to analyze texts,  | 
-|           | explore unfamiliar ideas, engage with thinking | 
-|           | different from their own, develop sound        |
-|           | arguments, and reflect.                        |
-+-----------+------------------------------------------------+
+.. table:: 
+    :width: 100%
+
+    ============ ===========================================================================================================================================================================================================
+    Level        Outcome  
+    ============ ===========================================================================================================================================================================================================
+    Skill        Recognize keys to successful analysis writing, Recognize and evaluate keys to successful, analysis writing.  
+    Module       Evaluate keys to successful analysis           
+    Course       Exploration and Argumentation: Students will use writing and other modes to analyze texts, explore unfamiliar ideas, engage with thinking different from their own, develop sound arguments, and reflect.
+    ============ ===========================================================================================================================================================================================================
 
 All of the skills and objectives in the courseware target the first two levels of Bloom’s taxonomy. If we accept the validity of Bloom’s taxonomy, foundational knowledge and comprehension are prerequisite for application, which is in turn prerequisite for analysis, evaluation, and other higher-order knowledge work. Students cannot analyze texts in their own writing until they can evaluate keys to successful analysis. In order to evaluate, they must first recognize those keys.
 
 .. admonition:: Bloom's Taxonomy of Verbs
 
-    .. image:: assets/blooms.png
+    .. image:: /assets/blooms.png
 
 When we evaluate student writing, we base our assessment on an application of learning objectives from the top three tiers of Bloom’s Taxonomy: Evaluation, Synthesis, and Analysis. For example, when we decide if a student’s thesis statement is “supported by sound reasons” or if it “demonstrates awareness of the depth of the issue,” we’re looking at the student’s application of higher-order critical thinking skills. Are they able to construct a logical thesis that is supported by the right mix of evidence which targets a specific time and an identified audience?
 
@@ -159,4 +155,4 @@ Take a look at the chart below. It breaks down one of the WRIT 100/101 rubric ca
 
 .. raw:: html
 
-    <iframe src="https://olemiss.app.box.com/embed/s/1i3jt8nq63m7jkmzjpznh527clvl4sl2?sortColumn=date&amp;view=list" allowfullscreen="" webkitallowfullscreen="" msallowfullscreen="" width="800" height="550" frameborder="0"></iframe>
+    <iframe src="https://olemiss.app.box.com/embed/s/1i3jt8nq63m7jkmzjpznh527clvl4sl2?sortColumn=date&amp;view=list" allowfullscreen="" webkitallowfullscreen="" msallowfullscreen="" width="100%" height="550" frameborder="0"></iframe>

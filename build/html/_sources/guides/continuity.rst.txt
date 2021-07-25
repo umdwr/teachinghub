@@ -5,6 +5,7 @@ Academic Continuity Planning Guide
 
     .. contents::
        :local:
+       :depth: 1
 
 
 Introduction
