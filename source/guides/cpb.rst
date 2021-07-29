@@ -281,7 +281,7 @@ I adore the Commonplace Book, and if you were to mention the CPB to me in passin
 
 Assignments
 -----------------
-Curriculum committees are working to develop Commonplace Book assignments, activities, and materials for each of the first year courses. This content is distributed in the :doc:`Assignment Library </alib/writing>`_ by major course unit. 
+Curriculum committees are working to develop Commonplace Book assignments, activities, and materials for each of the first year courses. This content is distributed in the :doc:`Assignment Library <alib/writing>`by major course unit. 
 
 Resources
 ------------
