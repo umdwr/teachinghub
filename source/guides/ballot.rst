@@ -66,13 +66,15 @@ Anticipated program elements include:
 -  The Power House is an extraordinary and extraordinarily inspiring space, and consistent with YAC’s ethos and commitment to community-based practice to provide a space for informal dialog. Throughout the month of September, we will invite community members, political activists, Republican and Democratic Party volunteers and operatives to community forums and discussions of the issues. When unobtrusive and appropriate we will conduct interviews as well.
 
 Working with YAC and UM, we will continue to design initiatives to engage and involve participants over the spring and summer of 2020. Anticipated audience and participants include YAC attendees and supporters; UM students, faculty; the Republican and Democratic political parties; local political activists; library patrons and civic organizations.
+
 **Project Advisory Board Members**
-Jon Winet: Professor Emeritus and Public Policy Center Fellow, University of Iowa
-Allen Spore: Photographer, Former Americorps Vista for the North Panola School District
-Eric Crystal, PhD: Anthropologist, University of California, Berkeley
-Chris Rossi, PhD: Executive Director Humanities Iowa, University of Iowa
-Sue Ann Skipworth, PhD: Assistant Professor of Political Science, University of Mississippi
-Don Unger, PhD: Assistant Professor of Writing and Rhetoric, University of Mississippi
+
+* Jon Winet: Professor Emeritus and Public Policy Center Fellow, University of Iowa
+* Allen Spore: Photographer, Former Americorps Vista for the North Panola School District
+* Eric Crystal, PhD: Anthropologist, University of California, Berkeley
+* Chris Rossi, PhD: Executive Director Humanities Iowa, University of Iowa
+* Sue Ann Skipworth, PhD: Assistant Professor of Political Science, University of Mississippi
+* Don Unger, PhD: Assistant Professor of Writing and Rhetoric, University of Mississippi
 
 Assignment Ideas
 ------------------
@@ -94,8 +96,6 @@ WRIT 100, WRIT 101, WRIT 102, and SPCH 102
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each of the topics listed below could be included in assignments aimed at informative, argumentative, and scholarly research essays or speeches and approached from multiple perspectives. They could also inform daily writing prompts. In terms of WRIT 102 specifically, these topics might also work for the synthesis assignment.
-.. rubric:: Topics include:
-   :name: topics-include
 
 #. How and when one is eligible to vote (various protections and restrictions)
 #. How one registers to vote (and if this differs by place)
