@@ -106,9 +106,7 @@ Civil Discourse Mini-Unit for First-Year Writing
 
 .. admonition:: See Also
 
-    .. raw:: html
-
-        `Download the Mini-Unit Schedule <https://olemiss.box.com/s/e2xiizli2ztn6jkqefsjz4vikeiugc73>`_
+    `Download the Mini-Unit Schedule <https://olemiss.box.com/s/e2xiizli2ztn6jkqefsjz4vikeiugc73>`_
 
 Other Resources
 -----------------
