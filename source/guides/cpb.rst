@@ -5,7 +5,7 @@ Reflection in First Year Writing
 
     .. contents::
         :local:
-        :depth: 2
+        :depth: 1
 
 
 Since 2010, writing courses at the University of Mississippi have emphasized reflection, revision, and transfer of knowledge.
@@ -196,6 +196,7 @@ Teacher Testimonials
 -----------------------
 .. contents::
    :local: 
+   :depth: 1
 
 Below we share words of advice, reflection, and encouragement from the teachers who piloted the commonplace book curriculum in 2016.  
 
