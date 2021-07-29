@@ -1,17 +1,15 @@
 Teaching Civil Discourse
 ========================
+.. admonition:: See Also
+
+    `Download the PDF of this Guide <https://olemiss.box.com/s/necuj010ooo7ntm9fi324zj8xlz8753l>`_
+
 .. sidebar:: Contents
 
     .. contents:: 
         :local:
         :depth: 1
-
-.. admonition:: See Also
-
-    .. raw:: html
-
-        `Download the PDF of this Guide <https://olemiss.box.com/s/necuj010ooo7ntm9fi324zj8xlz8753l>`_
-
+        
 *Developed in Fall 2018 by: Karen Forgette, Kate Hooper, Rachel Johnson, and Don Unger* 
 
 On March 21, 2019, at 6pm in Fulton Chapel, Alexander Heffner, host of PBS’ ​The Open Mind​, will give a  lecture titled “Politics, Media, and the Future of Civil Discourse.” (For more information about Heffner, check  out `The Open Mind​ website <https://www.thirteen.org/openmind/about-the-host/>`__. We hope to use this lecture to initiate a wider discussion at the University of  Mississippi on the nature of civil discourse and the roles that reading, writing, speaking and listening play in  shaping it. To that end, a group of writing and speech instructors, led by Rachel Johnson, met over fall 2018 to  discuss how the topic enters into our curricula and to develop materials for our spring 2019 courses. This  teaching guide resulted from those meetings. As you are contemplating your syllabi, assignments, readings, and  activities for next spring, we encourage you to use these materials, or others, in order to engage students in  conversations about civil discourse. This first section lists texts on civil discourse and related issues. The list items represent scholarly and popular  press articles, as well as podcasts, websites, and other multimedia that may help shape your knowledge of civil  discourse and/or serve as readings for your courses. We divided this list into categories that reflect some aspects  of the national conversation on civil discourse. These categories include:
