@@ -279,18 +279,10 @@ One Woman’s Perspective on the CPB (Jenny Jackson)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 I adore the Commonplace Book, and if you were to mention the CPB to me in passing, you would be stuck listening to me sing its praises (seriously, feel free to ask me about it). The Wordpress platform is easy to navigate and use and the possibility for students to make their CPBs their own (through theme and design) within Wordpress is more than there. While there is so much to say about how useful and effective the Commonplace book has been for my classes the past two semesters as a space for collecting writing and reflecting upon their work and experiences both inside and outside of the writing classroom (and how useful I believe it will continue to be), what I want to emphasize here to instructors who are about to complete the CPB for the first time is that it can also be fun. Yes, actual fun in the writing classroom. Teacher fun and student fun! One of the best memories I have from class last semester was brought on by a CPB activity thought up collaboratively with my lovely teaching circle. The activity prompted students to make a list of “the top five ways to survive the end of the semester” using only GIFs and to post these lists to the class blog instead of their personal blogs. My students and I were cracking up at GIFs of dogs running in circles or babies making faces at their parents, whatever they found to represent their stress and stress-relief tactics. It was the perfect activity to break up the tension of the end of the semester and to remind students to breathe, laugh, and relate to each other. Yes, the CPB has proven to be to be a great space for students and classes to collect writing and reflection in an organized and manageable way. However, the CPB is also just fun to use and offers opportunities to shake the typical classroom goings-on up a little. That’s what I really love.
 
-Assignments
------------------
-Curriculum committees are working to develop Commonplace Book assignments, activities, and materials for each of the first year courses. This content is distributed in the :doc:`Assignment Library <alib/writing>`_ by major course unit. 
-
 Resources
 ------------
-Readings on Reflection for Instructors
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Start Here!
-^^^^^^^^^^^
-
+Readings on Reflection for Instructors: Start Here!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Yancey, Kathy. Reflection in the Writing Classroom. Utah: Utah State University Press, 1998
 
 -  In this concise, readable book, Yancey explores the role of reflection in enhancing student learning in the writing classroom. Chapters on reflection-in-action, constructive reflection, and reflection-in-presentation detail the many ways reflection can be woven into writing courses and enhance student learning.
