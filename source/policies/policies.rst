@@ -4,7 +4,6 @@ DRW Policies and Procedures
 .. sidebar:: Contents
 
     .. contents:: 
-
         :local:
         :depth: 1
 
