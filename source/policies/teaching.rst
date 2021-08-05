@@ -4,7 +4,7 @@ Teaching Policies
 .. Admonition:: See Also
 
     * `DWR Bylaws <https://olemiss.box.com/s/09ql7cfye6kkkv5a42juyswdo8kn4u07>`__
-    * `2018-2022 Strategic Plan <https://olemiss.box.com/s/tosir7njy2bpzs8cv1mo09q07hrntkzf>`
+    * `2018-2022 Strategic Plan <https://olemiss.box.com/s/tosir7njy2bpzs8cv1mo09q07hrntkzf>`_
 
 .. sidebar:: Contents
 
