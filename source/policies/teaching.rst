@@ -1,6 +1,11 @@
 =====================================
 Teaching Policies
 =====================================
+.. Admonition:: See Also
+
+    * `DWR Bylaws <https://olemiss.box.com/s/09ql7cfye6kkkv5a42juyswdo8kn4u07>`__
+    * `2018-2022 Strategic Plan <https://olemiss.box.com/s/tosir7njy2bpzs8cv1mo09q07hrntkzf>`
+
 .. sidebar:: Contents
 
     .. contents:: 
@@ -64,12 +69,12 @@ Additional Attendance Policy Considerations
 
 Class Cancelation
 ---------------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Class Cancelation
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2018
+:Policy Name: Class Cancelation
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2018
 
 Classes in the DWR should not be canceled if at all possible. In times
 of unavoidable absence, instructors should adhere to the following procedure.
@@ -80,12 +85,12 @@ of unavoidable absence, instructors should adhere to the following procedure.
 
 Disabilities
 ---------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Disabilities
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Sept 2018
+:Policy Name: Disabilities
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Sept 2018
 
 SDS Syllabus Language 
 ~~~~~~~~~~~~~~~~~~~~~~~ 
@@ -101,12 +106,12 @@ The full UM policy on Students with Disabilities can be accessed here: https://p
 
 FERPA
 ------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: FERPA
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Sept 2018
+:Policy Name: FERPA
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Sept 2018
 
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. 
 
@@ -136,12 +141,12 @@ For the UM policy statement on FERPA, visit the UM Office of General Counsel’s
 
 Grades
 -------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Grades
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2018
+:Policy Name: Grades
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2018
 
 The University of Mississippi uses a plus/minus grading system. DWR instructors should use the following grade percentages and post the grade designations on their syllabi. 
 
@@ -181,12 +186,12 @@ Instructor Promotion Policy
 
 Observations
 --------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Observations
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2018
+:Policy Name: Observations
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2018
 
 The DWR maintains a teaching-centered culture and wants every teacher to be successful. As faculty, we learn from each other and share ideas. We value academic freedom, appropriate levels of standardization, research-based pedagogies, and deliberate innovation. We believe teaching can be improved through purposeful reflection. Regular classroom observations help to improve our teaching practices. We learn as much from observing others as we learn from being observed. This ongoing exchange of ideas strengthens our culture by showcasing and improving the unique contributions we each bring to the profession. As a routine of support and collegiality, we expect that teaching observations will protect and enhance our high pedagogical standards. 
 
@@ -224,23 +229,23 @@ Best Practices
 
 Office Hours
 -------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Office Hours
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2018
+:Policy Name: Office Hours
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2018
 
 Teachers in the DWRare expected to hold regular office hours for the purpose of supporting the teaching mission through student conferencing. All teachers are asked to hold a minimum of one weekly office hour per section taught, but no less than two hours per week. Please submit your office hours no later than three working days prior to the first day of classes each semester via the DWR Teaching Hub.
 
 Open Door Policy
 -----------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Open Door Policy
-    :Policy Type: HR
-    :Applies to: All Teachers
-    :Revised: Jan 2019
+:Policy Name: Open Door Policy
+:Policy Type: HR
+:Applies to: All Teachers
+:Revised: Jan 2019
 
 The DWR is committed toopencommunication, feedback, and discussion about any matter of importance to department members.Department members should feel free to contact core faculty, the assistant chair, and/or the chair at any time for instructional guidance. For urgent issues, sensitive matters, or conflicts, faculty should seek out the assistant chair or chair.
 
@@ -248,12 +253,12 @@ Campus-wide, the `UM Ombuds Office <http://ombuds.olemiss.edu/>`_ and `Departmen
 
 Permission to Use Student Work
 -----------------------------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Permission to Use Student Work
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2018
+:Policy Name: Permission to Use Student Work
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2018
 
 Instructors are required to obtain student consent to publish their work, including publishing student writing online, showcasing student work in future classes, or using student work in public instructional materials. A student work release is not required to submit work to the DWR assessment archive or to use in class or for departmental purposes.  
 
@@ -261,12 +266,12 @@ A digital student work release is available.
 
 Persons of Concern
 ----------------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Person of Concern
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Sept 2018
+:Policy Name: Person of Concern
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Sept 2018
 
 A person of concern may be a member of any UM constituency (faculty, staff, or student) dealing with an emotional, psychological, or physical crisis that may interfere with his or her ability to continue attending classes or working at UM.
 
@@ -274,12 +279,12 @@ Instructors who are concerned about the safety or health of a student or colleag
 
 Plagiarism
 -----------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Plagiarism 
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Sept 2018
+:Policy Name: Plagiarism 
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Sept 2018
 
 According to the `UM Academic Catalog <https://catalog.olemiss.edu/academics/regulations/conduct>`_ “in the College of Liberal Arts . . . faculty members handle cases of academic dishonesty in their classes by recommending an appropriate sanction after discussion with the student.  Possible sanctions include: failure on the work in question, retake of an examination, extra work, grade reduction or failure in the course, disciplinary probation, or suspension or expulsion from the university. An appeals process is available to the student.”   
 
@@ -310,23 +315,23 @@ Instructors of speech courses should copy the policy listed below onto their syl
      
 Religious Holidays
 --------------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Religious Holidays
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Sept 2018
+:Policy Name: Religious Holidays
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Sept 2018
 
 Instructors must accept a student’s assertion of the need to be absent from class for religious reasons, but students are required to notify instructors in advance that they will miss class in order to observe a religious holiday. Students shall be temporarily excused from any academic work or examinations conducted during that class and will be provided an opportunity to make up such examination or work requirements which may have been missed because of such absence on any particular day. Unless otherwise stipulated, the work which would have been due during that class will be due during the next regular class meeting. It is the burden of the student to provide the instructor with notification that he or she will miss a class due to observance of any recognized religious holiday. A good resource to research the date(s) of a holiday is https://www.timeanddate.com.
 
 Syllabi
 ----------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Syllabi
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2018
+:Policy Name: Syllabi
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2018
 
 Completed syllabi should be submitted electronically via the DWR Teaching Hub no later than three working days prior to the first day of classes each semester. Instructors can find syllabus templates posted in the DWR teaching guides on the Teaching Hub.
 
@@ -370,12 +375,12 @@ Teachers in the DWR are expected to hold regular office hours for the purpose of
 
 Teaching Development
 --------------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Syllabi
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2019
+:Policy Name: Syllabi
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2019
 
 The DWR is committed to supporting instructors. To that end, the following resources are available: 
 
@@ -399,12 +404,12 @@ Faculty activity reports or portfolios are submitted for the Chair's (or the des
 
 Teaching Hub
 --------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Teaching Hub
-    :Policy Type: Teaching
-    :Applies to: All Teachers
-    :Revised: Aug 2021
+:Policy Name: Teaching Hub
+:Policy Type: Teaching
+:Applies to: All Teachers
+:Revised: Aug 2021
 
 The DWR Teaching Hub includes assignments, rubrics, calendars, and related materials –including various exercises and handouts as well as sample student papers. New assignments are reviewed by the appropriate course committee prior to being added to the hub to ensure they are in accord with DWR learning outcomes and do not duplicate existing assignments. Please contact the appropriate course committee chair or core faculty member to contribute a new resource.
 
