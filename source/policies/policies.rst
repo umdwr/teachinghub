@@ -15,37 +15,37 @@ New Hires whose start date is outside the normal start of the fall semester are 
 
 The term “core staff” is used throughout this document. It refers to the core staff of the Department of Writing and Rhetoric (DWR) and includes the chair, assistant chair, core lecturers & instructors, writing enrichedpa curriculum instructor, instructional design and training specialist, assessment coordinator, administrative coordinator II, and communications specialist. Additionally, there are two graduate assistants who provide support to the administrative staff, answer the main phone line, and greet visitors at the departmental entrance.
 
-ACADEMIC ADVISING
+Academic Advising
 -------------------
 
 Academic advising of students minoring in Professional Writing is handled by one of the core lecturers. Advising of students minoring in Digital Media Studies is done by the director of the interdisciplinary minor, who is also an associate professor of writing and rhetoric. And finally, the advising of students seeking a B.A. in Rhetoric is handled by the assistant chair.
 
 Academic advising of English graduate students, who serve as graduate instructors within the DWR, is handled by the English Department.
 
-AWARDS – TEACHING AND WRITING
+Awards - Teaching and Writing
 -------------------------------
 Each spring semester, the Cynthia Krieser Award for Outstanding Freshman Writing is chosen and announced. At the last DWR faculty meeting of the spring semester, the Kramer Outstanding Teacher Award is presented. And at the first Writing Center staff meeting of the fall semester, the Bae McGruder Award is presented to the Outstanding Writing Consultant for the previous academic year. In the spring of 2020, the DWR Award’s Committee established a speech award and the first winner of the JoAnn Edward’s Outstanding Speech Award was announced in April of 2021.
 
 https://rhetoric.olemiss.edu/awards/
 
-BULLETIN BOARDS AND DIGITAL SIGNAGE
+Bulletin Boards and Digital Signage
 -------------------------------------
 
 The **administrative coordinator** is responsible for maintaining the bulletin boards near the front and back entrances on the first floor of Lamar Hall.
 
 The **communications specialist**, alongside the **assessment** **coordinator**, is responsible to keeping digital signage up and running. While the communications specialist’s main responsibility relates to design and upload of announcements, the assessment coordinator monitors the proper function of the digital signage and the hardware which supports the digital signage. The digital signage system is subject to information security controls as detailed below in that section.
 
-BUILDING DIRECTORIES
+Building Directories
 ------------------------
 
 The **administrative coordinator** is responsible for updating or having a graduate assistant update the Lamar Hall and Somerville Hall building directories. The directory should be updated at the beginning of the fall and spring semesters.
 
-BUILDING MAYOR
+Building Mayor
 -----------------
 
 The **administrative coordinator** serves as building mayor for Lamar Hall. He/She is expected to attend all building mayor meetings as his/her schedule allows. He/She is also responsible for relaying information to Lamar Hall building occupants as recommended by UM officials conducting building mayor meetings.
 
-CALENDARS
+Calendars
 ------------
 
 The **administrative** **coordinator** schedules appointments on the department chair’s calendar. The **communications** **specialist** schedules appointments in the absence of the administrative coordinator. Both the administrative coordinator, the communications specialist, and the two graduate assistants who cover the front desk schedule appointments on the conference room reservation calendars.
@@ -54,24 +54,24 @@ The two **graduate** **assistants** are primarily responsible for booking reserv
 
 Room reservations in Lamar Hall are primarily handled by the administrative coordinator and are only allowed after classes have been scheduled. The type of events needing rooms may include student organization meetings, movie nights, and study sessions for particular student groups on campus. On some occasions, outside organizations are allowed to use available classrooms if the purpose of the meetings promotes the mission of the university.
 
-CORE COURSES AND BEST PRACTICES FOR TEACHING
+Core Courses and Best Practices for Teaching
 ---------------------------------------------
 
 The Dept of Writing and Rhetoric administers the teaching of various Writ, Spch, and DMS courses. The core courses include Writ 100, Writ 101, Writ 102, Writ 250, and Liba 102. These core courses are taught by either lecturers, instructors, adjunct instructors, or graduate instructors. The DWR Opening Session, which is held in August, brings together both returning and new instructors to refresh them or introduce them to best practices in the teaching of Writ and Spch courses. Each year, an updated Best Practices Guide is provided to all instructors and teaching support is provided through the Teaching Hub. A full list of courses taught by the DWR can be found at https://rhetoric.olemiss.edu/courses/
 
-DWR EVENTS
+DWR Events
 -------------
 
 The DWR hosts numerous events each year including, but not limited to, the DWR Opening Session, food-themed guest lecturers, webinars, and teacher development workshops. Dates for most events are usually planned one year in advance so that venues and schedules of speakers can be coordinated and reserved. The **communications specialist** is responsible for scheduling a venue, setting up the room space (including tables/chairs setup), and choosing a caterer when food is being provided. The **administrative coordinator** works closely with the **communications specialist** to provide support for large events such as the DWR Opening Session.
 
 At the request of the **communications specialist,** the **instructional design and training specialist** is responsible for reserving and setting up equipment for DWR events.
 
-EVENT PLANNING
+Event Planning
 ------------------
 
 The **department chair** and the **communications specialist** are responsible for event planning. The **communications specialist** is responsible for entering all DWR courses into SAP and communicating with the Registrar when changes are made after the event planning deadline.
 
-EMPLOYEE RECRUITMENT
+Employee Recruitment
 ----------------------
 
 It is the responsibility of the **administrative coordinator** to assist DWR search committee chairs in executing paperwork to initiate searches for new employees. He/She utilizes the ConnectU recruitment program which collects applications, automatically qualifies or disqualifies candidates, moves candidates through the interview process, and finally moves candidates into a successful or failed hire.
@@ -80,7 +80,7 @@ https://connectu.olemiss.edu
 
 The **administrative coordinator** and **communications specialist** schedule interviews, make hotel reservations, and creates schedules for campus visits. The administrative coordinator initiates Request for Payment paperwork to reimburse candidates for travel expenses after campus visits. The administrative coordinator is also responsible for processing moving expense stipends based on the amount approved by the Director, keeping in mind how much the Provost’s Office will cover.
 
-EMPLOYEE TERMINATIONS - TEMPORARY & PERMANENT
+Employee Terminations - Temporary & Permanent
 ----------------------------------------------
 
 As DWR temporary and permanent employees are terminated from or transferred within the University, the **administrative coordinator** is responsible for completing the appropriate e-form as soon as possible and preferably before the person’s last day of employment to allow ample time for the exit process. It is the responsibility of the administrative coordinator to incorporate calendar reminders in his/her system to ensure that employee terminations or transfers are handled correctly and timely. By the last day of employment, an employee exit interview must be completed by the person’s supervisor so that all UM property including, but not limited to parking hang tags, building/office keys, and computers, laptops, and printers can be returned. The Employee Exit Checklist form must be completed and signed by both the employee who is leaving and their supervisor. This checklist can be found on the Human Resources website or using the following link:
@@ -93,7 +93,7 @@ Since the Employee Exit Checklist requires that any loaned equipment be returned
 
 In addition to the completing the appropriate e-form, the Employee Exit Checklist, and the exit interview, the **administrative coordinator** is also responsible for completing the Online Separation Notification Form, which can be found at https://hr.olemiss.edu/separation-of-employment/
 
-EMPLOYEE TERMINATIONS - STUDENT WORKERS
+Employee Terminations - Student Workers
 -----------------------------------------
 
 Supervisors of student workers, undergraduate and graduate, are required to complete Student Employee Exit Checklists so that keys, equipment, and/or any other UM property can be returned. These forms are to be completed by the supervisor indicated in the chart below no later than the student worker’s last day of employment. E-form 18s, for undergraduate student workers, or e-form 3s, for graduate student workers paid by stipend, must be generated by the e-form generator indicated below.
@@ -116,12 +116,12 @@ The Student Employee Exit Checklist can be found at the following website.
     * `Terminal Interviews <http://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10655844>`__
     * `Student Employee Exit Checklist <https://hr.wp2.olemiss.edu/wp-content/uploads/sites/93/2017/03/StudentExitChecklist.pdf>`_
 
-FACILITIES MANAGEMENT (FM)
+Facilities Management (FM)
 ----------------------------
 
 As building mayor, the **administrative coordinator** is the first point of contact for building staff needing to report repairs or improvements in Lamar Hall. He/She must submit notifications within SAP to the FM for attention. In the absence of the administrative coordinator, the **communications specialist** may submit notifications to FM. All notifications are logged on a central file accessible to both the administrative coordinator and the communications specialist so either of them will have access to all notifications should any of them require further action.
 
-FINANCIALS
+Financials
 --------------
 
 Cash Receipting
@@ -131,7 +131,7 @@ The **communications specialist** receives the funds that come in and immediatel
 
 After $100 worth of payments have been collected, or at least once a week, the **administrative coordinator** will prepare the cash report for the deposit. The funds will be verified by the **communications specialist**. The **department chair** will approve the cash report before it is sent to the Bursar’s office. After the deposit receipt is received from the Bursar, it is stapled to the DWR copy of the cash report, along with copies of the receipt(s) from the University receipt book. Any correspondence accompanying the payment will be stapled to the cash report.
 
-PROCUREMENT
+Procurement
 ~~~~~~~~~~~~
 
 All purchases exceeding $500 must be approved in writing (email) by the **department chair** prior to the **administrative coordinator** or **communications specialist** processing a purchase requisition or paying for commodities/equipment/memberships using the departmental procurement card. Once purchases are made, proper invoices/receipts are retained in the records of the administrative coordinator.
@@ -170,12 +170,12 @@ The **administrative coordinator** is responsible for performing monthly reconci
 
     `Responsibilities of Signatory Officers <https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10645039>`_
 
-GRADUATE ASSISTANTS
+Graduate Assistants
 ---------------------
 
 Two graduate assistants are chosen each fall and spring through a search using the UM’s hiring system, ConnectU. The positions are advertised on the UM Student Employment website and a diverse search committee is formed to conduct the search. These searches are normally chaired by the **administrative coordinator.** These graduate students are hired as administrative assistants and they provide clerical support to the DWR. Their training and supervision is carried out by the **administrative coordinator**.
 
-INFORMATION SECURITY CONTROLS
+Information Security Controls
 -------------------------------
 **Writing and Rhetoric 2021-UM-009**
 
@@ -236,7 +236,7 @@ Each Windows-based computer maintained by the DWR has anti-virus software instal
     * `Information Confidentiality/Security Plan <http://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10654991>`__
     * `IT Appropriate Use <http://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10642998>`__
 
-LONG DISTANCE CALLS
+Long Distance Calls
 ----------------------
 
 The **administrative coordinator** is responsible for circulating the department’s monthly long distance report to all DWR employees who have incurred long distance calls on the department’s behalf. Each employee with long distance calls reviews the report and replies by email with their approval or with any disputes. Email confirmations are saved by the administrative coordinator. After employees have reviewed and approved their call reports, the administrative coordinate reviews the document, adds his/her footer with name and date, and forwards the document by email to the department chair. The department chair then reviews and replies by email if he/she has any questions. If he/she approves, that response is saved in the administrative coordinator’s email.
@@ -245,12 +245,12 @@ The **administrative coordinator** is responsible for circulating the department
 
     `Long Distance Authorization Codes <https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10643077>`_
 
-MAILBOXES FOR INSTRUCTORS
+Mailboxes for Instructors
 ----------------------------
 
 The **administrative coordinator** is responsible for establishing mailboxes for staff and instructors in Somerville Hall. In mid-August, new adjunct instructors and other new instructors’ names are added at the end of the mailboxes; alphabetizing and name removals do not take place until the semester has gotten underway due to the high chance of continuous changes (additions/deletions). Two weeks into the fall semester, the administrative coordinator asks one of the graduate assistants to reorganize the mailboxes by removing employees who have been terminated or transferred and notifying them that the DWR is holding their mail. The graduate assistant then alphabetizes the mailboxes after new hires are firmly in place.
 
-PAYROLL PROCESS
+Payroll Process
 ----------------
 
 Compensatory Time Balances and Overtime Pay
@@ -300,12 +300,12 @@ Timesheets are maintained within the department for a minimum of seven (7) years
 
     `Departmental Time Record <https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10659134>`_
 
-PERFORMANCE EVALUATIONS
+Performance Evaluations
 -------------------------
 
 The **department chair** is responsible for conducting annual performance evaluations of staff and faculty within the DWR. Evaluations are conducted according to University protocol.
 
-PROPERTY MANAGEMENT
+Property Management
 ---------------------
 
 Copy Machine and Toner Management
@@ -336,22 +336,22 @@ Paper Products & Office Supply Management
 
 The **communications specialist** is responsible for ordering DWR stationary, envelopes, and note cards. The administrative coordinator is also responsible for maintaining office supplies by either purchasing them at competitive prices from the Ole Miss Bookstore or from a state contract vendor.
 
-REGISTRATION - DWR COURSES
+Registration - DWR Courses
 ------------------------------
 
 The **administrative coordinator** and **communications specialist** are the DWR contacts for students needing help registering for DWR courses. If a student has transfer credit, which has not posted; AP credit, which has not posted; or if they want to take the CLEP test to “CLEP out” of Writ 101 and/or Writ 102, the administrative coordinator or the communications specialist will assist them and keep a log of any manual conditional bookings which he/she executes on behalf of students waiting to receive credit. The administrative coordinator will follow-up with these students and advise them of their responsibilities regarding adequate documentation for fulfilling prerequisites.
 
-SOFTWARE
+Software
 -----------
 
 The **administrative coordinator** is responsible for ordering software available in the Faculty Technology Development Center by using FTDC’s online ordering system. These purchases are logged onto a shared file entitled, “LOG Software Installation” and the following information is included for each license purchased: a) Property number of machine, b) Description of machine, c) user of machine at time of installation, d) software description, e) cost, f) account number charged, g) installation date, h) installer, i) software security number (key code) if applicable. In the absence of the Administrative Coordinator, the Communications Specialist may make these online purchases. Prices offered by the FTDC are generally the lowest available. However, in some instances, software must be purchased from outside vendors. Software from online sources is generally purchased by the **administrative coordinator** using the procurement card. In his/her absence, the software may be purchased by the **communications specialist** using the procurement card.
 
-TEACHER RESOURCES
+Teacher Resources
 --------------------
 
 Various resources are available to instructors in the Teaching Hub, which can be found at https://hub.cwr.olemiss.edu/ including, but not limited to, teaching guides, the assignment library, policies, and reporting procedures. This site stores and/or collects course syllabi, office hours, release forms, teaching observations, and other tools and resources.
 
-TRAVEL
+Travel
 -------
 
 When new, full-time DWR employees are hired and their job descriptions allow travel, the **administrative coordinator** is responsible for meeting with them and reviewing the university’s travel policies within their first 60 days of employment. Adjunct instructors who request and are granted travel support by the department chair of DWR are directed to the university’s travel web site and are assisted, as needed.
@@ -371,7 +371,7 @@ Copies of all travel authorizations and vouchers with the department chair’s s
     * `Travel Authorization Policy <https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10648385>`_
     * `Travel Reimbursement Policy <https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10648384>`_
 
-WEBSITE
+Website
 -----------
 
 The **instructional design and training specialist** is responsible for the design and maintenance of the DWR website. Overall supervision of the website rests with the **department chair**.
