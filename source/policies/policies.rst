@@ -373,5 +373,14 @@ Copies of all travel authorizations and vouchers with the department chair’s s
 
 Website
 -----------
-
 The **instructional design and training specialist** is responsible for the design and maintenance of the DWR website. Overall supervision of the website rests with the **department chair**.
+
+.. Admonition:: Annual Policy Acknowledgement 
+
+     All current DWR employees must digitally acknowledge the DWR Policies and Procedures annually by August 31. New employees should acknowledge the policy upon beginning work for the DWR. 
+ 
+          .. raw:: html
+
+            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UODFLMkdBRFc0WVcxWlVESzdBOTFCMUFYUCQlQCN0PWcu><button class="button">Acknowledge</button></a>
+            <br>
+            <br>
