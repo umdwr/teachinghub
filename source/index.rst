@@ -18,6 +18,8 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       <a href="hub/development/development.html"><button class="button">Professional Development</button></a>
 
       <a href="hub/observations/observations.html"><button class="button">Observations/Course Reviews</button></a>
+
+      <a href="hub/releases.html"><button class="button">Release Forms</button></a>
       </div>
       <div class="colB">
       <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
@@ -25,10 +27,12 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       <a href="hub/support.html"><button class="button">Instructional Support</button></a>
 
       <a href="hub/docs.html"><button class="button">Tools/Resources</button></a>
+      
+      <a href="hub/remotesupport.html"><button class="button orangebutton">Remote Support</button></a>
       </div>
    </div>
 
-   <a href="hub/remotesupport.html"><button class="button orangebutton">Remote Support </button></a>
+
 
 
 .. toctree::
