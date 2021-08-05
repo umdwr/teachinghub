@@ -24,7 +24,6 @@ Academic advising of English graduate students, who serve as graduate instructor
 
 AWARDS – TEACHING AND WRITING
 -------------------------------
-
 Each spring semester, the Cynthia Krieser Award for Outstanding Freshman Writing is chosen and announced. At the last DWR faculty meeting of the spring semester, the Kramer Outstanding Teacher Award is presented. And at the first Writing Center staff meeting of the fall semester, the Bae McGruder Award is presented to the Outstanding Writing Consultant for the previous academic year. In the spring of 2020, the DWR Award’s Committee established a speech award and the first winner of the JoAnn Edward’s Outstanding Speech Award was announced in April of 2021.
 
 https://rhetoric.olemiss.edu/awards/
