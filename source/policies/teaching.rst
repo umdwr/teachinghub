@@ -9,12 +9,12 @@ Teaching Policies
 
 Assessment 
 -----------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Assessment
-    :Policy Type: Teaching
-    :Applies to: WRIT Faculty
-    :Revised: Aug 2016
+:Policy Name: Assessment
+:Policy Type: Teaching
+:Applies to: WRIT Faculty
+:Revised: Aug 2016
 
 We require all W&R teachers to collect major assignments from their classes in an electronic format for purposes of assessment. The QEP directs the W&R to collect materials from WRIT 100/101/102 and WRIT 250 courses and to assess annually whether curricular changes are meeting learning outcomes. In order to fulfill this directive, we need materials from all classes currently taught.The assessment is for course and assignment changes, not an assessment of individual instructors. All identifying marks (including the names of instructors) will be removed from student work. As an internal assessment, student permission need not be asked unless we publish orpresent specifics from this study. Such permission will be asked for if the need arises.
 
@@ -22,12 +22,12 @@ For instructions on how to download student essay files and transmit them to the
 
 Attendance Policy for First-Year Writing
 -----------------------------------------
-.. policy fields
+.. policy fields:
 
-    :Policy Name: Attendance Policy for First-Year Writing
-    :Policy Type: Teaching
-    :Applies to: WRIT Faculty
-    :Revised: May 2019
+:Policy Name: Attendance Policy for First-Year Writing
+:Policy Type: Teaching
+:Applies to: WRIT Faculty
+:Revised: May 2019
 
 Instructors should regularly take attendance in all DWR courses. 
 
