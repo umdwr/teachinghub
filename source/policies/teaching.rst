@@ -11,7 +11,7 @@ The DWR Teaching Policy directory contains all policies related to teaching Writ
 
 The purpose of these policies and procedures is to improve the teaching and learning of writing and speech, and in the event of any ambiguity, decisions should be made in light of this common goal.
 
----------------------------
+The details box for each polocy includes the type of policy, its audience, and the date of its last revision. Non-teaching policies are located in :doc:`policies/policies`.  
 
 Assessment 
 -----------
@@ -26,7 +26,7 @@ Assessment
 
 We require all W&R teachers to collect major assignments from their classes in an electronic format for purposes of assessment. The QEP directs the W&R to collect materials from WRIT 100/101/102 and WRIT 250 courses and to assess annually whether curricular changes are meeting learning outcomes. In order to fulfill this directive, we need materials from all classes currently taught.The assessment is for course and assignment changes, not an assessment of individual instructors. All identifying marks (including the names of instructors) will be removed from student work. As an internal assessment, student permission need not be asked unless we publish orpresent specifics from this study. Such permission will be asked for if the need arises.
 
-For instructions on how to download student essay files and transmit them to the W&R for program assessment, go to :doc: `hub/uploads` 
+For instructions on how to download student essay files and transmit them to the W&R for program assessment, go to :doc:`hub/uploads` 
 
 Attendance Policy for First-Year Writing
 -----------------------------------------
