@@ -78,6 +78,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
    policies/policies.rst
    policies/infosec.rst
+   policies/teaching.rst
 
 .. toctree::
    :maxdepth: 2
