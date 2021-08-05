@@ -7,7 +7,9 @@ Teaching Policies
         :local:
         :depth: 1
 
-The DWR Teaching Policy directory contains all policies related to teaching Writing and Speech classes at the University of Mississippi. Some of these policies include passages that should be included verbatim in each syllabus; in other instances there are suggestions for how teachers should address particular issues. 
+The DWR Teaching Policy directory contains all policies related to teaching Writing and Speech classes at the University of Mississippi. 
+
+Some of these policies include passages that should be included verbatim in each syllabus; in other instances there are suggestions for how teachers should address particular issues. 
 
 In every case, these policies are supported by the Chair, Assistant Chair, and the Core Faculty, who are available to handle questions and provide further interpretations.
 
