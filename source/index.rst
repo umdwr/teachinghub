@@ -42,6 +42,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    hub/syllabi
    hub/development/development
    hub/observations/observations
+   hub/releases
    hub/uploads
    hub/support
    hub/docs
