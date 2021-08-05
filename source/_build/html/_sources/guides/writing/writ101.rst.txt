@@ -22,7 +22,7 @@ placed into either course by test score or writing sample.
 
     * `Standard Curriculum <https://olemiss.box.com/s/vup4xmyxqyj91vled0z39ci3zi0a4rba>`__
     * `NYT Curriculum <https://olemiss.box.com/s/59p9icokrrwcsl2uavz63joypfoegwfm>`__
-    * `NPT Curriculum <https://olemiss.box.com/s/xwbw1l8fptkvjjxmil2szrkiof64aity>`__
+    * `NPR Curriculum <https://olemiss.box.com/s/xwbw1l8fptkvjjxmil2szrkiof64aity>`__
 
 Required Texts
 --------------
