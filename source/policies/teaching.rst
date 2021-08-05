@@ -14,7 +14,7 @@ Teaching Policies
 
 Assessment 
 -----------
-.. admononition:: Details
+.. Admonition:: Details
 
     .. policy fields:
 
@@ -29,7 +29,7 @@ For instructions on how to download student essay files and transmit them to the
 
 Attendance Policy for First-Year Writing
 -----------------------------------------
-.. admononition:: Details
+.. Admonition:: Details
 
     .. policy fields:
 
@@ -73,7 +73,7 @@ Additional Attendance Policy Considerations
 
 Class Cancelation
 ---------------------
-.. admononition:: Details
+.. Admonition:: Details
 
     .. policy fields:
 
