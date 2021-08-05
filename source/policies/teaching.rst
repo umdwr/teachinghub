@@ -47,19 +47,21 @@ Instructors should regularly take attendance in all DWR courses.
 
 In the case of first-year writing courses, instructors should follow the policy below: 
 
-    Students are expected to attend all class meetings; improving writing skills takes time, and is a process unlike learning content alone. In acknowledgment of the fact that students may experience some circumstances which prevent complete attendance, the following policy is in effect: 
+Students are expected to attend all class meetings; improving writing skills takes time, and is a process unlike learning content alone. In acknowledgment of the fact that students may experience some circumstances which prevent complete attendance, the following policy is in effect: 
 
-    **MWF Courses** 
-    * 5 days missed: final course grade lowered by one letter grade. 
-    * 6 days missed: final course grade lowered by two letter grades. 
-    * 7 days missed: final course grade lowered by three letter grades. 
-    * 8 days missed: failure. 
+**MWF Courses** 
 
-    **T/TH and M W Courses** 
-    * 4 days missed: final course grade lowered by one letter grade. 
-    * 5 days missed: final course grade lowered by two letter grades. 
-    * 6 days missed: final course grade lowered by three letter grades. 
-    * 7 days missed: failure. 
+* 5 days missed: final course grade lowered by one letter grade. 
+* 6 days missed: final course grade lowered by two letter grades. 
+* 7 days missed: final course grade lowered by three letter grades. 
+* 8 days missed: failure. 
+
+**T/TH and M W Courses** 
+
+* 4 days missed: final course grade lowered by one letter grade. 
+* 5 days missed: final course grade lowered by two letter grades. 
+* 6 days missed: final course grade lowered by three letter grades. 
+* 7 days missed: failure. 
 
 There will be no excused or unexcused absences. 
 
