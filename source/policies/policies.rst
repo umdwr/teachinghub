@@ -375,7 +375,10 @@ Website
 -----------
 The **instructional design and training specialist** is responsible for the design and maintenance of the DWR website. Overall supervision of the website rests with the **department chair**.
 
-.. Admonition:: Annual Policy Acknowledgement 
+Annual Policy Acknowledgement
+-------------------------------
+
+.. Important:: 
 
      All current DWR employees must digitally acknowledge the DWR Policies and Procedures annually by August 31. New employees should acknowledge the policy upon beginning work for the DWR. 
  

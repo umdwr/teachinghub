@@ -90,8 +90,10 @@ At present, only three cloud storage options are approved and supported by UM:
 
     **Windows Users**: If you sign in to a Windows device with a personal Microsoft account, `make sure to *disable* backups <https://support.microsoft.com/en-us/office/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057>`_ of work-related folders to your personal OneDrive Account. Instead, `*add* your @olemiss.edu Micrsoft Account to Windows <https://support.microsoft.com/en-us/windows/add-or-remove-accounts-on-your-pc-104dc19f-6430-4b49-6a2b-e4dbd1dcdf32>`_ and enable backups to your OneDrive for Business (@olemiss.edu) account. 
 
+Annual Policy Acknowledgement 
+------------------------------
 
-.. Admonition:: Annual Policy Acknowledgement 
+.. Important:: 
 
     All current DWR employees must digitally acknowledge the Information Security Policy annually by August 31. New employees should acknowledge the policy upon beginning work for the DWR. 
 
