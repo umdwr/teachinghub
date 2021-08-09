@@ -12,8 +12,8 @@ One of the objectives in the DWR’s 2018-2022 Strategic Plan is to “Support F
    :maxdepth: 1
 
    ceg/cegcfp
-   ceg/ceg2021
    ceg/ceg2020
+   ceg/ceg2019
 
 Opening Session 
 ---------------
