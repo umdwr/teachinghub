@@ -28,4 +28,6 @@ Frequently Requested Documents
 --------------------------------
 The Box folder below contains frequently requested DWR and university documents for download. To recommend a document for this folder, contact `Joanne Mitchell <mailto:jsmitch1@olemiss.edu>`_.
 
-<iframe src="https://olemiss.app.box.com/embed/s/1mb0kj3cezz2bcm85fuim1uxv7ffuany?showItemFeedActions=false&amp;showParentPath=false&amp;sortColumn=date&amp;view=list" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+.. raw:: html
+
+    <iframe src="https://olemiss.app.box.com/embed/s/1mb0kj3cezz2bcm85fuim1uxv7ffuany?showItemFeedActions=false&amp;showParentPath=false&amp;sortColumn=date&amp;view=list" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
