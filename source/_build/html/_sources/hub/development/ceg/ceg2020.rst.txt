@@ -1,5 +1,5 @@
 =======================================
-2019 Course Enhancement Grant Workshops
+2020-2021 Course Enhancement Grant Workshops
 =======================================
 One of the objectives in the DWR’s 2018-2022 Strategic Plan is to “Support Faculty and Staff Development and Promote Teaching Excellence.” DWR course enhancement grants are available to support continuous improvement and professional development for our teaching faculty. The year’s workshops are held online and recordings of each will be posted to this page.
 
@@ -7,16 +7,13 @@ One of the objectives in the DWR’s 2018-2022 Strategic Plan is to “Support F
 
 LaToya Faulk
 -------------
-.. sidebar:: Faulk
-
-    .. image:: /assets/faulk.jpg
 
 .. workshop fields:
 
 :Title: Essay Writing at The Sentence Level
 :Presenter: LaToya Faulk
 :Date: April 29, 4:00 – 5:00 CDT
-:Description: Utilizing Nora Bacon’s *The Well-Crafted Sentence: A Writer’s Guide to Style*, LaToya Faulk’s workshop will detail results from two in-class activities implemented in WRIT 100 and WRIT 101 which emphasized attention to a diversity of well-conceived sentence structures in the writing process. Additional attention to voice, style, and tone—specifically as it relates to both (1) helping students establish working writing identities, and (2) analyzing the sentence structures of published writers in order to compare and closely identity a multitude of voices, styles, and tones which can then be emulated or drawn from in students’ own writing—were also implemented in the writing process as developmental strategies to improve students’ development of ideas at the sentence level. Conclusively, this workshop will outline course strategies while also provide an overview of scholarship supporting pedagogical practices that encourage attention to voice and style as elements of craft in the writing process
+:Description: Utilizing Nora Bacon’s *The Well-Crafted Sentence: A Writer’s Guide to Style*, LaToya Faulk’s workshop will detail    results from two in-class activities implemented in WRIT 100 and WRIT 101 which emphasized attention to a diversity of well-conceived sentence structures in the writing process. Additional attention to voice, style, and tone—specifically as it relates to both (1) helping students establish working writing identities, and (2) analyzing the sentence structures of published writers in order to compare and closely identity a multitude of voices, styles, and tones which can then be emulated or drawn from in students’ own writing—were also implemented in the writing process as developmental strategies to improve students’ development of ideas at the sentence level. Conclusively, this workshop will outline course strategies while also provide an overview of scholarship supporting pedagogical practices that encourage attention to voice and style as elements of craft in the writing process
 :Access: `View the Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d570a514-2185-4a46-a394-ad190168b046>`__
 
 
@@ -24,9 +21,6 @@ LaToya Faulk
 
 Marc Watkins
 -------------
-.. sidebar:: 
-
-    :image: /assets/marc.jpg
 
 .. workshop fields:
 
@@ -41,9 +35,6 @@ Marc Watkins
 
 Alice Myatt
 -------------
-.. sidebar:: 
-
-    :image: /assets/myatt.jpg
 
 .. workshop fields:
 
@@ -57,26 +48,19 @@ Alice Myatt
 
 Tyler Gillespie
 ----------------
-.. sidebar:: 
-
-    :image: /assets/tyler.jpg
 
 .. workshop fields:
 
 :Title: Toward an Antiracist Writing Assessment Ecology in First-Year Writing
 :Presenter: Tyler Gillespie
 :Date: February 11, 1:00 – 2:00 CST
-:Description: Asao Inoue asserts conventional writing assessments privilege the white, middle- and upper-class students historically aligned with academic discourse. To combat inequity, Inoue says instructors should adjust “our assessment systems to favor labor over the gifts of racial habitus.” In fall 2020, Tyler Gillespie adapted Asao Inoue’s labor-based contract grading for his Writ 101 classes, and he will discuss the framework, planning, strategies, implementation, and student feedback
-| in this presentation.
+:Description: Asao Inoue asserts conventional writing assessments privilege the white, middle- and upper-class students historically aligned with academic discourse. To combat inequity, Inoue says instructors should adjust “our assessment systems to favor labor over the gifts of racial habitus.” In fall 2020, Tyler Gillespie adapted Asao Inoue’s labor-based contract grading for his Writ 101 classes, and he will discuss the framework, planning, strategies, implementation, and student feedback in this presentation.
 :Access: `View the Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44f4c2d8-87b6-4ec6-b4c3-accc014dcbfe>`__
 
 --------------
 
 Tori Brown
 --------------
-.. sidebar:: 
-
-    :image: /assets/tori.jpg
 
 .. workshop fields:
 
@@ -91,12 +75,6 @@ Tori Brown
 
 Trey Bagwell and Jeanine Rauch
 ---------------------------------
-.. sidebar:: 
-
-    :image: /assets/trey.jpg
-
-    :image: /assets/jeanine.jpg
-
 .. workshop fields:
 
 :Title: Combatting Transfer Shock: Improving WRIT 250 for Transfer and Non-Traditional Students
