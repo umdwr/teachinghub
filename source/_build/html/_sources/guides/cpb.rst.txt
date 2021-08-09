@@ -41,7 +41,7 @@ one).
 
 To activate your class blog, go to
 the dashboard of the site you want to use as your class blog (probably
-your default site) and click **My Class** and **Create a Class. ** On
+your default site) and click **My Class** and **Create a Class.** On
 the Settings page, check the box next to **This is a class blog.** This
 will enable the rest of the settings and options for the Classes plugin.
 Here is an explanation of each one:
@@ -116,8 +116,8 @@ in the section and their usernames. Click and drag to select all the
 usernames in your class, and copy them to your clipboard (Ctrl/Cmd + C).
 
 
-**Now, log in to Edblogs at
-`edblogs.olemiss.edu <http://edblogs.olemiss.edu>`__**. Go to your
+**Now, log in to Edblogs** at
+`edblogs.olemiss.edu <http://edblogs.olemiss.edu>`__. Go to your
 WordPress dashboard. You should see the Reader. Notice "My Lists" in the
 right sidebar.
 
@@ -141,7 +141,7 @@ classes separated.
 For Students
 ~~~~~~~~~~~~
 Student instructions are available on the `student startup
-page <http://edblogs.olemiss.edu/getting-started/>`__\ of
+page <http://edblogs.olemiss.edu/getting-started/>`__ of
 edblogs.olemiss.edu.
 
 Edblogs Requests
