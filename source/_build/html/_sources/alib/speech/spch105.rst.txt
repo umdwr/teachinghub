@@ -1,6 +1,6 @@
-===========
-SPCH 105
-========
+===============================
+SPCH 105 Assignment Library
+===============================
 .. admonition:: See Also
 
     :doc:`SPCH 105 Teaching Guide </guides/speech/spch105>`

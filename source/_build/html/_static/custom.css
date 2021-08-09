@@ -1,3 +1,10 @@
+/* override table no-wrap */
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+  white-space: normal;
+}
+
+
 button {
 
 }
@@ -145,7 +152,3 @@ background-color: #3498db; padding: 1em; color: white;
 }
 
 
-/* override table no-wrap */
-.wy-table-responsive table td, .wy-table-responsive table th {
-    white-space: normal;
-}
