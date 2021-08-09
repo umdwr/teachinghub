@@ -1,6 +1,6 @@
-==========
-SPCH 102
-========
+===============================
+SPCH 102 Assignment Library
+===============================
 .. admonition:: See Also
 
     :doc:`SPCH 102 Teaching Guide </guides/speech/spch102>`
