@@ -16,7 +16,7 @@ Observation Forms
     Please select the observation type to submit an observation report. For the Short Narrative, faculty members should submit a pre-observation form in advance of the scheduled observation date. 
 
     * `Observation Checklist <https://example.com>`_
-    * `Short Narrative Pre-Observation <https://example.com>`_
+    * `Short Narrative Pre-Observation <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1URTNPUllMNjRBTEIwSlRFUlA0QktNQjBJWCQlQCN0PWcu>`_
     * `Short Narrative Post-Observation <https://example.com>`_
 
 
