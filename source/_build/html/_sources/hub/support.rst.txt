@@ -11,7 +11,7 @@ This section of the Teaching Hub provides guides and resources to support good p
 
 Blackboard Templates
 ---------------------
-The WRIT 100/101 Blackboard template provides a pre-developed course structure, major assignments, and grade center configuration for the standard, NYT, and NPR curriculum options. It is designed to accommodate fully-online, remote, and hybrid course modalities and is fully customizable once added to a course. The Opening Session workshop, below, provides a full walk-through of the template features. You should watch this workshop session before you decide to adopt the template.
+The WRIT 100/101 Blackboard template provides a pre-developed course structure, major assignments, and grade center configuration for the standard, NYT, and NPR curriculum options. It is designed to accommodate face-to-face and web modalities and is fully customizable once added to a course. 
 
 The template is designed to save you time and headaches and to provide a consistent experience for students. If you would rather build your Blackboard shell from scratch, you’re free to do so.
 

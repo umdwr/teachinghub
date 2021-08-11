@@ -25,7 +25,7 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    * `Download the Fall 2021 RhetLab Blackboard Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip`_
+    * `Download the Fall 2021 Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`_
 
     **Import**
     
