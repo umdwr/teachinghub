@@ -33,6 +33,8 @@ Log in to your Blackboard course. Below the main course navigation, select **“
 
     "Import Package" Button 
 
+-------------
+
 Upload the .zip Blackboard package you downloaded earlier by clicking “Browse my Computer.” You’ll know you have successfully uploaded the package if you see the file name **“WRIT100-101 Template.zip”**
 
 .. Important:: 
@@ -58,5 +60,24 @@ Click the check boxes next to the following items to import:
 * Rubrics
 * Settings (automatically checks “Banner Image” and “Navigation Settings)
 * Tests, Surveys, and Pools
-* Click Submit when you’re done.
 
+Click **Submit** when you’re done.
+
+Cleaning Up
+~~~~~~~~~~~~~
+All of the Blackboard menu items in your course before the import will still be there when it’s finished. You should delete all menu items except the following:
+
+* Announcements
+* My Grades
+* Welcome
+* About this Course
+* Current Week
+* Course Content
+* Major Assignments
+* Reflection Blog
+* Additional Resources
+* Panopto Video
+* RhetLab Dashboard
+* UM Writing Centers
+
+Feel free to reorder or rename these items as you wish.

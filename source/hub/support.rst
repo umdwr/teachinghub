@@ -63,16 +63,8 @@ Click the check boxes next to the following items to import:
 
 Click **Submit** when you’re done.
 
-------------
-
 Cleaning Up
 ~~~~~~~~~~~~~
-.. sidebar:: Blackboard Menu
-
-    .. figure:: /assets/bb/5.png
-
-    Remove and reorder links in the menu based on your preferences. 
-
 All of the Blackboard menu items in your course before the import will still be there when it’s finished. You should delete all menu items except the following:
 
 * Announcements
