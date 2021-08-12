@@ -4,8 +4,6 @@ Teaching with UM RhetLab
 .. sidebar:: Contents
 
     .. image:: /assets/oer-logo.png 
-        :height: 150px
-        :width: 150px
         :align: center
         :alt: Locally Made OER Courseware Logo
 
