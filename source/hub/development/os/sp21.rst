@@ -1,7 +1,7 @@
 ============================
 Spring 2021 Opening Sessions
 ============================
-.. image:: /assets/os-sp21.JPG
+.. image:: /assets/os-sp21.jpg
     :alt: Writing and Rhetoric: Spring Opening Session, helping out students flourish
 
 The Spring 2021 Opening Session included synchronous and asynchronous components. On-Demand sessions were developed and recorded by DWR faculty and uploaded for Panopto for teachers to access at any time.
