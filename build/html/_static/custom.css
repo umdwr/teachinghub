@@ -150,8 +150,3 @@ background-color: #3498db; padding: 1em; color: white;
   .cols { flex-wrap: wrap; }
   .colA, .colB { width: 100%; }
 }
-
-/* increase max page width */
-.wy-nav-content {
-    max-width: 1200px !important;
-    }
