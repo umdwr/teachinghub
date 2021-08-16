@@ -24,8 +24,10 @@ On-Demand Sessions
 -------------------
 On-demand workshop sessions will be available on-demand starting Wednesday August 18. 
 
-=================================================================================================================== ===========
-Description                                                                                                         Access
-=================================================================================================================== ===========
-**Updates to the Teaching Hub**: Review updates to TH, editing/adding, uploading syllabi, new observation workflow. Coming Soon
-=================================================================================================================== ===========
+=================================================================================================================== ========================================================================================== ===============================================================================================================================
+Description                                                                                                         Presenter                                                                                  Access
+=================================================================================================================== ========================================================================================== ===============================================================================================================================
+**Information Security Policy and Training**: Overview of digital acknowledgment for new IT Security Policies.      `Marc Watkins <https://teams.microsoft.com/l/chat/0/0?users=mwatkins@olemiss.edu>`_        `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=862d1a7e-0b62-4034-b0ca-ad86014948d9>`_
+**Update from the Writing Centers**: News and updates from the Writing Centers about the Fall 2021 semester.        `Rachel Johnson <https://teams.microsoft.com/l/chat/0/0?users=rejohns3@olemiss.edu>`_      `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e0dbf69-99a3-4bc1-bde0-ad86014effa6>`_
+**Student Retention**: Retaining first year students and being flexible about grading/assignment deadlines.         `Marc Watkins <https://teams.microsoft.com/l/chat/0/0?users=mwatkins@olemiss.edu>`_        `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8fa0b7a8-4eb6-4e8f-a15f-ac10014b2926>`_
+=================================================================================================================== ========================================================================================== ===============================================================================================================================
