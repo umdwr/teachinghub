@@ -1,5 +1,5 @@
 ===========================
-DRW Policies and Procedures
+DWR Policies and Procedures
 ===========================
 .. Admonition:: See Also
 
