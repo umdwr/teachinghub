@@ -7,7 +7,9 @@ The Teaching Hub's new platform is a Python-based documentation generator engine
 
 Editing the Teaching Hub
 ------------------------
-.. figure:: /assets/ghedit.png 
+.. sidebar:: GitHub edits
+
+    .. figure:: /assets/ghedit.png 
 
     To edit any Teaching Hub page on GitHub, click the pencil to open the text editor. 
 
