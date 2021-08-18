@@ -10,7 +10,7 @@ The Teaching Guide for the Major in Rhetoric is under development.
 
 Syllabus Language
 -----------------
-All Writing and Speech faculty should conisder placing a blurb about the B.A. in Rhetoric and the Minor in Professional Writing in their course syllabi. 
+All Writing and Speech faculty should consider placing a blurb about the B.A. in Rhetoric and the Minor in Professional Writing in their course syllabi. 
 
 .. admonition:: Syllabus Language 
 
