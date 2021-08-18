@@ -215,11 +215,8 @@ Annual training about the department’s backup policy will also be offered to a
 
 Additionally, training will be provided for all new hires during the year through one-on-one meetings, workshops, pre-recorded webinars, and online tutorials to ensure all DWR employees are informed on how to protect confidential and sensitive information.
 
-Confidentiality Agreements
+Sensitive Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-DWR employees are educated on safeguarding confidential information by signing a confidentiality statement at the time of their hire. The **administrative coordinator** makes these statements available to new employees and requests the new employee’s signature after their onboarding process has been finalized by Human Resources. Signed statements are kept in a Box folder for WRIT AND RHET Docs under the file name “Confidentiality Agreements” and is accessible by both the communications specialist and the administrative coordinator.
-
 Sensitive data stored on backup or production servers is secured via password-protected, limited-access accounts on those servers in configurations that meet security guidelines set by Telecommunications/Networking, which remotely inspects the access security of those servers monthly. All onsite servers operated by the DWR are physically secured either behind lockable office doors, or by locked security cables affixed to parts of the building infrastructure, or both.
 
 .. admonition:: Related Policies
@@ -253,7 +250,7 @@ The **administrative coordinator** is responsible for circulating the department
 Mailboxes for Instructors
 ----------------------------
 
-The **administrative coordinator** is responsible for establishing mailboxes for staff and instructors in Somerville Hall. In mid-August, new adjunct instructors and other new instructors’ names are added at the end of the mailboxes; alphabetizing and name removals do not take place until the semester has gotten underway due to the high chance of continuous changes (additions/deletions). Two weeks into the fall semester, the administrative coordinator asks one of the graduate assistants to reorganize the mailboxes by removing employees who have been terminated or transferred and notifying them that the DWR is holding their mail. The graduate assistant then alphabetizes the mailboxes after new hires are firmly in place.
+The **administrative coordinator** is responsible for establishing mailboxes for staff and instructors in Lamar Hall and Somerville Hall. In mid-August, new adjunct instructors and other new instructors’ names are added at the end of the mailboxes; alphabetizing and name removals do not take place until the semester has gotten underway due to the high chance of continuous changes (additions/deletions). Two weeks into the fall semester, the administrative coordinator asks one of the graduate assistants to reorganize the mailboxes by removing employees who have been terminated or transferred and notifying them that the DWR is holding their mail. The graduate assistant then alphabetizes the mailboxes after new hires are firmly in place.
 
 Payroll Process
 ----------------
