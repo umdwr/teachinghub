@@ -5,9 +5,9 @@
 
 DWR Teaching Hub
 ============================================
-.. Attention:: Fall 2021 Opening Session will be entirely online. Visit :doc:`/hub/development/os/fa21` for details. 
+.. Attention:: Fall 2021 Opening Session will be entirely online. Visit :doc: `/hub/development/os/fa21` for details. 
 
-.. Important:: Welcome to the new iteration of the DWR Teaching Hub. Some content still needs to be migrated, so if you need something that isn't here yet, just contact `Andrew Davis <mailto:addavis@olemiss.edu>`_. 
+.. Important:: Welcome to the new iteration of the DWR Teaching Hub. To learn about the Teaching Hub's new features, including public edit submission, visit the :doc:/hub/about page
 
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
 
@@ -41,6 +41,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    :maxdepth: 1
    :hidden:
 
+   hub/about
    hub/syllabi
    hub/development/development
    hub/observations/observations
