@@ -41,6 +41,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    :maxdepth: 1
    :hidden:
 
+   hub/about
    hub/syllabi
    hub/development/development
    hub/observations/observations
