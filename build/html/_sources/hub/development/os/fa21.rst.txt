@@ -1,4 +1,31 @@
 =========================
 Fall 2021 Opening Session
 =========================
-As we return to campus, the Fall 2021 Opening Session will include some live sessions along with the asynchronous, recorded workshops everyone appreciated last year. Check back soon for the detailed announcement and schedule. 
+.. Attention:: We’ve been watching the local COVID-19 data and have adjusted our plans for opening session. All required meetings will be online. Most will be short videos recorded by our colleagues and posted here by Wednesday August 18 . Please view them all before the start of classes on Monday. 
+
+The Fall 2021 Opening Session will include synchronous and asynchronous components. 
+
+On Thursday August 19, we invite you to visit Lamar Hall anytime between 11 a.m. and 1 p.m. to grab a box lunch from Tallahatchie Gourmet, a DWR gift, comfortable facemasks, and physical copies of the Common Read and CRE Teaching Guide. Glenn, Joanne, Karla, Karen, and Steohen will staff the giveaway tables, located in the lobby of Lamar Hall’s third floor. This is optional, but we would love to see you next Thursday! 
+
+On Thursday and Friday, the core faculty will be available in their offices from 9 a.m. to 4 p.m. If you have any questions about the semester, please visit or Zoom with `Guy <https://teams.microsoft.com/l/chat/0/0?users=gkrueger@olemiss.edu>`_ (Writing 101), `Wendy <https://teams.microsoft.com/l/chat/0/0?users=goldberg@olemiss.edu>`_ (Writing 102), `Kate <https://teams.microsoft.com/l/chat/0/0?users=kmhooper@olemiss.edu>`_ (Speech 102 and 105), `Chip <https://teams.microsoft.com/l/chat/0/0?users=cdunkin@olemiss.edu>`_ (Writing 100 and FASTrack), `Angela <https://teams.microsoft.com/l/chat/0/0?users=akgreen2@olemiss.edu>`_  (Liba 102), or `Karla <https://teams.microsoft.com/l/chat/0/0?users=kmlyles@olemiss.edu>`_ (Writing 250) during these hours. `Andrew Davis <https://teams.microsoft.com/l/chat/0/0?users=addavis@olemiss.edu>`_, `Chad Russell <https://teams.microsoft.com/l/chat/0/0?users=crussell@olemiss.edu>`_, `Glenn Schove <https://teams.microsoft.com/l/chat/0/0?users=gschove@olemiss.edu>`_, `Karen Forgette <https://teams.microsoft.com/l/chat/0/0?users=kforgett@olemiss.edu>`_, `Joanne Mitchell <https://teams.microsoft.com/l/chat/0/0?users=jsmitch1@olemiss.edu>`_, and `Stephen Monroe <https://teams.microsoft.com/l/chat/0/0?users=smonroe@olemiss.edu>`_ will also be available in Lamar Hall during those hours on Thursday and Friday. Please drop by with any and all questions. We’re here to help. 
+
+Synchronous Meetings
+---------------------
+All synchronous meetings will take place Thursday August 19. 
+
+===== =========== =======
+Time  Description Access
+===== =========== =======
+9:00  
+10:00
+===== =========== =======
+
+On-Demand Sessions
+-------------------
+On-demand workshop sessions will be available on-demand starting Wednesday August 18. 
+
+=================================================================================================================== ===========
+Description                                                                                                         Access
+=================================================================================================================== ===========
+**Updates to the Teaching Hub**: Review updates to TH, editing/adding, uploading syllabi, new observation workflow. Coming Soon
+=================================================================================================================== ===========

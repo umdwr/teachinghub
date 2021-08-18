@@ -3,6 +3,12 @@ Teaching with UM RhetLab
 =================================
 .. sidebar:: Contents
 
+    .. image:: /assets/oer-logo.png
+        :width: 150px
+        :height: 150px
+        :align: center
+        :alt: Locally Made OER Courseware Logo
+
     .. contents:: 
         :local:
         :depth: 1
@@ -25,18 +31,19 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    * `Download the Fall 2021 Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`_
+    `Download the Fall 2021 Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`_
 
     **Import**
-    
-    * Navigate to your WRIT 100 or 101 Course > Packages and Utilities > Import Package/View Logs
-    * Choose “Import Package”, enter:
-        * SELECT A PACKAGE: Click Browse to locate the course package
-        * SELECT COURSE MATERIALS: Check the boxes for:
-            * “Content Areas”
-            * “Discussion Board”
-            * “Grade Center Columns and Settings”
-    * SELECT “Submit”
+
+    1. In your WRIT 100 or 101 Blackboard course, click **Packanges and Utilities > Import Package/View Logs** under Course Management. 
+    2. Under **Select a Package**, click **Browse** and attach the .zip file you downloaded above. 
+    3. Under **Select Course Materials**, check the boxes for:
+
+        * Content Areas
+        * Discussion Board
+        * Grade Center Columns and Settings
+        * Tests, Surveys, and Pools
+    4. Click **Submit**
   
     **Test**
 
