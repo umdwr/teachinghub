@@ -1,5 +1,7 @@
 Information Security Policy & Training
 ======================================
+.. Important:: All DWR employees must `digitally acknowledge <.. Important:: All DWR employees must `digitally acknowledge <https://hub.cwr.olemiss.edu/en/latest/policies/policies.html#annual-policy-acknowledgement>`_ the DWR Information Security Policy annually.
+
 .. sidebar:: Contents
     
     .. contents::

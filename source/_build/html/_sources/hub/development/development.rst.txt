@@ -2,7 +2,19 @@ Professional Development
 ========================
 Teacher Development
 ~~~~~~~~~~~~~~~~~~~~~~
-During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 Course Enhancement Grants.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
+During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
+
+**Tentative Fall 2021 Workshop Schedule**
+
+========= ====================================================== ==========================================================================================================================================================================================================================================================================================
+Month     Presenter(s)                                           Title
+========= ====================================================== ==========================================================================================================================================================================================================================================================================================
+August    Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley "Contemplative Teaching & Learning"
+September Alice Myatt and Colleen Thorndike                      "Advancing Student Skills with Synthesis and Timed Writing" and "Connecting....: Creating a Class Blog Network for Meaningful Class Conversations"   
+Octobern  Kate Hooper                                            "Two (or Three) Ways to Meet Group Presentation Goals on a Shortened Timeline"
+November  Deidra Jackson and Rachel Johnson                      "Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other" and "Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning"
+December  Jeanine Rauch and Don Unger                            "The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County" and "What is a Community Literacy Center?"
+========= ====================================================== ==========================================================================================================================================================================================================================================================================================
 
 Course Observations (Fall 2021)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
