@@ -23,7 +23,9 @@ All Teaching Hub pages are written in a markup language called ReStructured Text
 
 .. Admonition:: More Information
 
-    `Read about the ReST markup language used by Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+    * `Read about the ReST markup language used by Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+    * `ReStructured Text/Sphinx Cheat Sheet <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
+
 
 Fixing typos or errors in content doesn't require the use of ReST markup. Just looking at the raw version of a page in the GitHub editor should show you everything you need to know. 
 
