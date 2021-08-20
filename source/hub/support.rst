@@ -81,3 +81,4 @@ All of the Blackboard menu items in your course before the import will still be 
 * UM Writing Centers
 
 Feel free to reorder or rename these items as you wish.
+
