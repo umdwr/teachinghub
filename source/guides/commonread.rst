@@ -173,7 +173,7 @@ On Campus
     *The campus catalpa offers up its creamy blossoms to the morning, alreadysultry and humid at nine o’clock in the morning*.
         --Nezhukumatathil, World of Wonders (6)
 
-Nezhukumatathil’s love of the UM campus shines through *World of Wonders*. Help students connect with caring for the natural beauty of UM through the `*Office of *Sustainability <https://sustain.olemiss.edu/student-sustainability-opportunities/>`__. Any UM student can volunteer to work with this office’s recurring projects, like the `*Green Grove* <https://sustain.olemiss.edu/green-grove-program/>`__ and `*UM Compost* <https://sustain.olemiss.edu/composting-program/>`__ program, and students can also propose an initiative through the UM Green Fund.
+Nezhukumatathil’s love of the UM campus shines through *World of Wonders*. Help students connect with caring for the natural beauty of UM through the `Office of Sustainability <https://sustain.olemiss.edu/student-sustainability-opportunities/>`__. Any UM student can volunteer to work with this office’s recurring projects, like the `Green Grove <https://sustain.olemiss.edu/green-grove-program/>`__ and `UM Compost <https://sustain.olemiss.edu/composting-program/>`__ program, and students can also propose an initiative through the UM Green Fund.
 
 In the local community
 ^^^^^^^^^^^^^^^^^^^^^^^
