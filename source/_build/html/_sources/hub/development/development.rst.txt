@@ -48,3 +48,16 @@ The DWR holds Opening Sessions each August and January before the semester begin
    os/sp21
    os/fa20
    os/fa16 
+
+Faculty Meetings
+-----------------
+Full DWR Faculty Meetings are held at **3:00pm Central Time** on the second Friday of each month during the regular semester. For Fall 2021, faculty meetings will be held on Zoom. To submit an agenda item, please contact `Stephen Monroe <https://teams.microsoft.com/l/chat/0/0?users=smonroe@olemiss.edu>`_. Calendar invitations will be sent to the DWR list-serv a week before each meeting. 
+
+===== ======================= ===================
+Date  Agenda                  Access
+===== ======================= ===================
+9/10  `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
+10/8  `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
+11/12 `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
+12/10 `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
+===== ======================= ===================
