@@ -1,14 +1,10 @@
-.. DWR Teaching Hub documentation master file, created by
+.. DWR Teaching Hub master file, created by
    sphinx-quickstart on Wed Jun 30 09:51:08 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 DWR Teaching Hub
 ============================================
-.. Attention:: Fall 2021 Opening Session will be entirely online. Visit :doc:`/hub/development/os/fa21` for details. 
-
-.. Important:: Welcome to the new iteration of the DWR Teaching Hub. To learn about the Teaching Hub's new features, including public edit submission, visit the :doc:`/hub/about` page
-
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
 
 .. raw:: html

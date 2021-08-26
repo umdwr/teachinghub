@@ -2,9 +2,13 @@ Submit Syllabi and Office Hours
 ===============================
 All DWR faculty must submit syllabi for each course they're teaching and updated office hour information at the beginning of each semester. 
 
+Please upload each syllabus individually and fill out the required metadata for each upload. If you use the same syllabus for multiple sections, list the relevant section numbers separated by commas. 
+
 .. Important:: 
 
-    Please upload each syllabus individually and fill out the required metadata for each upload. If you use the same syllabus for multiple sections, list the relevant section numbers separated by commas. 
+    **Note**: You must be a member of the DWR on Microsoft Teams to upload your syllabus using this interface. 
+
+    `Join the DWR on Teams <https://teams.microsoft.com/l/team/19%3afb0f264ae88b41c49040dd7264c3f6f4%40thread.skype/conversations?groupId=d0932355-a087-4440-b545-b11937a76ced&tenantId=69a9c930-1dbb-4630-bdd5-d28b8f680aae>`_
 
     .. raw:: html
 
