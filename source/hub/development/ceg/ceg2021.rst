@@ -1,53 +1,29 @@
-Professional Development
-========================
-Teacher Development
-~~~~~~~~~~~~~~~~~~~~~~
+==============================================
+Teacher Development Workshops (2021-2022)
+==============================================
 During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
 
-:doc:`/hub/development/ceg/ceg2021`
-
-**Tentative Fall 2021 Workshop Schedule**
+Fall 2021 Workshop Schedule (tentative) 
+---------------------------------------
 
 ========= ====================================================== ==========================================================================================================================================================================================================================================================================================
-Month     Presenter(s)                                           Title
+Date      Presenter(s)                                           Title
 ========= ====================================================== ==========================================================================================================================================================================================================================================================================================
-September Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley "Mindful Moments: Contemplative Pedagogy in the Writing Classroom"
+9/7       Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley `Mindful Moments: Contemplative Pedagogy in the Writing Classroom`_
 September Alice Myatt and Colleen Thorndike                      "Advancing Student Skills with Synthesis and Timed Writing" and "Connecting....: Creating a Class Blog Network for Meaningful Class Conversations"   
 Octobern  Kate Hooper                                            "Two (or Three) Ways to Meet Group Presentation Goals on a Shortened Timeline"
 November  Deidra Jackson and Rachel Johnson                      "Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other" and "Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning"
 December  Jeanine Rauch and Don Unger                            "The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County" and "What is a Community Literacy Center?"
 ========= ====================================================== ==========================================================================================================================================================================================================================================================================================
 
-Course Observations (Fall 2021)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-DWR policy requires all faculty to be observed at least once per three-semester cycle (see the Observation Policy). Due to COVID-19 restrictions, the current cycle has been expanded to include the Spring 2020, Fall 2020, Spring 2021, and Fall 2021 semesters. As the University continues to monitor and respond to pandemic conditions, changes in this schedule may occur. Changes will be announced via the listserv.
+Mindful Moments:  Contemplative Pedagogy in the Writing Classroom
+------------------------------------------------------------------
 
-.. admonition:: See also
+.. workshop fields: 
 
-   * :doc:`/hub/observations/observations`
-   * `DWR Observation Policy <https://hub.cwr.olemiss.edu/en/latest/policies/teaching.html#observations>`_
-
-Professional Development Grants and Workshops
----------------------------------------------
-One of the objectives in the DWR’s 2018-2022 Strategic Plan is to “Support Faculty and Staff Development and Promote Teaching Excellence.” DWR course enhancement grants support continuous improvement and professional development for our teaching faculty.
-
-.. toctree::
-   :maxdepth: 1
-
-   ceg/cegcfp
-   ceg/ceg2021
-   ceg/ceg2020
-   ceg/ceg2019
-
-Opening Session 
----------------
-The DWR holds Opening Sessions each August and January before the semester begins. Scheduled, recordings, and supporting materials are archived here.
-
-.. toctree::
-   :maxdepth: 1
-
-   os/fa21
-   os/sp21
-   os/fa20
-   os/fa16 
+:Presenters: Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley
+:Date: Tuesday September 7, 1:00 CDT
+:Modality: Virtual
+:Description: In this workshop, Susan Nicholas, Tyler Gillespie, and Amber Nichols-Buckley will share research on the benefits of contemplative pedagogy for teachers and students and provide concrete resources, including meditation exercises, mindfulness prompts that could be used for reflection or process work (like peer review!), and contemplative class activities. We will end the workshop with a brief mindfulness session and a discussion with teachers on how to get started.
+:Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJYrd-2rqDotGtKWIFg5pYXMol9MquNvVxN7>`_
