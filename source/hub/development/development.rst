@@ -48,8 +48,8 @@ Full DWR Faculty Meetings are held at **4:00pm Central Time** on the second Frid
 ===== ======================= ==================================================================
 Date  Agenda                  Access
 ===== ======================= ==================================================================
-9/10  `Meeting Agenda <#>`_   `Zoom Meeting <https://olemiss.zoom.us/j/98087047388?from=addon>`_ 
-10/8  `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
-11/12 `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
-12/10 `Meeting Agenda <#>`_   `Zoom Meeting <#>`_ 
+9/10  Forthcoming             `Zoom Meeting <https://olemiss.zoom.us/j/98087047388?from=addon>`_ 
+10/8  
+11/12 
+12/10  
 ===== ======================= ==================================================================
