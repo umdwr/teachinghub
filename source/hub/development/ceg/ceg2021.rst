@@ -6,11 +6,10 @@ During Fall 2021, join your DWR colleagues for workshops related to their DWR Su
 Fall 2021 Workshop Schedule
 ---------------------------
 
-September
----------
-.. workshop fields: 
+Mindful Moments: Contemplative Pedagogy in the Writing Classroom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:Title: *Mindful Moments: Contemplative Pedagogy in the Writing Classroom*
+.. workshop fields:
 :Presenters: Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley
 :Date: Tuesday September 7, 1:00 CDT
 :Modality: Virtual
@@ -18,58 +17,49 @@ September
 :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23c46169-8f74-4588-aeb1-ad9c013a83aa>`_
 :Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
 
-----------------
+Connecting....: Creating a Class Blog Network for Meaningful Class Conversations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. workshop fields:
-
-:Title: *Connecting....: Creating a Class Blog Network for Meaningful Class Conversations*
 :Presenter: Colleen Thorndike
 :Date: Thursday September 30, 10:00am CDT 
 :Modality: Virtual
 
-----------------
+Advancing Student Skills with Synthesis and Timed Writing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. workshop fields:
-
-:Title: *Advancing Student Skills with Synthesis and Timed Writing*
 :Presenter: Alice Myatt
 :Date: Thursday September 30, 10:45am CDT 
 :Modality: Virtual
 
-October
--------
-.. workshop fields: 
+Tentatively Scheduled 
+---------------------
 
+.. workshop fields: 
 :Title: *Two (or Three) Ways to Meet Group Presentation Goals on a Shortened Timeline*
 :Presenter: Kate Hooper
+:Date: October 2021
 
-November
---------
 .. workshop fields: 
-
 :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
 :Presenter: Deidra Jackson
-
-----------------
+:Date: November 2021
 
 .. workshop fields:
-
 :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
 :Presenter: Rachel Johnson 
+:Date: November 2021
 
-December 
---------
 .. workshop fields: 
-
 :Title: *The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County*
 :Presenter: Jeanine Rauch 
-
-----------------
+:Date: December 2021
 
 .. workshop fields:
-
 :Title: *What is a Community Literacy Center?*
 :Presenter: Don Unger
+:Date: December 2021
 
 
 
