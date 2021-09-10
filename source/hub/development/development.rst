@@ -45,11 +45,11 @@ Faculty Meetings
 -----------------
 Full DWR Faculty Meetings are held at **4:00pm Central Time** on the second Friday of each month during the regular semester. For Fall 2021, faculty meetings will be held on Zoom. To submit an agenda item, please contact `Stephen Monroe <https://teams.microsoft.com/l/chat/0/0?users=smonroe@olemiss.edu>`_. Calendar invitations will be sent to the DWR list-serv a week before each meeting. 
 
-===== ======================= ==================================================================
-Date  Agenda                  Access
-===== ======================= ==================================================================
-9/10  Forthcoming             `Zoom Meeting <https://olemiss.zoom.us/j/98087047388?from=addon>`_ 
+===== ===================================================================================================================================================================================== ==================================================================
+Date  Agenda                                                                                                                                                                                Access
+===== ===================================================================================================================================================================================== ==================================================================
+9/10  `Published Agenda <https://olemiss.sharepoint.com/:w:/r/sites/DWRAdmin/Shared%20Documents/Faculty%20Meeting%20Agenda.docx?d=w16568ccdad0a4fc7a941e1c7f1a75e50&csf=1&web=1&e=q3JK9I>`_ `Zoom Meeting <https://olemiss.zoom.us/j/98087047388?from=addon>`_ 
 10/8  
 11/12 
 12/10  
-===== ======================= ==================================================================
+===== ===================================================================================================================================================================================== ==================================================================
