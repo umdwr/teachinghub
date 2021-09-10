@@ -1,14 +1,14 @@
 Professional Development
 ========================
 Teacher Development
-~~~~~~~~~~~~~~~~~~~~~~
+-------------------
 During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
 
 :doc:`/hub/development/ceg/ceg2021`
 
 
 Course Observations (Fall 2021)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 DWR policy requires all faculty to be observed at least once per three-semester cycle (see the Observation Policy). Due to COVID-19 restrictions, the current cycle has been expanded to include the Spring 2020, Fall 2020, Spring 2021, and Fall 2021 semesters. As the University continues to monitor and respond to pandemic conditions, changes in this schedule may occur. Changes will be announced via the listserv.
 
