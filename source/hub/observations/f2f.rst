@@ -5,6 +5,7 @@ Face-to-Face Course Observations
 
     .. contents:: 
         :local:
+        :depth: 1
 
 The DWR maintains a teaching-centered culture and wants every teacher to be successful. As faculty, we learn from each other and share ideas. We value academic freedom, appropriate levels of standardization, research-based pedagogies, and deliberate innovation. We believe teaching can be improved through purposeful reflection. Regular classroom observations help to improve our teaching practices. We learn as much from observing others as we learn from being observed. This ongoing exchange of ideas strengthens our culture by showcasing and improving the unique contributions we each bring to the profession. As a routine of support and collegiality, we expect that teaching observations will protect and enhance our high pedagogical standards.
 

@@ -5,6 +5,7 @@ Face-to-Face Course Observations
 
     .. contents:: 
         :local:
+        :depth: 1
 
 The DWR maintains a teaching-centered culture and wants every teacher to be successful. As faculty, we learn from each other and share ideas. We value academic freedom, appropriate levels of standardization, research-based pedagogies, and deliberate innovation. We believe teaching can be improved through purposeful reflection. Regular classroom observations help to improve our teaching practices. We learn as much from observing others as we learn from being observed. This ongoing exchange of ideas strengthens our culture by showcasing and improving the unique contributions we each bring to the profession. As a routine of support and collegiality, we expect that teaching observations will protect and enhance our high pedagogical standards.
 
@@ -15,7 +16,7 @@ Observation Forms
 
     Please select the observation type to submit an observation report. For the Short Narrative, faculty members should submit a pre-observation form in advance of the scheduled observation date. 
 
-    * `Observation Checklist <https://example.com>`_
+    * `Observation Checklist <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UN1RYMVg1QTJDTUtXRDgzVDM2QU9OVzhGTSQlQCN0PWcu>`_
     * `Short Narrative Pre-Observation <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1URTNPUllMNjRBTEIwSlRFUlA0QktNQjBJWCQlQCN0PWcu>`_
     * `Short Narrative Post-Observation <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UOTJTVFpIWU8wU0xZUllWODM5RVZOS0FDQiQlQCN0PWcu>`_
 
@@ -49,6 +50,7 @@ Best Practices
 Additional Reading
 ------------------
 Bernstein, Daniel J. 2008. “Peer Review and Evaluation of the Intellectual Work of Teaching.” Change. March/April.
+
 Bernstein, Daniel J., Jessica Jonson, and Karen Smith. 2000. “An Examination of the Implementation of Peer Review of Teaching.” *New Directions for Teaching and Learning*. 83: 73-86
 
 Bernstein, Daniel., A.N. Burnett, A. Goodburn and P Savory. 2006. *Making Teaching and Learning Visible: Course Portfolios and the Peer Review of Teaching*. Anker.
