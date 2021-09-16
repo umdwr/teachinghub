@@ -49,6 +49,7 @@ Best Practices
 Additional Reading
 ------------------
 Bernstein, Daniel J. 2008. “Peer Review and Evaluation of the Intellectual Work of Teaching.” Change. March/April.
+
 Bernstein, Daniel J., Jessica Jonson, and Karen Smith. 2000. “An Examination of the Implementation of Peer Review of Teaching.” *New Directions for Teaching and Learning*. 83: 73-86
 
 Bernstein, Daniel., A.N. Burnett, A. Goodburn and P Savory. 2006. *Making Teaching and Learning Visible: Course Portfolios and the Peer Review of Teaching*. Anker.
