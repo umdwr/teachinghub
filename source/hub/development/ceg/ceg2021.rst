@@ -22,7 +22,7 @@ Advancing Student Learning with Digital Tools (Paired Workshops)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. workshop fields:
-:Date and Time: Thursday September 30, 10:00 - 11:30 CDT
+:Date: Thursday September 30, 10:00 - 11:30 CDT
 :Modality: Virtual
 :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJYuf-yoqTMtHt10CR5S66mFUcxShI8EQwfU>`_
 
