@@ -3,75 +3,92 @@ Teacher Development Workshops (2021-2022)
 ==============================================
 During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
 
-Fall 2021 Workshop Schedule
----------------------------
+Coming Up Next
+--------------
+.. Admonition:: Workshop Info
 
-Mindful Moments: Contemplative Pedagogy in the Writing Classroom
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    .. workshop fields:
 
-.. workshop fields:
+    :Title: Making the Most of Group Presentations on a Shortened Timeline 
+    :Presenter: Kate Hooper
+    :Date: Thursday October 14, 3:00pm CDT
+    :Modality: Virtual
+    :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
+    :Access: Zoom Registration Link Coming Soon
 
-:Presenters: Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley
-:Date: Tuesday September 7, 1:00 CDT
-:Modality: Virtual
-:Description: In this workshop, Susan Nicholas, Tyler Gillespie, and Amber Nichols-Buckley will share research on the benefits of contemplative pedagogy for teachers and students and provide concrete resources, including meditation exercises, mindfulness prompts that could be used for reflection or process work (like peer review!), and contemplative class activities. We will end the workshop with a brief mindfulness session and a discussion with teachers on how to get started.
-:Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23c46169-8f74-4588-aeb1-ad9c013a83aa>`_
-:Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
+Tentatively Scheduled
+~~~~~~~~~~~~~~~~~~~~~
+.. Admonition:: Workshop Info
 
-Advancing Student Learning with Digital Tools (Paired Workshops)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    .. workshop fields: 
 
-.. workshop fields:
-:Date and Time: Thursday September 30, 10:00 - 11:30 CDT 
-:Modality: Virtual
-:Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJYuf-yoqTMtHt10CR5S66mFUcxShI8EQwfU>`_`
+    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
+    :Presenter: Deidra Jackson
+    :Date: November 2021
 
-.. workshop fields:
+.. Admonition:: Workshop Info
 
-:Title: Connecting… Creating a Class Blog Network for Meaningful Online Conversations
-:Presenter: Colleen Thorndike
-:Time: 10:00am CDT 
-:Description: This presentation will discuss the benefits of using blogs and a class blog network (RSS feed) for discussion in online classes. Blogs are a great alternative to discussion boards and can cultivate an online class community. While the focus of this presentation is online classes, this strategy can also be used in hybrid and/or in-person classes.
+    .. workshop fields:
 
-.. workshop fields:
+    :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
+    :Presenter: Rachel Johnson 
+    :Date: November 2021
 
-:Title: Advancing Student Skills with Synthesis and Timed Writing
-:Presenter: Alice Myatt
-:Time: 10:45am CDT 
-:Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
+.. Admonition:: Workshop Info
 
-Tentatively Scheduled 
----------------------
+    .. workshop fields: 
 
-.. workshop fields: 
+    :Title: *The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County*
+    :Presenter: Jeanine Rauch 
+    :Date: December 2021
 
-:Title: *Two (or Three) Ways to Meet Group Presentation Goals on a Shortened Timeline*
-:Presenter: Kate Hooper
-:Date: October 2021
+.. Admonition:: Workshop Info
 
-.. workshop fields: 
+    .. workshop fields:
 
-:Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
-:Presenter: Deidra Jackson
-:Date: November 2021
+    :Title: *What is a Community Literacy Center?*
+    :Presenter: Don Unger
+    :Date: December 2021
 
-.. workshop fields:
+Previous Workshop Recordings
+----------------------------
 
-:Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
-:Presenter: Rachel Johnson 
-:Date: November 2021
+.. Admonition:: Workshop Info
 
-.. workshop fields: 
+    .. workshop fields:
 
-:Title: *The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County*
-:Presenter: Jeanine Rauch 
-:Date: December 2021
+    :Title: Mindful Moments: Contemplative Pedagogy in the Writing Classroom
+    :Presenters: Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley
+    :Date: Tuesday September 7, 1:00 CDT
+    :Modality: Virtual
+    :Description: In this workshop, Susan Nicholas, Tyler Gillespie, and Amber Nichols-Buckley will share research on the benefits of contemplative pedagogy for teachers and students and provide concrete resources, including meditation exercises, mindfulness prompts that could be used for reflection or process work (like peer review!), and contemplative class activities. We will end the workshop with a brief mindfulness session and a discussion with teachers on how to get started.
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23c46169-8f74-4588-aeb1-ad9c013a83aa>`_
+    :Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
 
-.. workshop fields:
+.. Admonition:: Workshop Info
 
-:Title: *What is a Community Literacy Center?*
-:Presenter: Don Unger
-:Date: December 2021
+    .. workshop fields:
+    :Title: Advancing Student Learning with Digital Tools (Paired Workshops)
+    :Date: Thursday September 30, 10:00 - 11:30 CDT
+    :Modality: Virtual
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0380e42-e5df-41c7-a285-adb3010e2d28>`_
+
+    .. workshop fields:
+
+    :Title: Connecting… Creating a Class Blog Network for Meaningful Online Conversations
+    :Presenter: Colleen Thorndike
+    :Time: 10:00am CDT 
+    :Description: This presentation will discuss the benefits of using blogs and a class blog network (RSS feed) for discussion in online classes. Blogs are a great alternative to discussion boards and can cultivate an online class community. While the focus of this presentation is online classes, this strategy can also be used in hybrid and/or in-person classes.
+    :Resources: `Slideshow <https://docs.google.com/presentation/d/1waji7G7Rcg0l8yeXind72iy5m0KlqiR-YZ66EjCvtPY/edit?usp=sharing>`_
+
+    .. workshop fields:
+
+    :Title: Advancing Student Skills with Synthesis and Timed Writing
+    :Presenter: Alice Myatt
+    :Time: 10:45am CDT 
+    :Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
+    :Resources: `Google Drive Folder <https://drive.google.com/drive/folders/1xEDL4PCMS7K9Q2t7iWGoBOBAsRuvr9JZ?usp=sharing>`_
+
 
 
 
