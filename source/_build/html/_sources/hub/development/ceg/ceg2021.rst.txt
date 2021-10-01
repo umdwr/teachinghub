@@ -1,9 +1,7 @@
 Teacher Development Workshops (2021-2022)
 =========================================
 
-.. container:: shaded 
-
-    During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
+During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
 
 Coming Up Next
 --------------
