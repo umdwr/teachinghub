@@ -11,7 +11,7 @@ Making the Most of Group Presentations on a Shortened Timeline
 
 .. workshop fields:
 
-:Presenters: Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley
+:Presenter: Kate Hooper
 :Date: Thursday October 14, 3:00pm CDT
 :Modality: Virtual
 :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
@@ -73,7 +73,7 @@ Advancing Student Learning with Digital Tools (Paired Workshops)
 :Presenter: Colleen Thorndike
 :Time: 10:00am CDT 
 :Description: This presentation will discuss the benefits of using blogs and a class blog network (RSS feed) for discussion in online classes. Blogs are a great alternative to discussion boards and can cultivate an online class community. While the focus of this presentation is online classes, this strategy can also be used in hybrid and/or in-person classes.
-:Resources: `Slideshow <https://docs.google.com/presentation/d/1waji7G7Rcg0l8yeXind72iy5m0KlqiR-YZ66EjCvtPY/edit?usp=sharing>`_`
+:Resources: `Slideshow <https://docs.google.com/presentation/d/1waji7G7Rcg0l8yeXind72iy5m0KlqiR-YZ66EjCvtPY/edit?usp=sharing>`_
 
 .. workshop fields:
 
@@ -82,12 +82,6 @@ Advancing Student Learning with Digital Tools (Paired Workshops)
 :Time: 10:45am CDT 
 :Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
 :Resources: `Google Drive Folder <https://drive.google.com/drive/folders/1xEDL4PCMS7K9Q2t7iWGoBOBAsRuvr9JZ?usp=sharing>`_
-
-
-Tentatively Scheduled 
----------------------
-
-
 
 
 
