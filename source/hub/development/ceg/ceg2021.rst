@@ -7,6 +7,7 @@ Coming Up Next
 --------------
 .. Admonition:: Workshop Info
 
+    .. _ceg3: 
     .. workshop fields:
 
     :Title: Making the Most of Group Presentations on a Shortened Timeline 
@@ -20,6 +21,7 @@ Tentatively Scheduled
 ~~~~~~~~~~~~~~~~~~~~~
 .. Admonition:: Workshop Info
 
+    .. _ceg4:
     .. workshop fields: 
 
     :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
@@ -28,6 +30,7 @@ Tentatively Scheduled
 
 .. Admonition:: Workshop Info
 
+    .. _ceg5:
     .. workshop fields:
 
     :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
@@ -36,6 +39,7 @@ Tentatively Scheduled
 
 .. Admonition:: Workshop Info
 
+    .. _ceg6:
     .. workshop fields: 
 
     :Title: *The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County*
@@ -44,6 +48,7 @@ Tentatively Scheduled
 
 .. Admonition:: Workshop Info
 
+    .. _ceg7:
     .. workshop fields:
 
     :Title: *What is a Community Literacy Center?*
@@ -67,7 +72,7 @@ Previous Workshop Recordings
     :Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
 
 .. Admonition:: Workshop Info
-    
+
     .. _ceg2: 
     .. workshop fields:
     
