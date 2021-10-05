@@ -67,6 +67,7 @@ Previous Workshop Recordings
     :Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
 
 .. Admonition:: Workshop Info
+    
     .. _ceg2: 
     .. workshop fields:
     
