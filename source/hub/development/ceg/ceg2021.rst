@@ -55,6 +55,7 @@ Previous Workshop Recordings
 
 .. Admonition:: Workshop Info
 
+    .. _ceg1: 
     .. workshop fields:
 
     :Title: Mindful Moments: Contemplative Pedagogy in the Writing Classroom
@@ -66,7 +67,7 @@ Previous Workshop Recordings
     :Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
 
 .. Admonition:: Workshop Info
-
+    .. _ceg2: 
     .. workshop fields:
     
     :Title: Advancing Student Learning with Digital Tools (Paired Workshops)
