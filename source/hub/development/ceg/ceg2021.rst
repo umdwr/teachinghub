@@ -15,7 +15,7 @@ Coming Up Next
     :Date: Thursday October 14, 3:00pm CDT
     :Modality: Virtual
     :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
-    :Access: Zoom Registration Link Coming Soon
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJwuceygrTIqHtZ4kMWn0C9JQo9UoxI2rDNd>`_
 
 Tentatively Scheduled
 ~~~~~~~~~~~~~~~~~~~~~
