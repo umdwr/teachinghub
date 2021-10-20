@@ -7,24 +7,10 @@ Coming Up Next
 --------------
 .. Admonition:: Workshop Info
 
-    .. _ceg3: 
-    .. workshop fields:
-
-    :Title: Making the Most of Group Presentations on a Shortened Timeline 
-    :Presenter: Kate Hooper
-    :Date: Thursday October 14, 3:00pm CDT
-    :Modality: Virtual
-    :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
-    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJwuceygrTIqHtZ4kMWn0C9JQo9UoxI2rDNd>`_
-
-Tentatively Scheduled
-~~~~~~~~~~~~~~~~~~~~~
-.. Admonition:: Workshop Info
-
     .. _ceg4:
     .. workshop fields: 
 
-    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
+    :Title: *llown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
     :Presenter: Deidra Jackson
     :Date: November 2021
 
@@ -36,6 +22,9 @@ Tentatively Scheduled
     :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
     :Presenter: Rachel Johnson 
     :Date: November 2021
+
+Tentatively Scheduled
+~~~~~~~~~~~~~~~~~~~~~
 
 .. Admonition:: Workshop Info
 
@@ -96,6 +85,20 @@ Previous Workshop Recordings
     :Time: 10:45am CDT 
     :Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
     :Resources: `Google Drive Folder <https://drive.google.com/drive/folders/1xEDL4PCMS7K9Q2t7iWGoBOBAsRuvr9JZ?usp=sharing>`_
+
+    .. Admonition:: Workshop Info
+
+    .. _ceg3: 
+    .. workshop fields:
+
+    :Title: Making the Most of Group Presentations on a Shortened Timeline 
+    :Presenter: Kate Hooper
+    :Date: Thursday October 14, 3:00pm CDT
+    :Modality: Virtual
+    :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c8d0a7e-cdc7-488f-bc08-adc10157fe22>`_
+    :Materials: `Slideshow with Resources <https://olemiss-my.sharepoint.com/:p:/g/personal/kmhooper_olemiss_edu/EUerirVyjuJGvrbmHBA8RPEBeWoYYqWSmlkh2hp4zO_yHw?rtime=8q90MtaT2Ug>_`
+
 
 
 
