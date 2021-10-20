@@ -12,7 +12,7 @@ Coming Up Next
 
     :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
     :Presenter: Deidra Jackson
-    :Date: November 2021
+    :Date: Wednesday November 10, 11:00am CST
 
 .. Admonition:: Workshop Info
 
@@ -86,7 +86,7 @@ Previous Workshop Recordings
     :Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
     :Resources: `Google Drive Folder <https://drive.google.com/drive/folders/1xEDL4PCMS7K9Q2t7iWGoBOBAsRuvr9JZ?usp=sharing>`_
 
-    .. Admonition:: Workshop Info
+.. Admonition:: Workshop Info
 
     .. _ceg3: 
     .. workshop fields:
