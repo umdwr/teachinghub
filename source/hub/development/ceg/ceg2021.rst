@@ -5,31 +5,6 @@ During Fall 2021, join your DWR colleagues for workshops related to their DWR Su
 
 Coming Up Next
 --------------
-.. Admonition:: Workshop Info
-
-    .. _ceg5:
-    .. workshop fields:
-
-    :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
-    :Presenter: Rachel Johnson 
-    :Date: Monday November 1, 2021, 1:00pm CDT
-    :Modality: Face-to-Face 
-    :Location: TBA
-
-.. Admonition:: Workshop Info
-
-    .. _ceg4:
-    .. workshop fields: 
-
-    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
-    :Presenter: Deidra Jackson
-    :Date: Wednesday November 10, 11:00am CST
-    :Modality: Virtual
-    :Access: Zoom Registration Forthcoming
-
-
-Tentatively Scheduled
-~~~~~~~~~~~~~~~~~~~~~
 
 .. Admonition:: Workshop Info
 
@@ -48,6 +23,9 @@ Tentatively Scheduled
     :Title: *What is a Community Literacy Center?*
     :Presenter: Don Unger
     :Date: December 2021
+
+Tentatively Scheduled
+~~~~~~~~~~~~~~~~~~~~~
 
 Previous Workshop Recordings
 ----------------------------
@@ -103,6 +81,29 @@ Previous Workshop Recordings
     :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
     :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c8d0a7e-cdc7-488f-bc08-adc10157fe22>`_
     :Materials: `Slideshow with Resources <https://olemiss-my.sharepoint.com/:p:/g/personal/kmhooper_olemiss_edu/EUerirVyjuJGvrbmHBA8RPEBeWoYYqWSmlkh2hp4zO_yHw?rtime=8q90MtaT2Ug>`_
+
+    .. Admonition:: Workshop Info
+
+    .. _ceg5:
+    .. workshop fields:
+
+    :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
+    :Presenter: Rachel Johnson 
+    :Date: Monday November 1, 2021, 1:00pm CDT
+    :Modality: Face-to-Face 
+    :Location: Oxford Writing Center
+    :Recording: `Watch the Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590bf6a9-8503-4706-99e8-add301385485>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg4:
+    .. workshop fields: 
+
+    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
+    :Presenter: Deidra Jackson
+    :Date: Wednesday November 10, 11:00am CST
+    :Modality: Virtual
+    :Access: `Vew Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c2acf8-da63-4107-ad68-addc0132c45a>`_
 
 
 
