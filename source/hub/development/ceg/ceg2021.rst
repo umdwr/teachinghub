@@ -82,7 +82,7 @@ Previous Workshop Recordings
     :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c8d0a7e-cdc7-488f-bc08-adc10157fe22>`_
     :Materials: `Slideshow with Resources <https://olemiss-my.sharepoint.com/:p:/g/personal/kmhooper_olemiss_edu/EUerirVyjuJGvrbmHBA8RPEBeWoYYqWSmlkh2hp4zO_yHw?rtime=8q90MtaT2Ug>`_
 
-    .. Admonition:: Workshop Info
+.. Admonition:: Workshop Info
 
     .. _ceg5:
     .. workshop fields:
