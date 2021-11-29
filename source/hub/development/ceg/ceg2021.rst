@@ -30,24 +30,6 @@ Coming Up Next
     :Time: 2:45pm CST 
     :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
 
-.. Admonition:: Workshop Info
-
-    .. _ceg6:
-    .. workshop fields: 
-
-    :Title: *The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County*
-    :Presenter: Jeanine Rauch 
-    :Date: December 2021
-
-.. Admonition:: Workshop Info
-
-    .. _ceg7:
-    .. workshop fields:
-
-    :Title: *What is a Community Literacy Center?*
-    :Presenter: Don Unger
-    :Date: December 2021
-
 Tentatively Scheduled
 ~~~~~~~~~~~~~~~~~~~~~
 
