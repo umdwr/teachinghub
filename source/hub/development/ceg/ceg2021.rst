@@ -8,6 +8,30 @@ Coming Up Next
 
 .. Admonition:: Workshop Info
 
+    .. _ceg6: 
+    .. workshop fields:
+    
+    :Title: Teaching Beyond the Classroom: DWR and the Community (Paired Workshops)
+    :Date: Wednesday December 1, 2:00 - 3:30 CST
+    :Modality: Virtual
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJMkc-uoqDkuGtGryMMnS4h5M-e_ok6JsZpV>`_
+
+    .. workshop fields:
+
+    :Title: Enhancing Writing Skills with Middle School and High School Students from North Panola County 
+    :Presenter: Jeanine Rauch
+    :Time: 2:00pm CST 
+    :Description: This workshop will present writing techniques used to help middle school and high school students understand the importance of Audience and Purpose within an essay, practice community mapping, writing for change, and place-based arguments. Discussion will also take place on ways to outreach our services to the surrounding counties or communities.
+
+    .. workshop fields:
+
+    :Title: Starting a Conversation about a Community Literacy Center at the University of Mississippi
+    :Presenter: Don Unger
+    :Time: 2:45pm CST 
+    :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
+
+.. Admonition:: Workshop Info
+
     .. _ceg6:
     .. workshop fields: 
 
