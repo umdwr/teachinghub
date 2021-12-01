@@ -14,7 +14,7 @@ Coming Up Next
     :Title: Teaching Beyond the Classroom: DWR and the Community (Paired Workshops)
     :Date: Wednesday December 1, 2:00 - 3:30 CST
     :Modality: Virtual
-    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJMkc-uoqDkuGtGryMMnS4h5M-e_ok6JsZpV>`_
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87379dff-3915-401e-9022-adf101662d3f>`_
 
     .. workshop fields:
 
