@@ -5,56 +5,40 @@ During Fall 2021, join your DWR colleagues for workshops related to their DWR Su
 
 Coming Up Next
 --------------
+
 .. Admonition:: Workshop Info
+
+    .. _ceg6: 
+    .. workshop fields:
+    
+    :Title: Teaching Beyond the Classroom: DWR and the Community (Paired Workshops)
+    :Date: Wednesday December 1, 2:00 - 3:30 CST
+    :Modality: Virtual
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87379dff-3915-401e-9022-adf101662d3f>`_
 
     .. workshop fields:
 
-    :Title: Making the Most of Group Presentations on a Shortened Timeline 
-    :Presenter: Kate Hooper
-    :Date: Thursday October 14, 3:00pm CDT
-    :Modality: Virtual
-    :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
-    :Access: Zoom Registration Link Coming Soon
+    :Title: Enhancing Writing Skills with Middle School and High School Students from North Panola County 
+    :Presenter: Jeanine Rauch
+    :Time: 2:00pm CST 
+    :Description: This workshop will present writing techniques used to help middle school and high school students understand the importance of Audience and Purpose within an essay, practice community mapping, writing for change, and place-based arguments. Discussion will also take place on ways to outreach our services to the surrounding counties or communities.
+
+    .. workshop fields:
+
+    :Title: Starting a Conversation about a Community Literacy Center at the University of Mississippi
+    :Presenter: Don Unger
+    :Time: 2:45pm CST 
+    :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
 
 Tentatively Scheduled
 ~~~~~~~~~~~~~~~~~~~~~
-.. Admonition:: Workshop Info
-
-    .. workshop fields: 
-
-    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
-    :Presenter: Deidra Jackson
-    :Date: November 2021
-
-.. Admonition:: Workshop Info
-
-    .. workshop fields:
-
-    :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
-    :Presenter: Rachel Johnson 
-    :Date: November 2021
-
-.. Admonition:: Workshop Info
-
-    .. workshop fields: 
-
-    :Title: *The University of Mississippi Writing Project and the Department of Writing and Rhetoric: Enhancing Writing Skills with Middle School and High School Students from North Panola County*
-    :Presenter: Jeanine Rauch 
-    :Date: December 2021
-
-.. Admonition:: Workshop Info
-
-    .. workshop fields:
-
-    :Title: *What is a Community Literacy Center?*
-    :Presenter: Don Unger
-    :Date: December 2021
 
 Previous Workshop Recordings
 ----------------------------
 
 .. Admonition:: Workshop Info
 
+    .. _ceg1: 
     .. workshop fields:
 
     :Title: Mindful Moments: Contemplative Pedagogy in the Writing Classroom
@@ -67,6 +51,7 @@ Previous Workshop Recordings
 
 .. Admonition:: Workshop Info
 
+    .. _ceg2: 
     .. workshop fields:
     
     :Title: Advancing Student Learning with Digital Tools (Paired Workshops)
@@ -89,6 +74,43 @@ Previous Workshop Recordings
     :Time: 10:45am CDT 
     :Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
     :Resources: `Google Drive Folder <https://drive.google.com/drive/folders/1xEDL4PCMS7K9Q2t7iWGoBOBAsRuvr9JZ?usp=sharing>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg3: 
+    .. workshop fields:
+
+    :Title: Making the Most of Group Presentations on a Shortened Timeline 
+    :Presenter: Kate Hooper
+    :Date: Thursday October 14, 3:00pm CDT
+    :Modality: Virtual
+    :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c8d0a7e-cdc7-488f-bc08-adc10157fe22>`_
+    :Materials: `Slideshow with Resources <https://olemiss-my.sharepoint.com/:p:/g/personal/kmhooper_olemiss_edu/EUerirVyjuJGvrbmHBA8RPEBeWoYYqWSmlkh2hp4zO_yHw?rtime=8q90MtaT2Ug>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg5:
+    .. workshop fields:
+
+    :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
+    :Presenter: Rachel Johnson 
+    :Date: Monday November 1, 2021, 1:00pm CDT
+    :Modality: Face-to-Face 
+    :Location: Oxford Writing Center
+    :Recording: `Watch the Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590bf6a9-8503-4706-99e8-add301385485>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg4:
+    .. workshop fields: 
+
+    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
+    :Presenter: Deidra Jackson
+    :Date: Wednesday November 10, 11:00am CST
+    :Modality: Virtual
+    :Access: `Vew Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c2acf8-da63-4107-ad68-addc0132c45a>`_
+
 
 
 

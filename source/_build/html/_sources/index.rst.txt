@@ -87,7 +87,8 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Reports and Research
+   :caption: Research
 
    reports/index
+   reports/wcoer/wcoer
 
