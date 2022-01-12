@@ -2,7 +2,7 @@ Syllabi and Office Hours
 ===============================
 All DWR faculty must submit syllabi for each course they're teaching and updated office hour information at the beginning of each semester. 
 
-`View Faculty Syllabi and Information <https://olemiss.sharepoint.com/sites/DWRAdmin/Lists/Syllabi%20and%20Office%20Hours/AllItems.aspx?viewid=f225130b%2D9d2b%2D4f41%2D8595%2D2ae261090727>` (DWR Faculty and Staff Only)
+`View Faculty Syllabi and Information <https://olemiss.sharepoint.com/sites/DWRAdmin/Lists/Syllabi%20and%20Office%20Hours/AllItems.aspx?viewid=f225130b%2D9d2b%2D4f41%2D8595%2D2ae261090727>`_ (DWR Faculty and Staff Only)
 
 Please upload each syllabus individually and fill out the required metadata for each upload. If you use the same syllabus for multiple sections, list the relevant section numbers separated by commas. 
 
