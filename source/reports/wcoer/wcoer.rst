@@ -9,9 +9,6 @@ UM Writing Centers OER Institute
         :local:
         :depth: 1
 
-
-
-
 The UM Oxford Writing Center hosted an open educational resources institute in January 2022 for graduate students. This program offered participating graduate students with experience or interest in writing center consultation and/or writing instruction the opportunity to learn how to develop, design, and publish open educational resources. Participants attended brief, daily professional development sessions where they learned principles of open access content development, document design, electronic document accessibility, creative commons licensing, and web publication. 
 
 Participants worked in groups to develop writing instructional topics, design learning resources, workshop their ideas, and carry their compositions through to publication. The culmination of the program was the production of a series of new open access educational resources published on the UMWC website and credited to the individual author or teams of authors.
@@ -61,6 +58,7 @@ Appendix
 
     * `UH OER Handbook <https://uhlibraries.pressbooks.pub/oerhandbook/>`_
     * `ISU OER Starter Kit <https://iastate.pressbooks.pub/oerstarterkit/>`_
+    * `OER Starter Kit <https://cuny.manifoldapp.org/projects/the-oer-starter-kit-workbook>_`
     * `80 OER Tools and Platforms <https://oedb.org/ilibrarian/80-oer-tools/>`_
     * `OER Camp Global 2021 <https://oercampglobal2021.sched.com/>`_
 
