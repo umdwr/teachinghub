@@ -3,12 +3,12 @@ UM Writing Centers OER Institute
 ================================
 .. Note:: This section is under construction and is not finalized. 
 
-.. sidebar:: Resources
+.. sidebar:: Contents
 
-    * `UH OER Handbook <https://uhlibraries.pressbooks.pub/oerhandbook/>`_
-    * `ISU OER Starter Kit <https://iastate.pressbooks.pub/oerstarterkit/>`_
-    * `80 OER Tools and Platforms <https://oedb.org/ilibrarian/80-oer-tools/>`_
-    * `OER Camp Global 2021 <https://oercampglobal2021.sched.com/>`_
+    .. contents:: 
+        :local:
+        :depth: 1
+
 
 
 
@@ -21,9 +21,6 @@ This section of the Teaching Hub is for OER Project Mangement documentation and 
 Managing an OER Project
 ~~~~~~~~~~~~~~~~~~~~~~~
 The main challenge faced by faculty members (and other knowledge workers) in creating and sustaining an OER or a collection of OERs comes from the lack of long-term project modeling. Unlike commercial publishers, who have the workflows, experience, and funding to maintain multiple publication projects, most people who are interested in working on OER projects are not in the publishing industry: they're teachers, writing center tutors, undergraduate students, and even community members. That's why it is especially important for OER project leaders to build a sustainable model with simple, long-term infrastructure and a plan for maintaining the project once the initial group of developers have moved on. 
-
-.. image:: /assets/prodction-workflow.png
-    :alt: ISU OER Production Franework (see hyperlink below)
 
 OER Production Framework
 ------------------------
@@ -56,6 +53,16 @@ Content here is typically drafted in Google Docs or another rich content editor 
 Publication phase
 ^^^^^^^^^^^^^^^^^
 The final phase involves publishing and sharing the content that has been created. This includes creating export versions, archiving editable files for instructors who might wish to edit your work (.doc, .xml, etc), and depositing any ancillary materials such as syllabi or lesson plans in the institutional Digital Repository. The new adapted or original OER content is then disseminated to learners and shared with the open community.
+
+Appendix
+~~~~~~~~~
+
+.. Admonition:: Resources
+
+    * `UH OER Handbook <https://uhlibraries.pressbooks.pub/oerhandbook/>`_
+    * `ISU OER Starter Kit <https://iastate.pressbooks.pub/oerstarterkit/>`_
+    * `80 OER Tools and Platforms <https://oedb.org/ilibrarian/80-oer-tools/>`_
+    * `OER Camp Global 2021 <https://oercampglobal2021.sched.com/>`_
 
 
 
