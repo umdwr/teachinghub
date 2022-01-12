@@ -61,6 +61,8 @@ Appendix
     * `OER Starter Kit <https://cuny.manifoldapp.org/projects/the-oer-starter-kit-workbook>`_
     * `80 OER Tools and Platforms <https://oedb.org/ilibrarian/80-oer-tools/>`_
     * `OER Camp Global 2021 <https://oercampglobal2021.sched.com/>`_
+    * `OER Commons Network Hubs <https://www.oercommons.org/hubs/>`_
+  
 
 
 
