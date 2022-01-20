@@ -14,11 +14,12 @@ Observation Forms
 
 .. Important:: 
 
-    Please select the observation type to submit an observation report. For the Short Narrative, faculty members should submit a pre-observation form in advance of the scheduled observation date. 
+    Faculty: submit an observation request form before your observation takes place (both observation types)
+    Observers: select the observation type to submit an observation report. 
 
-    * `Observation Checklist <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UN1RYMVg1QTJDTUtXRDgzVDM2QU9OVzhGTSQlQCN0PWcu>`_
-    * `Short Narrative Pre-Observation <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1URTNPUllMNjRBTEIwSlRFUlA0QktNQjBJWCQlQCN0PWcu>`_
-    * `Short Narrative Post-Observation <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UOTJTVFpIWU8wU0xZUllWODM5RVZOS0FDQiQlQCN0PWcu>`_
+    * `Observation Request Form <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UOFBESzFQSEFVSjFKMFRNQ1dKSlZTWktRMCQlQCN0PWcu>`_`
+    * `Observation Checklist Report <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UN1RYMVg1QTJDTUtXRDgzVDM2QU9OVzhGTSQlQCN0PWcu>`_
+    * `Short Narrative Report <https://forms.office.com/Pages/ResponsePage.aspx?id=MMmpabsdMEa91dKLj2gKrlUjk9CHoEBEtUWxGTenbO1UOTJTVFpIWU8wU0xZUllWODM5RVZOS0FDQiQlQCN0PWcu>`_
 
 
 Policy
