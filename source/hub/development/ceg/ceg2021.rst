@@ -3,37 +3,85 @@ Teacher Development Workshops (2021-2022)
 
 During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
 
-Coming Up Next
---------------
+Coming Up
+---------
 
 .. Admonition:: Workshop Info
 
-    .. _ceg6: 
+    .. _ceg0122
+
+    :Title: “I’m fixing to talk about” – Keeping your speaking/writing style while adapting to your audience
+    :Presenters: Carrie McCormick
+    :Date: Wednesday January 26, 1:00PM CST
+    :Modality: In-Person
+    :Description: The workshop will begin with a quick lesson on knowing one’s audience, move into an exercise that utilizes The New York Times dialect quiz, “How Y’all, Youse and You Guys Talk” to discuss and draw attention to various speech patterns. The workshop will contain an interactive activity focusing on our own distinctive word use/dialect and how that can create in/out group membership, and end with discussing potential assignments in each of your classes. 
+    :Location: Lamar Hall 323 (DWR Conference Room)
+    :Event Details: `View Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=19>`_
+
+
+Spring 2022 Workshops
+----------------------
+.. Admonition:: Workshop Info
+
+    .. _ceg0222: 
     .. workshop fields:
     
-    :Title: Teaching Beyond the Classroom: DWR and the Community (Paired Workshops)
-    :Date: Wednesday December 1, 2:00 - 3:30 CST
+    :Title: Teaching Outside the Box: New Approaches to Reaching Students (Paired Workshops)
+    :Date: Tuesday February 15, 1:00PM - 2:30PM CST
     :Modality: Virtual
-    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87379dff-3915-401e-9022-adf101662d3f>`_
+    :Access: Registration Link Coming Soon
 
     .. workshop fields:
 
-    :Title: Enhancing Writing Skills with Middle School and High School Students from North Panola County 
+    :Title: Journaling Naked:  The Unplugged Assignment in Online Instruction
+    :Presenter: Dixon Bynum
+    :Time: 1:00PM CST 
+    :Description: Even with the best pedagogical practices, the online classroom can often remain a limited, virtual space for students, especially so during a pandemic.  Incorporating assignments which emphasize experiential learning and reduce the use of technology (hence "naked") can help counteract this perception and aid in student reflection.  This workshop will introduce two informal writing assignments used in WRIT 101 and 102 that employed experiential learning and cover student survey reactions to those assignments.
+
+    .. workshop fields:
+
+    :Title: Teaching to Support Executive Function
+    :Presenter: Meredith Harper
+    :Time: 1:45PM CST 
+    :Description: “Teaching to Support Executive Function”
+
+.. Admonition:: Workshop Info
+
+    .. _ceg0322: 
+    .. workshop fields:
+
+    :Title: Using Creative Writing Techniques to Write Academic Research Essays
     :Presenter: Jeanine Rauch
-    :Time: 2:00pm CST 
-    :Description: This workshop will present writing techniques used to help middle school and high school students understand the importance of Audience and Purpose within an essay, practice community mapping, writing for change, and place-based arguments. Discussion will also take place on ways to outreach our services to the surrounding counties or communities.
+    :Date: Wednesday March 2, 1:00PM CST
+    :Modality: Virtual
+    :Description: This workshop will cover various creative writing techniques that will prompt students to find alternative ways get their ideas on paper for their academic research paper. 
+    :Access: Registration Link Coming Soon
 
+.. Admonition:: Workshop Info
+
+    .. _ceg0422: 
     .. workshop fields:
 
-    :Title: Starting a Conversation about a Community Literacy Center at the University of Mississippi
-    :Presenter: Don Unger
-    :Time: 2:45pm CST 
-    :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
+    :Title: Using Creative Writing Techniques to Write Academic Research Essays
+    :Presenter: Emily Cooley
+    :Date: Monday April 4, 11:00AM CDT
+    :Modality: TBA
+    :Description: In the workshop, we will discuss ways to help our students "think little" by engaging with their research topics on a local level. I will be using my Argument for Positive Change Research Essay and Multimodal Letter for Change assignment prompts as examples. 
+    :Access: Registration Link Coming Soon
 
-Tentatively Scheduled
-~~~~~~~~~~~~~~~~~~~~~
+.. Admonition:: Workshop Info
 
-Previous Workshop Recordings
+    .. _ceg0522: 
+    .. workshop fields:
+
+    :Title: Reflection versus Justification:  A Preliminary Study of How Writing Feedback Influences FYC Writing Students
+    :Presenter: Mary Ann Parker and Ellen Shelton
+    :Date: April 2022 (TBA)
+    :Modality: TBA
+    :Description: In order to gain a greater understanding of the effects of feedback on FYC students’ mindsets toward writing, one DWR instructor (Mary Ann Parker) and one DWR lecturer (Ellen Shelton) have piloted a quantitative study designed to discover how teachers are assigning and responding to student writing in high school classrooms and how FYC students perceive the effects of those written comments through the lens of their first-year writing composition course in college.
+    :Access: Registration Link Coming Soon
+
+Fall 2021 Workshop Recordings
 ----------------------------
 
 .. Admonition:: Workshop Info
@@ -110,6 +158,31 @@ Previous Workshop Recordings
     :Date: Wednesday November 10, 11:00am CST
     :Modality: Virtual
     :Access: `Vew Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c2acf8-da63-4107-ad68-addc0132c45a>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg6: 
+    .. workshop fields:
+    
+    :Title: Teaching Beyond the Classroom: DWR and the Community (Paired Workshops)
+    :Date: Wednesday December 1, 2:00 - 3:30 CST
+    :Modality: Virtual
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87379dff-3915-401e-9022-adf101662d3f>`_
+
+    .. workshop fields:
+
+    :Title: Enhancing Writing Skills with Middle School and High School Students from North Panola County 
+    :Presenter: Jeanine Rauch
+    :Time: 2:00pm CST 
+    :Description: This workshop will present writing techniques used to help middle school and high school students understand the importance of Audience and Purpose within an essay, practice community mapping, writing for change, and place-based arguments. Discussion will also take place on ways to outreach our services to the surrounding counties or communities.
+
+    .. workshop fields:
+
+    :Title: Starting a Conversation about a Community Literacy Center at the University of Mississippi
+    :Presenter: Don Unger
+    :Time: 2:45pm CST 
+    :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
+
 
 
 
