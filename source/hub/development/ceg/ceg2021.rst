@@ -43,7 +43,7 @@ Spring 2022 Workshops
     :Title: Teaching to Support Executive Function
     :Presenter: Meredith Harper
     :Time: 1:45PM CST 
-    :Description: “Teaching to Support Executive Function”
+    :Description: “Executive function” refers to the mental processes that govern one’s ability to focus on tasks and juggle information. This presentation will provide an overview of current scholarship on the role of executive function in learning at the university level. Drawing from educational and cognitive psychological research, this presentation will inform attendees about the different processes that comprise executive function and how these cognitive processes impact students’ ability to read, write, and think critically. 
 
 .. Admonition:: Workshop Info
 
