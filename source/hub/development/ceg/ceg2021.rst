@@ -172,7 +172,7 @@ Workshop Recordings
     
 .. Admonition:: Workshop Info
     
-    .. _ceg0122
+    .. _ceg0122:
 
     :Title: “I’m fixing to talk about” – Keeping your speaking/writing style while adapting to your audience
     :Presenters: Carrie McCormick
