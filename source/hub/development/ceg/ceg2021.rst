@@ -16,7 +16,7 @@ Coming Up Next
     :Date: Tuesday February 15, 1:00PM - 2:30PM CST
     :Modality: Virtual
     :Access: Registration Link Coming Soon
-    :Event Details: `View Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=21>_`
+    :Event Details: `View Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=21>`_`
 
     .. workshop fields:
 
@@ -49,7 +49,7 @@ Coming Up Next
     .. _ceg0422: 
     .. workshop fields:
 
-    :Title: Using Creative Writing Techniques to Write Academic Research Essays
+    :Title: Thinking Little: Civic Engagement on a Local Level
     :Presenter: Emily Cooley
     :Date: Monday April 4, 11:00AM CDT
     :Modality: TBA
