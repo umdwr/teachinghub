@@ -3,24 +3,10 @@ Teacher Development Workshops (2021-2022)
 
 During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
 
-Coming Up
----------
-
-.. Admonition:: Workshop Info
-
-    .. _ceg0122
-
-    :Title: “I’m fixing to talk about” – Keeping your speaking/writing style while adapting to your audience
-    :Presenters: Carrie McCormick
-    :Date: Wednesday January 26, 1:00PM CST
-    :Modality: In-Person
-    :Description: The workshop will begin with a quick lesson on knowing one’s audience, move into an exercise that utilizes The New York Times dialect quiz, “How Y’all, Youse and You Guys Talk” to discuss and draw attention to various speech patterns. The workshop will contain an interactive activity focusing on our own distinctive word use/dialect and how that can create in/out group membership, and end with discussing potential assignments in each of your classes. 
-    :Location: Lamar Hall 323 (DWR Conference Room)
-    :Event Details: `View Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=20>`_
+Coming Up Next
+--------------
 
 
-Spring 2022 Workshops
-----------------------
 .. Admonition:: Workshop Info
 
     .. _ceg0222: 
@@ -82,7 +68,7 @@ Spring 2022 Workshops
     :Description: In order to gain a greater understanding of the effects of feedback on FYC students’ mindsets toward writing, one DWR instructor (Mary Ann Parker) and one DWR lecturer (Ellen Shelton) have piloted a quantitative study designed to discover how teachers are assigning and responding to student writing in high school classrooms and how FYC students perceive the effects of those written comments through the lens of their first-year writing composition course in college.
     :Access: Registration Link Coming Soon
 
-Fall 2021 Workshop Recordings
+Workshop Recordings
 ----------------------------
 
 .. Admonition:: Workshop Info
@@ -183,6 +169,18 @@ Fall 2021 Workshop Recordings
     :Presenter: Don Unger
     :Time: 2:45pm CST 
     :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
+    
+.. Admonition:: Workshop Info
+    
+    .. _ceg0122
+
+    :Title: “I’m fixing to talk about” – Keeping your speaking/writing style while adapting to your audience
+    :Presenters: Carrie McCormick
+    :Date: Wednesday January 26, 1:00PM CST
+    :Modality: In-Person
+    :Description: The workshop will begin with a quick lesson on knowing one’s audience, move into an exercise that utilizes The New York Times dialect quiz, “How Y’all, Youse and You Guys Talk” to discuss and draw attention to various speech patterns. The workshop will contain an interactive activity focusing on our own distinctive word use/dialect and how that can create in/out group membership, and end with discussing potential assignments in each of your classes. 
+    :Location: Lamar Hall 323 (DWR Conference Room)
+    :Workshop Recording: `View Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfb77e0-a0a3-4a61-b4de-ae290139eb18>`_
 
 
 
