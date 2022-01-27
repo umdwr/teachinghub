@@ -17,6 +17,7 @@ Coming Up Next
     :Modality: Virtual
     :Access: Registration Link Coming Soon
     :Event Details: `View Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=21>`_
+    :Registration: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/99664195186>`_ 
 
     .. workshop fields:
 
