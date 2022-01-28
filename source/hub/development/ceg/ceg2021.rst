@@ -17,7 +17,7 @@ Coming Up Next
     :Modality: Virtual
     :Access: Registration Link Coming Soon
     :Event Details: `View Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=21>`_
-    :Registration: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJ0rce2ppz4rEtJCxHMcBjjvz1pA8Ehk7a6N>`_ 
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJ0rce2ppz4rEtJCxHMcBjjvz1pA8Ehk7a6N>`_ 
 
     .. workshop fields:
 
@@ -134,7 +134,7 @@ Workshop Recordings
     :Date: Monday November 1, 2021, 1:00pm CDT
     :Modality: Face-to-Face 
     :Location: Oxford Writing Center
-    :Recording: `Watch the Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590bf6a9-8503-4706-99e8-add301385485>`_
+    :Access: `Watch the Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590bf6a9-8503-4706-99e8-add301385485>`_
 
 .. Admonition:: Workshop Info
 
@@ -181,7 +181,7 @@ Workshop Recordings
     :Modality: In-Person
     :Description: The workshop will begin with a quick lesson on knowing one’s audience, move into an exercise that utilizes The New York Times dialect quiz, “How Y’all, Youse and You Guys Talk” to discuss and draw attention to various speech patterns. The workshop will contain an interactive activity focusing on our own distinctive word use/dialect and how that can create in/out group membership, and end with discussing potential assignments in each of your classes. 
     :Location: Lamar Hall 323 (DWR Conference Room)
-    :Workshop Recording: `View Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfb77e0-a0a3-4a61-b4de-ae290139eb18>`_
+    :Access: `View Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfb77e0-a0a3-4a61-b4de-ae290139eb18>`_
 
 
 
