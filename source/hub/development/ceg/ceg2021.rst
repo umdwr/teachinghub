@@ -157,7 +157,8 @@ Workshop Recordings
     :Location: Lamar Hall 323 (DWR Conference Room)
     :Access: `View Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfb77e0-a0a3-4a61-b4de-ae290139eb18>`_
 
-    .. Admonition:: Workshop Info
+
+.. Admonition:: Workshop Info
 
     .. _ceg0222: 
     .. workshop fields:
