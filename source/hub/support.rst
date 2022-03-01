@@ -11,13 +11,12 @@ This section of the Teaching Hub provides guides and resources to support good p
 
 Instructional Designer
 -----------------------------------------------
+Make an appointment with Andrew Davis or stop by Lamar Hall Suite B, Rm. 22. 
 
-.. admonition:: Make an Appointment
-
-      .. raw:: html
-
-            <div class="calendly-inline-widget" data-url="https://calendly.com/adavis46?background_color=2980b9&text_color=ffffff" style="min-width:320px;height:630px;"></div>
-            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+.. raw:: html
+    
+    <div class="calendly-inline-widget" data-url="https://calendly.com/adavis46?background_color=2980b9&text_color=ffffff" style="min-width:320px;height:630px;"></div>
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 
 Blackboard Templates
