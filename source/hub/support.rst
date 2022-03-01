@@ -9,6 +9,17 @@ Instructional Support
 
 This section of the Teaching Hub provides guides and resources to support good pedagogy and instruction in all DWR Writing and Speech courses. 
 
+Instructional Designer
+-----------------------------------------------
+
+.. admonition:: Make an Appointment
+
+      .. raw:: html
+
+            <div class="calendly-inline-widget" data-url="https://calendly.com/adavis46?background_color=2980b9&text_color=ffffff" style="min-width:320px;height:630px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
 Blackboard Templates
 ---------------------
 The WRIT 100/101 Blackboard template provides a pre-developed course structure, major assignments, and grade center configuration for the standard, NYT, and NPR curriculum options. It is designed to accommodate face-to-face and web modalities and is fully customizable once added to a course. 
