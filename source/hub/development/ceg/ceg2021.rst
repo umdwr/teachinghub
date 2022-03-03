@@ -7,29 +7,16 @@ Coming Up Next
 --------------
 .. Admonition:: Workshop Info
 
-    .. _ceg0322: 
-    .. workshop fields:
-
-    :Title: Using Creative Writing Techniques to Write Academic Research Essays
-    :Presenter: Jeanine Rauch
-    :Date: Wednesday March 2, 1:00PM CST
-    :Modality: Virtual
-    :Description: This workshop will cover various creative writing techniques that will prompt students to find alternative ways get their ideas on paper for their academic research paper. 
-    :Event Details: `View Event and Add to Calendar <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=22>`_
-    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJErdOGtrjIjHdaZknjFx3xp62mNJGUf3PKl>`_
-
-
-.. Admonition:: Workshop Info
-
     .. _ceg0422: 
     .. workshop fields:
 
     :Title: Thinking Little: Civic Engagement on a Local Level
     :Presenter: Emily Cooley
     :Date: Monday April 4, 11:00AM CDT
-    :Modality: TBA
+    :Modality: Virtual
     :Description: In the workshop, we will discuss ways to help our students "think little" by engaging with their research topics on a local level. I will be using my Argument for Positive Change Research Essay and Multimodal Letter for Change assignment prompts as examples. 
-    :Access: Registration Link Coming Soon
+    :Event Details: `Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=24>`_
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJIpceCupz0oG9ah92fYhR8cpBghxmgAcFBZ>`_
 
 .. Admonition:: Workshop Info
 
@@ -183,6 +170,19 @@ Workshop Recordings
     :Time: 1:45PM CST 
     :Description: “Executive function” refers to the mental processes that govern one’s ability to focus on tasks and juggle information. This presentation will provide an overview of current scholarship on the role of executive function in learning at the university level. Drawing from educational and cognitive psychological research, this presentation will inform attendees about the different processes that comprise executive function and how these cognitive processes impact students’ ability to read, write, and think critically. 
 
+
+.. Admonition:: Workshop Info
+
+    .. _ceg0322: 
+    .. workshop fields:
+
+    :Title: Using Creative Writing Techniques to Write Academic Research Essays
+    :Presenter: Jeanine Rauch
+    :Date: Wednesday March 2, 1:00PM CST
+    :Modality: Virtual
+    :Description: This workshop will cover various creative writing techniques that will prompt students to find alternative ways get their ideas on paper for their academic research paper. 
+    :Event Details: `View Event and Add to Calendar <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=22>`_
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJErdOGtrjIjHdaZknjFx3xp62mNJGUf3PKl>`_
 
 
 
