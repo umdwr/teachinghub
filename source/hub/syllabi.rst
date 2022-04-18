@@ -10,12 +10,10 @@ Please upload each syllabus individually and fill out the required metadata for 
 
     .. figure:: /assets/mydwr.png
         :alt: myDWR Logo
-        :width: 50px 
+        :width: 150px 
         :target: 'https://olemiss.sharepoint.com/sites/DWRAdmin'
 
-        Please use your @olemiss.edu account credentials to access these functions. 
-
-    `Join the DWR on Teams <https://teams.microsoft.com/l/team/19%3afb0f264ae88b41c49040dd7264c3f6f4%40thread.skype/conversations?groupId=d0932355-a087-4440-b545-b11937a76ced&tenantId=69a9c930-1dbb-4630-bdd5-d28b8f680aae>`_
+        Please use your @olemiss.edu account credentials when opening the links below.
 
     .. raw:: html
 
