@@ -9,7 +9,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
 .. Important:: 
 
-   .. figure:: /assets/mydwr.png
+   .. figure:: assets/mydwr.png
         :alt: myDWR Logo
         :width: 150px 
         :target: `https://olemiss.sharepoint.com/sites/DWRAdmin`_
