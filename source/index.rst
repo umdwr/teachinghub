@@ -12,7 +12,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
        .. figure:: /assets/mydwr.png
         :alt: myDWR Logo
         :width: 150px 
-        :target: 'https://olemiss.sharepoint.com/sites/DWRAdmin'
+        :target: `https://olemiss.sharepoint.com/sites/DWRAdmin`_
 
    Most DWR internal workflows, processes, and documents are moving to myDWR. The DWR Teaching Hub will still serve all teaching guides, assignment libraries, and any other content from the department with an open license.
 

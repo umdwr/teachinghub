@@ -11,7 +11,7 @@ Please upload each syllabus individually and fill out the required metadata for 
     .. figure:: /assets/mydwr.png
         :alt: myDWR Logo
         :width: 150px 
-        :target: 'https://olemiss.sharepoint.com/sites/DWRAdmin'
+        :target: `https://olemiss.sharepoint.com/sites/DWRAdmin`_
 
         Please use your @olemiss.edu account credentials when opening the links below.
 
