@@ -19,7 +19,7 @@ Please upload each syllabus individually and fill out the required metadata for 
 
         <div class="cols">
             <div class="colA">
-            <a href="https://olemiss.sharepoint.com/:w:/r/sites/DWRAdmin/_layouts/15/Doc.aspx?sourcedoc=%7B1A905C09-209C-4964-9C43-D07AE5F04E33%7D&file=Spring%202022__Don%20Vaughan_SPCH%20102__20.docx&wdLOR=c64BAAF7D-4911-4971-9843-05CFBCD36208&action=default&mobileredirect=true"><button class="button">Upload Syllabi</button></a>
+            <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Upload-a-Syllabus.aspx"><button class="button">Upload Syllabi</button></a>
             </div>
             <div class="colB">
             <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Update-Directory-Information.aspx"><button class="button greenbutton">Submit Office Hours</button></a>
