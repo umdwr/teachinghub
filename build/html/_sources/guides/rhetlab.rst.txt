@@ -35,7 +35,7 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
     **Import**
 
-    1. In your WRIT 100 or 101 Blackboard course, click **Packanges and Utilities > Import Package/View Logs** under Course Management. 
+    1. In your WRIT 100 or 101 Blackboard course, click **Packages and Utilities > Import Package/View Logs** under Course Management. 
     2. Under **Select a Package**, click **Browse** and attach the .zip file you downloaded above. 
     3. Under **Select Course Materials**, check the boxes for:
 

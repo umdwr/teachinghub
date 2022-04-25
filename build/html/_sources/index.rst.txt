@@ -1,15 +1,20 @@
-.. DWR Teaching Hub documentation master file, created by
+.. DWR Teaching Hub master file, created by
    sphinx-quickstart on Wed Jun 30 09:51:08 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 DWR Teaching Hub
 ============================================
-.. Attention:: Fall 2021 Opening Session will be entirely online. Visit :doc:`/hub/development/os/fa21` for details. 
-
-.. Important:: Welcome to the new iteration of the DWR Teaching Hub. Some content still needs to be migrated, so if you need something that isn't here yet, just contact `Andrew Davis <mailto:addavis@olemiss.edu>`_. 
-
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
+
+.. Important:: 
+
+   .. image:: /assets/mydwr.png
+        :alt: myDWR Logo
+        :width: 150 px 
+        :target: `https://olemiss.sharepoint.com/sites/DWRAdmin`_
+
+   Most DWR internal workflows, processes, and documents are moving to myDWR. The DWR Teaching Hub will still serve all teaching guides, assignment libraries, and any other content from the department with an open license.
 
 .. raw:: html
 
@@ -41,6 +46,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    :maxdepth: 1
    :hidden:
 
+   hub/about
    hub/syllabi
    hub/development/development
    hub/observations/observations
@@ -90,7 +96,8 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Reports and Research
+   :caption: Research
 
    reports/index
+   reports/wcoer/wcoer
 
