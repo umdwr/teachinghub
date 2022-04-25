@@ -8,7 +8,7 @@ Oxford to the Ballot Box
 
 This guide provides Department of Writing & Rhetoric (DWR) faculty members with information about the Oxford to the Ballot Box project. This guide provides:
 
--  An overview that details the project’s rationale and partners
+-  An overview that details the project's rationale and partners
 -  General assignment ideas provided by the project advisory board
 -  Topics for common assignments in DWR courses
 -  Sample prompts and assignment sheets for various DWR courses
@@ -26,8 +26,8 @@ If you decide to include an assignment related to the project in your fall 2020 
 Overview
 -----------
 
-This overview was developed by the project coordinators, Jon Winet and Allen Spore. It provides you with the project’s aims, some event examples, and a list of advisory board members.
-Every four years the U.S. Presidential elections, from the early primaries in Iowa to the Inauguration, offer an important opportunity for engagement in the country’s democratic process.
+This overview was developed by the project coordinators, Jon Winet and Allen Spore. It provides you with the project's aims, some event examples, and a list of advisory board members.
+Every four years the U.S. Presidential elections, from the early primaries in Iowa to the Inauguration, offer an important opportunity for engagement in the country's democratic process.
 It is our goal that the project will encourage thoughtful, civic discussion about the election and democracy, reflecting on the vital issues for our country and this election--from participation in voting by young people and women to the history of voter suppression, to race, health care and the impact of the COVID-19 pandemic--while providing an opportunity for a broad and diverse range of people in the Oxford and University communities to voice their ideas and creative expression, capitalizing on the affordances of digital and online tools.
 
 The project has been conceptualized over the past three years through meetings with a variety of Oxford participants. With the arrival of the pandemic we see our project making less of a pivot to digital, remote programs and more of a redistribution of efforts to already planned elements of our program. The content of the project remains substantially as initially conceptualized, with of course, a consideration of COVID-19 issues and the unknown social parameters of the "New Normal." As the project is fundamentally based in public digital arts & humanities practices, we feel the project can still be realized with great impact and success. This may in fact be one of those "now more than ever moments." We see the current moment as an opportunity for an even greater community focus and collaboration, as organizations pull together to get through this time.
@@ -49,7 +49,7 @@ Additionally, we hope to collaborate with the **League of Women Voters Oxford/No
 
 We plan to work with the **Overby Center for Southern Journalism and Politics**, UM Student Union, and HottyToddy.com on presenting work from the project online, as well as using the numerous high definition electronic displays on campus and around Oxford. We have made initial contact with Charles Overby, and with HottyToddy.com News Editor Alyssa Schnugg (see October 2, 2020 news story by Julia Peoples, “\ `Research Duo Announces Documentary Project In Oxford” <https://hottytoddy.com/2019/10/02/research-duo-announces-documentaryproject-%20in-oxford/>`__).
 
-A dynamic website and **social media**(e.g. Facebook Twitter, TikTok and Instagram) featuring original content--commentary, photography, and video and audio interviews from the project by community members, students as well as relevant material harvested from the Internet. The website will also serve as a permanent archive of the project. Community participation is key to the success of these and all elements of the project. Working with our partners at the Arts Council and University, we will actively reach out to Oxford’s diverse communities to invite their input and engagement. In the Time of Covid-19 we anticipate this to be a combination of electronic and in-person conversations.
+A dynamic website and **social media**(e.g. Facebook Twitter, TikTok and Instagram) featuring original content--commentary, photography, and video and audio interviews from the project by community members, students as well as relevant material harvested from the Internet. The website will also serve as a permanent archive of the project. Community participation is key to the success of these and all elements of the project. Working with our partners at the Arts Council and University, we will actively reach out to Oxford's diverse communities to invite their input and engagement. In the Time of Covid-19 we anticipate this to be a combination of electronic and in-person conversations.
 
 An exhibit at the **Power House**, centrally located in Oxford, featuring photography, video and electronic displays. The project leads, Jon Winet and Allen Spore, and local Advisory Board members will coordinate with community residents and UM students and faculty to invite the contribution of texts, photography, and video to be displayed on large high definition displays. We plan to encourage contributors to create an image of Oxford, their families and neighbors, neighborhoods and civic spaces, campaign and issue-driven events and headquarters, all against the backdrop of the national election.
 
