@@ -8,12 +8,11 @@ DWR Teaching Hub
 Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
 
 .. Important:: 
-
-   .. image:: /assets/mydwr.png
-        :alt: myDWR Logo
-        :width: 150 px 
-        :target: `https://olemiss.sharepoint.com/sites/DWRAdmin`_
-
+   
+   ..image:: assets/mydwr.png
+      :alt: DWR Logo
+      :target: `https://olemiss.sharepoint.com/sites/DWRAdmin`_
+   
    Most DWR internal workflows, processes, and documents are moving to myDWR. The DWR Teaching Hub will still serve all teaching guides, assignment libraries, and any other content from the department with an open license.
 
 .. raw:: html
