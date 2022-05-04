@@ -24,7 +24,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       <div class="colA">
       <a href="hub/syllabi.html"><button class="button">Syllabi/Office Hours</button></a>
 
-      <a href="hub/development/development.html"><button class="button">Professional Development</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Teacher-Development.aspx"><button class="button">Teacher Development</button></a>
 
       <a href="hub/observations/observations.html"><button class="button">Observations/Course Reviews</button></a>
 
