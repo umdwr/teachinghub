@@ -9,28 +9,31 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
 
 
-.. Important:: 
+.. Note:: 
 
    .. image:: assets/mydwr.jpg
       :alt: My DWR Logo
       :width: 150 px
+      :align: center 
       :target: https://olemiss.sharepoint.com/sites/DWRAdmin
    
-   Most DWR internal workflows, processes, and documents are moving to `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_. The DWR Teaching Hub will still serve all teaching guides, assignment libraries, and any other content from the department with an open license.
+   Most DWR internal workflows, processes, and documents are moving to `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_. The DWR Teaching Hub will still serve all teaching guides, assignment libraries, and any other content from the department with an open license. 
 
-.. raw:: html
+   .. raw:: html
 
-   <div class="cols">
+      <div class="cols">
       <div class="colA">
-      <a href="hub/syllabi.html"><button class="button">Syllabi/Office Hours</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Upload-a-Syllabus.aspx"><button class="button">Upload Syllabus</button></a>
 
-      <a href="hub/development/development.html"><button class="button">Professional Development</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Teacher-Development.aspx"><button class="button">Teacher Development</button></a>
 
-      <a href="hub/observations/observations.html"><button class="button">Observations/Course Reviews</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/observations.aspx"><button class="button">Observations/Course Reviews</button></a>
 
       <a href="hub/releases.html"><button class="button">Release Forms</button></a>
       </div>
       <div class="colB">
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Update-Directory-Information.aspx"><button class="button">Update Office Hours</button></a>
+      
       <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
 
       <a href="hub/support.html"><button class="button">Instructional Support</button></a>
@@ -39,7 +42,9 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       
       <a href="hub/remotesupport.html"><button class="button orangebutton">Remote Support</button></a>
       </div>
-   </div>
+      </div>
+
+
 
 
 
@@ -48,6 +53,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    :maxdepth: 1
    :hidden:
 
+   `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_
    hub/about
    hub/syllabi
    hub/development/development
