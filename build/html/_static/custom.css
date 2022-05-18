@@ -25,6 +25,23 @@ button {
     transition-duration: 0.4s;
 }
 
+.mydwrbutton {
+    background-color: #14213D; /* Dark Blue */
+    border: none;
+	  width: 100%;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+
 .orangebutton {
     background-color: #BA6329; /* Orange */
     border: none;
