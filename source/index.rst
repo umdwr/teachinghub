@@ -36,11 +36,10 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       
       <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
 
-      <a href="hub/support.html"><button class="button">Instructional Support</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx"><button class="button">Instructional Support</button></a>
 
       <a href="hub/docs.html"><button class="button">Tools/Resources</button></a>
       
-      <a href="hub/remotesupport.html"><button class="button orangebutton">Remote Support</button></a>
       </div>
       </div>
 
@@ -55,14 +54,9 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
    `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_
    hub/about
-   hub/syllabi
-   hub/development/development
-   hub/observations/observations
    hub/releases
    hub/uploads
-   hub/support
    hub/docs
-   hub/remotesupport
 
 
 .. toctree::
