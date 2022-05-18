@@ -23,36 +23,30 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
       <div class="cols">
       <div class="colA">
-      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Upload-a-Syllabus.aspx"><button class="button">Upload Syllabus</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Upload-a-Syllabus.aspx"><button class="mydwrbutton">Upload Syllabus</button></a>
 
-      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Teacher-Development.aspx"><button class="button">Teacher Development</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Teacher-Development.aspx"><button class="mydwrbutton">Teacher Development</button></a>
 
-      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/observations.aspx"><button class="button">Observations/Course Reviews</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/observations.aspx"><button class="mydwrbutton">Observations/Course Reviews</button></a>
 
       <a href="hub/releases.html"><button class="button">Release Forms</button></a>
       </div>
       <div class="colB">
-      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Update-Directory-Information.aspx"><button class="button">Update Office Hours</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Update-Directory-Information.aspx"><button class="mydwrbutton">Update Office Hours</button></a>
       
       <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
 
-      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx"><button class="button">Instructional Support</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx"><button class="mydwrbutton">Instructional Support</button></a>
 
       <a href="hub/docs.html"><button class="button">Tools/Resources</button></a>
       
       </div>
       </div>
 
-
-
-
-
-
 .. toctree::
    :maxdepth: 1
    :hidden:
 
-   `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_
    hub/about
    hub/releases
    hub/uploads
