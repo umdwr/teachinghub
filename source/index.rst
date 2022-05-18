@@ -34,7 +34,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       <div class="colB">
       <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Update-Directory-Information.aspx"><button class="mydwrbutton">Update Office Hours</button></a>
       
-      <a href="hub/uploads.html"><button class="button">Document Uploads</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Assessment.aspx"><button class="mydwrbutton">Upload Files for Assessment</button></a>
 
       <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx"><button class="mydwrbutton">Instructional Support</button></a>
 
