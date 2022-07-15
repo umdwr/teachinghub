@@ -9,20 +9,22 @@ SPCH 102: Public Speaking
 
 Course Description
 ------------------
-Speech 102 explores the fundamentals of organizing, preparing, and delivering speeches in a variety of public forums.
+Speech 102 explores the fundamentals of conceptulaizing, organizing, preparing, rehearsing, and delivering speeches in a variety of public forums.
 
 Course Design
 -------------
 SPCH 102 is a skills-building course and allows students repeated opportunities to work through the speech process. The assignment-based design engages Blooms Taxonomy from comprehension to creation a minimum of five times. Reading, discussion, and quizzes occur throughout the course to enhance memory and understanding of core concepts. Peer coaching and/or review, as well as post-presentation journaling enhance analysis and evaluation.
 
-For online version, students should speak to a live audience in a public setting for the informative and persuasive assignments. Live audiences should consist of no less than five adults or peers. If space is available, online instructors may explore a hybrid model.
+For an online version, students should speak to a live audience in a public setting for the informative and persuasive assignments. Live audiences may be created from the class, from authentic situations, or from adult acquaintances. Live presentations may take place over a synchronous platform (like Zoom) or may be captured via video in a non-virtual space. The audience should consist of no less than five adults and/or peers. 
+
+If space is classroom space is available, online instructors may explore a hybrid model.
 
 .. admonition:: Sample Syllabus
 
     * `Sample Syllabus <https://olemiss.box.com/s/njc7x7ytx9su5vw5oziwf8nh7cegilty>`_
     * `Sample Calendar <https://olemiss.box.com/s/saw6o04eck9cr9vpkwsp5372dzh9n3bp>`_.
 
-Required Course Materials
+Textbook
 -------------------------
 O’Haire, D., Rubenstein, H., & Stewart, R. (2019). *A pocket guide to public *speaking* (6th ed.). Bedford/St. Martin’s.
 
@@ -33,6 +35,8 @@ Using LaunchPad with the 6th edition textbook is optional; however, you should u
 
 You may share all relevant purchasing options for your course on your syllabus. See “Syllabus Sample” for options.
 
+**Note:** Top Hat is being piloted and course material review is scheduled for spring term, 2023. 
+
 Assignment Sequence
 -------------------
 .. admonition:: See also
@@ -42,9 +46,9 @@ Assignment Sequence
 The following series of speech assignments allow students to repeat the process of conceiving, researching, organizing, developing, practicing, and presenting original speeches throughout the course. The short, informative, and persuasive sequence is recommended. The group presentation may be sequenced at the discretion of the instructor (after practice/short presentations are completed).
 
 1. **Two short presentations** to orient students to the process (2-4 minutes).
-2. **Informative presentation**, furthering research and analysis of self, audience, and topic, as well as increasing organizational expectations (5-7 minutes).
-3. **Persuasive presentation** to explore the fundamentals of argumentation, as well as enhance content evaluation and organizational skills.
-4. **Small group presentations** add problem-solving and group communication to the speech process. For online sections, the assignment should focus on group communication/problem-solving and have a presentation outcome or element. Examples include, but are not limited to: 1) a kiosk-style presentation to which all group members contribute or 2) a live, group meeting with individual presentations by members addressing a common goal.
+2. **Informative presentation** to develop research and analysis skills (self, audience, and topic), as well as increase organizational skills (5-7 minutes).
+3. **Persuasive presentation** to explore the fundamentals of argumentation, further develop organizational skills, effectively engage rhetorical devices, and enhance content evaluation in relation to an audience (6-8 minutes).
+4. **Small group presentations** add group problem-solving and communication to the speech process. The assignment should have a presentation outcome or element requiring a coordinated effort. The presentation does not have to be live. For example, groups ma create a kiosk-style presentation to which all group members contribute or a social media campaign to call people to action. 
 
 **Note:** More short presentations (under 5 minutes) may be added wherever instructors find the assignments most useful for their individual curriculum.
 
@@ -52,18 +56,20 @@ Assignment Weights
 ------------------
 * **Short presentations** (Intro, Special Occasion, Impromptu, etc.) should equal 10% of semester/term grade.
 * **Long Presentations** (Informative, Persuasive, and Group) should equal 50% of semester/term grade.
-* **Written Assessments** (Quizzes, Tests, Outlines, etc.) should equal 20-25% of semester/term grade.
-* **Participation** (Journals, Peer reviews, Discussions, etc.) should equal 15-20% of semester/term grade.
+* **Written Assessments** (Quizzes, Tests, Outlines, etc.) should equal 20-30% of semester/term grade.
+* **Participation** (Journals, Peer reviews, Discussions, Attendance, etc.) should equal 10-20% of semester/term grade.
+
+Assignment weights should add to 100%.
 
 Core Assignment Descriptions
 ----------------------------
 Informative
 ^^^^^^^^^^^
-Presentation of 5-7 minutes should provide relevant, accurate information. Evidence of audience orientation, coherent organization, effective language, verbal fluency, purposeful expression, and sound research are required. Delivery should be extemporaneous. Students should verbally cite a minimum of five, credible sources.
+Presentation of 5-7 minutes should provide relevant, accurate information. Evidence of audience orientation, coherent organization, effective language use, verbal fluency, purposeful expression, and sound research are required. Delivery should be extemporaneous. Students should verbally cite a minimum of five, different, and credible sources. Use of citation should be substantive. At least three of the citations should be for non-reference sources. 
 
 Persuasive
 ^^^^^^^^^^
-Presentation of 6-8 minutes should build argumentation targeting a specific audience/context. Presentations should include clearly stated thesis and claims, adequate evidence, sound reasoning, audience orientation, purposeful movement, effective organization, and expressive/connective delivery. Students should verbally cite a minimum of five, credible sources.
+Presentation of 6-8 minutes should build argumentation targeting a specific audience/context. Presentations should include clearly stated thesis and claims, adequate evidence, sound reasoning, audience orientation, purposeful movement, effective organization, and expressive/connective delivery. Students should verbally cite a minimum of five, different, and credible sources. Use of citation should be substantive. At least four of the citations should be for non-reference sources.
 
 Group
 ^^^^^
