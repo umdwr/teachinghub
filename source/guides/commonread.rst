@@ -306,7 +306,7 @@ CLASS ACTIVITIES
 
 3. **Walk in Bailey’s Woods**: Meet your class there and enjoy a meditative, silent walk through Bailey’s Woods. Have the students write a reflection and rate the experience.
 
-Integrating *World of Wonders* into WRIT 100/101
+Integrating *The Anthropocene Reviewed* into WRIT 100/101
 --------------------------------------------------
 The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for a major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with outside sources and/or the student’s own ideas. The prompts are intentionally complex to introduce students to the expectations of college thinking and writing. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
 
