@@ -5,8 +5,8 @@ Common Reading Resource Guide
 
 .. admonition:: See Also
 
-    * `World of Wonders Resource Guide (pdf) <https://olemiss.box.com/s/iz4li722p5kqn0rol1sry0f0tbtbzxlc>`__
-    * `World of Wonders Resource Guide (docx) <https://olemiss.box.com/s/b0tbypi7xazjfn033bz53f8v7lysjbyz>`__
+    * `The Anthropocene Reviewed Resource Guide (pdf) <https://olemiss.box.com/s/x6nnv60aumgkkp7hf2tbr6lmemhmusng>`__
+    * `The Anthropocene Reviewed Resource Guide (docx) <https://olemiss.box.com/s/rfrbt9vck1gyvcx5dup7o1qy8i9rgk8s>`__
     * :doc:`/alib/writing/writ101`
 
 .. sidebar:: Contents
@@ -15,7 +15,7 @@ Common Reading Resource Guide
         :local:
         :depth: 1
 
-Using The Anthropocene Reviewed in the Classroom
+Using *The Anthropocene Reviewed* in the Classroom
 ---------------------------------------
 The Common Reading Experience is a shared intellectual event for new members of the UM community. Through reading and considering a common book, new students engage with each other and UM faculty in exploring issues relevant to today’s global community. The Common Reading Experience helps students understand the expectations of college-level academic work, the nature of scholarly inquiry, and the values of an academic community. The program also enriches new students’ campus experiences through co-curricular programs and events related to the book. The Common Reading Text is used in EDHE classes, Writing 100/101 classes, and other classes on campus. For more information about the Common Reading Experience visit http://umreads.olemiss.edu/.
 
