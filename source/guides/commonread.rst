@@ -174,10 +174,13 @@ Students with disabilities should visit Student Disability Services in 234 Marti
 The small group exercises below help students develop critical thinking skills.
 
 1. Green references etymology, directly and indirectly, often in *The Anthropocene Reviewed*. Some of the words he examines are difficult, such as “graupel” (217). Others are more common words that most people wouldn’t look up or research, such as “believe” (254). Why is Green interested in etymology? Why can it be valuable to research commonly used words such as “believe”? In small groups, select a review from the book and read it together. Then, decide on two-three words to examine more closely. You might choose one difficult word and one more common word to research. Look up the etymology of your chosen words, and then discuss what you discovered. Make an argument in which you cover your findings, including what you learned and how the work helps your understanding of language and communication.
+   
 
 2. Many sites, such as YouTube, Google, and Facebook, have switched to a thumbs up or thumbs down feature rather than a five-star scale for users to rate content. What are the benefits and drawbacks of the five-star scale that Green uses for his reviews in *The Anthropocene Reviewed* and that are so common online and in publications? In small groups, discuss the different formats for reviews. Then, select a site that features reviewable content and analyze its rating feature. Does the site use stars, thumbs up/down, or something else? What is effective and ineffective about the format the site uses? Does the format limit or enhance the opportunity to leave written feedback, and why does this matter? Make an argument about the format your chosen site uses and why it works well or could be more effective.
+   
 
 3. The Anthropocene era is often characterized as a doomsday scenario with little hope for recovery or adaptation. In a `CNN interview <https://www.cnn.com/videos/tv/2021/05/28/amanpour-john-green-the-anthropocene-reviewed.cnn>`__, John Green explains he wrote *The Anthropocene Reviewed* as a “way to write myself back toward hope.” Similarly, some scientists and climate activists are trying to reframe the era as hopeful. Watch natural resource scientist Elena Bennett’s address to the World Economic Forum, `“Identifying Successful Socio-Ecological Initiatives,” <https://www.youtube.com/watch?v=3iVaZ7qkku4>`__ and visit the website she has helped to develop, `Seeds of Good Anthropocenes. <https://goodanthropocenes.net/map-of-seeds/>`__ Divide into groups and use the site’s interactive map to choose one of the organizations identified as a seed. Do a little research on the organization and then answer the following questions.
+   
 
    1. What issue is this organization working on, and why is it a problem?
 
@@ -190,6 +193,7 @@ The small group exercises below help students develop critical thinking skills.
    5. What’s your evaluation of their efforts? Will this organization make a difference?
 
    6. Can we build a “good” Anthropocene? Are you hopeful? Why?
+   
 
 4. Green’s review “Three Farmers on Their Way to a Dance” contains some deep thinking about photos and how we view them differently over time. In the case of the titular photo in the review, the young men were soon to go off to war where one of them would die and the other two would be wounded. Green also recalls a photo of his friends and their children all huddled together with his family in the weeks before COVID-19 changed the way most people interacted. Read over the review as a class, and then divide into small groups. Each group should choose one of the following photos to examine:
 
@@ -215,6 +219,7 @@ Now, discuss the following questions:
 -  Why does Green quote Kurt Vonnegut’s words “[h]istory is merely a list of surprises” in the review?
 
 -  Is Green correct that how we view a photo changes over time? Why or why not? Why does this matter in understanding ourselves and what we choose to document?
+
 
 5. To encourage readers to think about what we value and why, Green begins “Kentucky Bluegrass” with a scenario of aliens asking why humans worship verdant lawns. This opener is a variation of the “tour guide for an alien” critical thinking exercise. As a class, read over Green’s scenario (165) and discuss its effectiveness as an opener for the essay. Then divide into small groups and try out the exercise for yourself by following the directions below (adapted from `ThoughtCo <https://www.thoughtco.com/critical-thinking-exercises-1857246>`__):
 
