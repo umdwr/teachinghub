@@ -29,7 +29,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
       <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/observations.aspx"><button class="mydwrbutton">Observations/Course Reviews</button></a>
 
-      <a href="hub/releases.html"><button class="button">Release Forms</button></a>
+      <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Student-Work-Releases.aspx"><button class="mydwrbutton">Release Forms</button></a>
       </div>
       <div class="colB">
       <a href="https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Update-Directory-Information.aspx"><button class="mydwrbutton">Update Office Hours</button></a>
