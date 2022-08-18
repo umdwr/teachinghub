@@ -11,7 +11,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
 .. Note:: 
 
-   .. image:: assets/mydwr.jpg
+   .. image:: assets/mydwr-logo.png
       :alt: My DWR Logo
       :width: 150 px
       :align: center 
