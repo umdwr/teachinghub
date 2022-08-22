@@ -31,26 +31,15 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    `Download the Fall 2021 Package <https://olemiss.box.com/shared/static/cm66k1fa09fu0np71prvddyzwgngnmur.zip>`_
+    .. image:: assets/mydwr.png
+      :alt: My DWR Logo
+      :width: 150 px
+      :align: center 
+      :target: https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx
 
-    **Import**
+      Find the RhetLab Blackboard package and Installation instructions on `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx>`_
 
-    1. In your WRIT 100 or 101 Blackboard course, click **Packages and Utilities > Import Package/View Logs** under Course Management. 
-    2. Under **Select a Package**, click **Browse** and attach the .zip file you downloaded above. 
-    3. Under **Select Course Materials**, check the boxes for:
-
-        * Content Areas
-        * Discussion Board
-        * Grade Center Columns and Settings
-        * Tests, Surveys, and Pools
-    4. Click **Submit**
-  
-    **Test**
-
-    * In any course modules, open any of the links/pages and verify the content displays.
-    * In any Module, open the *Study Plan* and select *Show What You Know* and verify the pre-test works and the Study Plan updates.
-    * Return to any module and select *Quiz* and verify quiz works.
-    * Open Grades and review that all graded items are connected to the Gradebook
+    
  
 Best Practices
 ^^^^^^^^^^^^^^^
