@@ -37,10 +37,9 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
       :align: center 
       :target: https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx
 
-      Find the RhetLab Blackboard package and Installation instructions on `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx>`_
+    Find the RhetLab Blackboard package and Installation instructions on `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx>`_
 
     
- 
 Best Practices
 ^^^^^^^^^^^^^^^
 If you use **course copy** to quickly generate your Blackboard environment from a previous semester’s course, **do not copy the Lumen Package from the previous semester**. Make sure it is unchecked when you select the content to copy. Copying the package from one course to another breaks the LTI links between Waymaker and Blackboard.
