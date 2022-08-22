@@ -31,7 +31,7 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    .. image:: /mydwr.png
+    .. image:: /assets/mydwr.png
       :alt: My DWR Logo
       :width: 150 px
       :align: center 
