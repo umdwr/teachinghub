@@ -46,7 +46,7 @@ Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching reso
    guides/continuity 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: Assignment Library
 
