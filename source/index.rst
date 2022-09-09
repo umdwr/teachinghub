@@ -46,18 +46,11 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    guides/continuity 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: Assignment Library
 
    alib/speech
    alib/writing
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Research
-
-   reports/index
-   reports/wcoer/wcoer
 
