@@ -7,8 +7,6 @@ DWR Teaching Hub
 ============================================
 Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching resources from the Department of Writing and Rhetoric. The Hub contains curriculum materials, teaching guides, and vetted assignment materials for DWR writing and speech courses. All content on the DWR Teaching Hub is licensed under a Creative Commons Attribution 4.0 International License unless otherwise indicated.
 
-
-
 .. Note:: 
 
    .. image:: assets/mydwr.png
