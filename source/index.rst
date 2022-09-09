@@ -5,7 +5,7 @@
 
 DWR Teaching Hub
 ============================================
-Welcome to the DWR Teaching Hub, the teaching resource and document management system for the Department of Writing and Rhetoric. The Hub contains all teaching guides, policy documents, and vetted assignment materials for DWR writing and speech courses, as well as a self-service portal for common semester-based tasks.
+Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching resources from the Department of Writing and Rhetoric. The Hub contains curriculum materials, teaching guides, and vetted assignment materials for DWR writing and speech courses. All content on the DWR Teaching Hub is licensed under a Creative Commons Attribution 4.0 International License unless otherwise indicated.
 
 
 
@@ -17,7 +17,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
       :align: center 
       :target: https://olemiss.sharepoint.com/sites/DWRAdmin
    
-   Most DWR internal workflows, processes, and documents are moving to `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_. The DWR Teaching Hub will still serve all teaching guides, assignment libraries, and any other content from the department with an open license. Can't access myDWR? Be sure you have `joined the myDWR user group <https://teams.microsoft.com/l/team/19%3afb0f264ae88b41c49040dd7264c3f6f4%40thread.skype/conversations?groupId=d0932355-a087-4440-b545-b11937a76ced&tenantId=69a9c930-1dbb-4630-bdd5-d28b8f680aae>`_ 
+   To upload a syllabus, change your office hours, schedule an observation, etc., visit `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_. Can't access myDWR? Be sure you have `joined the myDWR user group <https://teams.microsoft.com/l/team/19%3afb0f264ae88b41c49040dd7264c3f6f4%40thread.skype/conversations?groupId=d0932355-a087-4440-b545-b11937a76ced&tenantId=69a9c930-1dbb-4630-bdd5-d28b8f680aae>`_ 
 
 
 .. toctree::
@@ -46,7 +46,7 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
    guides/continuity 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :hidden:
    :caption: Assignment Library
 
