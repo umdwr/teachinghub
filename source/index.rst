@@ -45,17 +45,14 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
+
 
    hub/about
-   hub/releases
-   hub/uploads
-   hub/docs
 
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
+
    :caption: Teaching Guides
 
    guides/speech
@@ -72,26 +69,15 @@ Welcome to the DWR Teaching Hub, the teaching resource and document management s
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
+
    :caption: Assignment Library
 
    alib/speech
    alib/writing
 
-   
-
 .. toctree::
    :maxdepth: 2
-   :hidden:
-   :caption: Policies
 
-   policies/policies.rst
-   policies/infosec.rst
-   policies/teaching.rst
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: Research
 
    reports/index
