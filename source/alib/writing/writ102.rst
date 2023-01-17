@@ -32,15 +32,6 @@ WRIT 102 uses a general rubric for all major assignments. There is a long versio
 * `Long Rubric <https://olemiss.box.com/s/mtft71cpqigrbat3nvj443l5c2inbyf2>`__
 * `Short Rubric <https://olemiss.box.com/s/t3t64a9nogtepuosd4e7keqn23lzcsj2>`__
 
-Analysis
----------
-Paper #1 is an analysis of a single text. This can be a response paper to an author’s argument or a profile or analysis of a person, place, or thing. It should be 3-4 pages with at least a single entry on the Works Cited page and is worth 10% of the student’s final grade.
-
-Areas to highlight: This assignment will help students learn to look closely at a text (academic or otherwise) and begin the fundamentals of quoting and citation. Because some students may have had a disruption in time between a WRIT 100/101/equivalent course and a WRIT 102 course (even if it is only winter break), it is recommended that instructors go over thesis statements and paragraph construction that students should have learned in WRIT 100/101. Students may also need help in understanding the difference between summary and analysis.
-
-.. raw:: html
-
-    <iframe src="https://app.box.com/embed_widget/s/bjyjnmigybo63z73kmsforkr9es9w7ed?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="850" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 -------------------------------------
 
