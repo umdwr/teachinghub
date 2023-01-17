@@ -91,23 +91,6 @@ Students compose six major projects. A brief overview of each project,
 with a description of the areas students usually struggle with, is
 provided below.
 
-Analysis
-~~~~~~~~~
-
-Paper #1 is an analysis of a single text. This can be a response paper
-to an author’s argument or a profile or analysis of a person, place, or
-thing. It should be 3-4 pages with at least a single entry on the Works
-Cited page and is worth 10-15% of the student’s final grade.
-
-.. admonition:: Areas to Highlight
-
-    This assignment will help students learn to look
-    closely at a text (academic or otherwise) and begin the fundamentals of
-    quoting and citation. Because some students may have had a disruption in
-    time between a WRIT 100/101/equivalent course and a WRIT 102 course, it
-    is recommended that instructors go over thesis statements and paragraph
-    construction. Students may also need help in understanding the
-    difference between summary and analysis.
 
 Synthesis
 ~~~~~~~~~~
