@@ -33,7 +33,7 @@ Areas to highlight: Many students are unaccustomed to examining individual parts
 
 .. raw:: html
 
-<iframe src="https://olemiss.app.box.com/embed/s/5if12l0xvl0bc7cmslo1oyksi8vaogn0?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+    <iframe src="https://olemiss.app.box.com/embed/s/5if12l0xvl0bc7cmslo1oyksi8vaogn0?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 -------------------------------------
 
 Argument
@@ -55,7 +55,7 @@ Areas to highlight: Students often don’t recognize that a change in mode or me
 
 .. raw:: html
 
-<iframe src="https://olemiss.app.box.com/embed/s/wh3y248f7joyao821kalkvhafccpcp5y?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+    <iframe src="https://olemiss.app.box.com/embed/s/wh3y248f7joyao821kalkvhafccpcp5y?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
 -------------------------------------
@@ -68,5 +68,5 @@ Areas to highlight: Students are generally unfamiliar with self-reflection and m
 
 .. raw:: html
 
-<iframe src="https://olemiss.app.box.com/embed/s/g071lcdbi4aou9dndaztorarou37hgpt?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+    <iframe src="https://olemiss.app.box.com/embed/s/g071lcdbi4aou9dndaztorarou37hgpt?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
