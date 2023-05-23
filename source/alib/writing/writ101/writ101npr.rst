@@ -1,6 +1,6 @@
-================================
-WRIT 100/101 NPR Curriculum
-================================
+=======================================
+WRIT 100/101 with National Public Radio
+=======================================
 Welcome to the Writing 100/101 NPR assignment library. Assignment sheets, rubrics, and student samples are available under each project content area.
 
 .. raw:: html
