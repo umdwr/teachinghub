@@ -1,6 +1,6 @@
-================================
-WRIT 100/101 NYT Curriculum
-================================
+======================================
+WRIT 100/101 with *The New York Times*
+======================================
 .. admonition:: See Also
 
     * Required Text: A semester-long subscription to The New York Times
