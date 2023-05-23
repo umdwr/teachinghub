@@ -60,7 +60,7 @@ Areas to highlight: Students often don’t recognize that a change in mode or me
 
 -------------------------------------
 
-Reflection Blog
+Reflection
 ----------------
 The reflection to blog is a personalized space for recording, organizing, and reflecting on a student’s learning. This semester-long project incorporates daily, weekly, and unit reflections, culminating in a final reflective post.
 
