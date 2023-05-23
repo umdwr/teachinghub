@@ -6,6 +6,7 @@ Writing 100 and 101 follow the same outcomes and use common assignments. Teacher
 .. toctree::
     :maxdepth: 2
 
+    writ101/writ101lt
     writ101/writ101s
     writ101/writ101nyt
     writ101/writ101npr
