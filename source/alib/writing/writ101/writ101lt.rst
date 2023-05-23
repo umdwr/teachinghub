@@ -44,7 +44,7 @@ Areas to highlight: Students often need help narrowing a topic to a specific, de
 
 .. raw:: html
 
-  <iframe src="https://olemiss.app.box.com/embed/s/2ejtdu18ie9pnyxejwp712ti6uy58bnp?expandSidebars=true&showParentPath=false&sortColumn=name" width="200%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+  <iframe src="https://olemiss.app.box.com/embed/s/2ejtdu18ie9pnyxejwp712ti6uy58bnp?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
 -------------------------------------
 
 Multimodal
