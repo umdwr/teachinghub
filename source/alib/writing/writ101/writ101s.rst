@@ -1,6 +1,7 @@
 ================================
-WRIT 100/101 Standard Curriculum
+WRIT 100/101
 ================================
+### Curriculum Materials based on *The Writer's Practice*
 .. sidebar:: Contents
 
     .. contents:: 
