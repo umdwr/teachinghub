@@ -19,7 +19,7 @@ The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the
 
 .. raw:: html
 
-    <iframe src="https://app.box.com/embed_widget/s/3n5vql7jl00u1zgrklskwf144gt99jz5?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+      <iframe src="https://olemiss.app.box.com/embed/s/3n5vql7jl00u1zgrklskwf144gt99jz5?expandSidebars=true&showParentPath=false&sortColumn=name" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
 
 -------------------------------------
 
