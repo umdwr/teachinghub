@@ -1,7 +1,6 @@
 ================================
-WRIT 100/101
+WRIT 100/101 with *The Writer's Practice*
 ================================
-### Curriculum Materials based on *The Writer's Practice*
 .. sidebar:: Contents
 
     .. contents:: 
