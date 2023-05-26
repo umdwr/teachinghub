@@ -30,9 +30,16 @@ Required Texts
 Standard Curriculum:
 ~~~~~~~~~~~~~~~~~~~~
 
--  *The Writer's Practice*
+-  *Let's Talk*
 -  Common Reading Experience Text
 -  UM RhetLab modules
+
+*The Writer's Practice* Curriculum:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- *The Writer's Practice*
+- Common Reading Experience Text
+- UM RhetLab modules
 
 *New York Times* Curriculum:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +47,6 @@ Standard Curriculum:
 -  Semester-long subscription to *The New York Times*
 -  Common Reading Experience Text
 -  UM RhetLab modules
--  *The Writer's Practice* (optional)
 
 NPR Curriculum
 ~~~~~~~~~~~~~~
@@ -48,7 +54,6 @@ NPR Curriculum
 -  Access to the internet and the NPR website
 -  Common Reading Experience Text
 -  UM RhetLab modules
--  *The Writer's Practice* (optional)
 
 Suggested Assignment Sequence
 -----------------------------
