@@ -20,10 +20,10 @@ placed into either course by test score or writing sample.
 
 .. admonition:: Sample Syllabi
 
-    * `WRIT 100/101 with *Let's Talk* <https://olemiss.box.com/s/agbi3kvrnzbqimku6bns9zmdug3nszdw>`__
-    * `WRIT 100/101 with *The Writer's Practice* <https://olemiss.box.com/s/vup4xmyxqyj91vled0z39ci3zi0a4rba>`__
-    * `WRIT 100/101 with *The New York Times* <https://olemiss.box.com/s/59p9icokrrwcsl2uavz63joypfoegwfm>`__
-    * `WRIT 100/101 with National Public Radio <https://olemiss.box.com/s/j3v5msd789mmv2n700w5jbb2a1z4rf3h>`__
+    `WRIT 100/101 with *Let's Talk* <https://olemiss.box.com/s/agbi3kvrnzbqimku6bns9zmdug3nszdw>`__  
+    `WRIT 100/101 with *The Writer's Practice* <https://olemiss.box.com/s/vup4xmyxqyj91vled0z39ci3zi0a4rba>`__  
+    `WRIT 100/101 with *The New York Times* <https://olemiss.box.com/s/59p9icokrrwcsl2uavz63joypfoegwfm>`__  
+    `WRIT 100/101 with National Public Radio <https://olemiss.box.com/s/j3v5msd789mmv2n700w5jbb2a1z4rf3h>`__  
 
 Required Texts
 --------------
