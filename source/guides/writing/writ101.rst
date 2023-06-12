@@ -114,7 +114,7 @@ included in the annual Common Reading Resource Guide.
 Analysis
 ~~~~~~~~~~~~~~
 In analysis, students examine an issue or an artifact’s component parts
-to understand how it makes meaning. Analysis is roughly a three-week
+to understand how they work together to make meaning. Analysis is roughly a three-week
 unit.
 
 .. admonition:: Areas to Highlight
@@ -138,7 +138,7 @@ In argument, students make a claim and support that claim with evidence.
 While instructors may assign for this project different types of
 argument, the essay should require background information on the topic
 as context for the argument, a clearly-expressed main claim, evidence,
-and refutation of counter-arguments. Argument is roughly a four-week
+and consideration of counter-arguments. Argument is a three- to four-week
 unit.
 
 .. admonition:: Areas to Highlight
@@ -153,7 +153,7 @@ unit.
 
 Multimodal
 ~~~~~~~~~~~~~~
-In the multimodal assignment, students re-work or re-think an earlier
+In the multimodal assignment, students may rework or rethink an earlier
 project in a different mode or medium. Multimodal is roughly a two-week
 project.
 
@@ -165,11 +165,10 @@ project.
     print text and, thus, how to think about audience. Students may also
     need help with unfamiliar technology.
 
-Commonplace Book
+Reflection
 ~~~~~~~~~~~~~~~~~~
-The commonplace book is apersonalized space for recording, organizing, and reflecting on a
-student’s learning. This semester-long project incorporates daily,
-weekly, and unit reflections, culminating in a final reflective post.
+Students will reflect on their writing and learning throughout the semsester. This 
+may involve daily, weekly, and unit reflections, culminating in a final reflection.
 
 .. admonition:: Areas to Highlight
 
