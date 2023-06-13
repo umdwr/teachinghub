@@ -17,7 +17,7 @@ Welcome to the Writing 100/101 New York Times assignment library. Assignment she
 
 Common Reading Text Project
 ----------------------------
-The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for the first major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with outside sources and the student’s own ideas. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
+The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for the first major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with the student’s own ideas and perhaps outside sources. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
 
 .. admonition:: See Also
 
