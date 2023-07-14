@@ -15,7 +15,7 @@ Common Reading Resource Guide
         :local:
         :depth: 1
 
-Chapter 1: Using *Callings* in the Classroom
+Using *Callings* in the Classroom
 --------------------------------------------
 
 Why does UM have a Common Reading Experience Program? 
@@ -39,19 +39,15 @@ What are the Common Reading Experience student learning outcomes?
 By reading, writing, and learning together through the shared venture of
 the UM Common Reading Experience, students:
 
--  Develop critical thinking, reading, writing, and research skills and
-      abilities.
+-  Develop critical thinking, reading, writing, and research skills and abilities.
 
--  Gain an emerging sense of confidence as learners, thinkers, readers,
-      and writers.
+-  Gain an emerging sense of confidence as learners, thinkers, readers, and writers.
 
 -  Develop a sense of community among peers, neighbors, and instructors.
 
--  Develop connections among ideas, experiences, disciplines, and
-      academic and personal goals.
+-  Develop connections among ideas, experiences, disciplines, and academic and personal goals.
 
--  Relate the issues raised by the common book to their lives as new or
-      returning students.
+-  Relate the issues raised by the common book to their lives as new or returning students.
 
 Why was *Callings* selected?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,51 +98,29 @@ How do I encourage students to read?
 
 **Before assigning reading:**
 
--  Preview *Callings* with students. Introduce the book during class.
-      Explain how the book will be used in the course and how it will
-      help students meet learning outcomes. Share your own excitement
-      about the book, perhaps describing some favorite passages, events,
-      or people.
+-  Preview *Callings* with students. Introduce the book during class. Explain how the book will be used in the course and how it will help students meet learning outcomes. Share your own excitement about the book, perhaps describing some favorite passages, events, or people.
 
--  Help students understand the depth of reading required. Display a
-      passage, and model critical reading strategies such as text
-      annotation and marginalia.
+-  Help students understand the depth of reading required. Display a passage, and model critical reading strategies such as text annotation and marginalia.
 
 **As students read:**
 
--  Provide focused questions for students to consider while they are
-      reading. Ask them to respond to those questions in writing before
-      the next class.
+-  Provide focused questions for students to consider while they are reading. Ask them to respond to those questions in writing before the next class.
 
--  Have students identify and submit a discussion topic or question via
-      email or Blackboard after they have read an assignment but before
-      the next class meeting. Use their topics and questions as the
-      basis for class activities.
+-  Have students identify and submit a discussion topic or question via email or Blackboard after they have read an assignment but before the next class meeting. Use their topics and questions as the basis for class activities.
 
--  Require students to keep a reading response journal in which they
-      comment on or question the reading assignment.
+-  Require students to keep a reading response journal in which they comment on or question the reading assignment.
 
--  Ask students to underline/highlight several passages from a reading
-      assignment. In class, ask students to discuss one of their
-      underlined/highlighted passages.
+-  Ask students to underline/highlight several passages from a readingassignment. In class, ask students to discuss one of their underlined/highlighted passages.
 
 **After students have read:**
 
--  Use class time and activities to build on, rather than summarize, the
-      reading assignment.
+-  Use class time and activities to build on, rather than summarize, the reading assignment.
 
--  At the start of class, assign a one-minute paper in which students
-      identify both the most crucial part of the reading assignment and
-      an unanswered question they have about the reading assignment.
+-  At the start of class, assign a one-minute paper in which students identify both the most crucial part of the reading assignment and an unanswered question they have about the reading assignment.
 
--  During the first few minutes of class, ask students to write about
-      links between the reading assignment and the topic being discussed
-      in class.
+-  During the first few minutes of class, ask students to write about links between the reading assignment and the topic being discussed in class.
 
--  Distribute one or two questions that build on the reading assignment.
-      Use the think-pair-share protocol. Students first consider the
-      question(s) on their own. Then they discuss the question(s) with a
-      partner. Finally, they share their results with the class.
+-  Distribute one or two questions that build on the reading assignment. Use the think-pair-share protocol. Students first consider the question(s) on their own. Then they discuss the question(s) with a partner. Finally, they share their results with the class.
 
 How do I lead a class discussion?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,85 +137,49 @@ students are reading for your class meeting. Make a list of what you
 would like your students to learn from this exercise in order of
 importance.
 
--  For instance, you might prioritize that students understand what they
-      read.
+-  For instance, you might prioritize that students understand what they read.
 
--  Then, you might select a couple of scenes or events in the book that
-      seem important or interesting (or even puzzling – just because you
-      are leading class discussion does not mean you need to have all
-      the possible answers).
+-  Then, you might select a couple of scenes or events in the book that seem important or interesting (or even puzzling – just because you are leading class discussion does not mean you need to have all the possible answers).
 
--  Perhaps you have selected several themes in the stories as your
-      focus. You might choose scenes that relate to collegiality,
-      perseverance, or the influence of mentors.
+-  Perhaps you have selected several themes in the stories as your focus. You might choose scenes that relate to collegiality, perseverance, or the influence of mentors.
 
--  You might also ask students to respond to a specific quotation or
-      passage.
+-  You might also ask students to respond to a specific quotation or passage.
 
--  Jot down a few notes so you can access them easily during your class
-      discussion.
+-  Jot down a few notes so you can access them easily during your class discussion.
 
 -  Annotate your own text.
 
 **Class time:**
 
--  Establish respect. Class discussion is a time for exploration, and
-      the classroom is a safe environment for students to say what they
-      are thinking. Remind students of the first rule of the University
-      creed: “I believe in respect for the dignity of each person.” Be
-      sure students are listening carefully to each speaker and taking
-      his or her ideas seriously.
+-  Establish respect. Class discussion is a time for exploration, and the classroom is a safe environment for students to say what they are thinking. Remind students of the first rule of the University creed: “I believe in respect for the dignity of each person.” Be sure students are listening carefully to each speaker and taking his or her ideas seriously.
 
--  Before discussion, ask students to reflect on a directed, yet open,
-      question in a five- to ten-minute writing. Encourage students to
-      keep writing throughout the allotted time even if they run out of
-      things to say. They will surprise themselves with this
-      unstructured writing. This writing is not a quiz with one correct
-      answer. Ask them questions such as, “What do you think is the
-      significance of X?”; “How has X changed over time?”; “Why did X do
-      what he or she did?” You could also ask them to do a close reading
-      of a particular passage, perhaps even comparing it to another
-      passage.
+-  Before discussion, ask students to reflect on a directed, yet open,  question in a five- to ten-minute writing. Encourage students to keep writing throughout the allotted time even if they run out of things to say. They will surprise themselves with this unstructured writing. This writing is not a quiz with one correct answer. Ask them questions such as “What do you think is the significance of X?”; “How has X changed over time?”; “Why did X dowhat he or she did?” You could also ask them to do a close reading of a particular passage, perhaps even comparing it to another passage.
 
--  Avoid general questions such as “What did you think of the reading
-      for today?” or “What did you find interesting?” These can be
-      dead-end questions that will lead to short discussions.
+-  Avoid general questions such as “What did you think of the reading for today?” or “What did you find interesting?” These can be dead-end questions that will lead to short discussions.
 
--  To mix things up, you may also have them work together in small
-      groups to find discussion starters or answers to your questions.
+-  To mix things up, you may also have them work together in small groups to find discussion starters or answers to your questions.
 
 **Other ideas and approaches:**
 
--  Different classes have different personalities. Just make sure the
-      environment in which students speak is a safe one, and continue to
-      encourage discussion in different ways if something is not
-      working.
+-  Different classes have different personalities. Just make sure the environment in which students speak is a safe one, and continue to encourage discussion in different ways if something is not working.
 
--  Some students will direct their comments just to you. Encourage them
-      to talk with each other.
+-  Some students will direct their comments just to you. Encourage them to talk with each other.
 
--  If you had them write a response, invite students to share what they
-      wrote.
+-  If you had them write a response, invite students to share what they wrote.
 
--  If you had them work in groups, invite representatives from each
-      group to share what they found.
+-  If you had them work in groups, invite representatives from each group to share what they found.
 
--  Encourage students to point to specifics in the text. Ask them where
-      they see what they see.
+-  Encourage students to point to specifics in the text. Ask them where they see what they see.
 
 -  Invite students to read sections out loud.
 
--  Be open to where the conversation takes you. Sometimes students will
-      pick up on details that you didn't see.
+-  Be open to where the conversation takes you. Sometimes students will pick up on details that you didn't see.
 
--  Try not to let the class discussion go over fifteen to twenty
-      minutes. Students are most productive in that time frame.
+-  Try not to let the class discussion go over fifteen to twenty minutes. Students are most productive in that time frame.
 
--  At the end of the discussion, recap the major points made or ask
-      students to do so.
+-  At the end of the discussion, recap the major points made or ask students to do so.
 
--  Course-specific discussion prompts are included in the
-      course-specific sections of this guide.
+-  Course-specific discussion prompts are included in the course-specific sections of this guide.
 
 How do I deal with controversial topics?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -265,34 +203,34 @@ outcome Z].” Additional guidelines are below.
 
 If a student raises a controversial issue unexpectedly, you may want to:
 
-   1.     Acknowledge the student's remark.
+   1. Acknowledge the student's remark.
 
-   2.     Acknowledge that other students may hold different views or
+   2. Acknowledge that other students may hold different views or
    positions.
 
-   1.     Assess your willingness to continue the discussion further.
+   1. Assess your willingness to continue the discussion further.
 
-   2.     Assess other students' willingness to continue the discussion
+   2. Assess other students' willingness to continue the discussion
    further.
 
 The following guidelines may be helpful for facilitating planned
 discussions of controversial issues:
 
-   1.     Articulate a clear purpose for the discussion (for example,
+   1. Articulate a clear purpose for the discussion (for example,
    how the discussion is related to course objectives).
 
-   2.     Establish ground rules, such as listening without interrupting
+   2. Establish ground rules, such as listening without interrupting
    the speaker, questioning ideas rather than criticizing individuals,
    offering at least one piece of evidence to support each point made,
    using “I” statements rather than “you” statements.
 
-   3.     Be an active facilitator by redirecting students who are off
+   3. Be an active facilitator by redirecting students who are off
    topic or participating too actively, ensuring students are not put on
    the spot as spokespersons for certain groups, providing opportunities
    for all students to participate (orally or through writing), and
    being attuned to students' emotions.
 
-   4.     Summarize the discussion at the end of class and obtain
+   4. Summarize the discussion at the end of class and obtain
    student feedback.
 
 How do I build instruction around the stories' themes?
@@ -305,25 +243,15 @@ wellbeing, and others.
 1. A class focusing on the theme of formal vs. informal education might
    look like this:
 
-   a. Individually, students identify and write about a passage that
-         examines formal and/or informal education. (five to seven
-         minutes)
+   a. Individually, students identify and write about a passage that examines formal and/or informal education. (five to seven minutes)
 
-   b. As a class, students discuss the passages they have chosen. (ten
-         to fifteen minutes)
+   b. As a class, students discuss the passages they have chosen. (ten to fifteen minutes)
 
-   c. With partners, students list why formal and/or informal education
-         is essential for a certain job/career and why this matters in a
-         larger context. (five to ten minutes)
+   c. With partners, students list why formal and/or informal education is essential for a certain job/career and why this matters in a larger context. (five to ten minutes)
 
-   d. Student pairs report their findings to the entire class. (ten to
-         fifteen minutes)
+   d. Student pairs report their findings to the entire class. (ten to fifteen minutes)
 
-   e. Homework: Students write a personal reflection on how formal
-         and/or informal education will play important roles in the
-         pursuit of their desired jobs/careers, perhaps examining why a
-         college degree (or degrees) is or is not required for the
-         positions or related positions they are interested in pursuing.
+   e. Homework: Students write a personal reflection on how formal and/or informal education will play important roles in the pursuit of their desired jobs/careers, perhaps examining why a college degree (or degrees) is or is not required for the positions or related positions they are interested in pursuing.
 
 What library resources are available?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -337,31 +265,15 @@ and guide links are also available.
 Where can students find extra copies of the book?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. All first-year students received a paperback copy of *Callings*
-during summer orientation.
+1. All first-year students received a paperback copy of *Callings* during summer orientation.
 
-2. UM Libraries has one electronic copy of *Callings* that can be read
-online or downloaded for up to three days on a single device. Go to
-`libraries.olemiss.edu <http://libraries.olemiss.edu/>`__ and search for
-"Callings Dave Isay" in the OneSearch box. You will have to log in with
-your Ole Miss WebID and password to access the e-book.
+2. UM Libraries has one electronic copy of *Callings* that can be read online or downloaded for up to three days on a single device. Go to `libraries.olemiss.edu <http://libraries.olemiss.edu/>`__ and search for "Callings Dave Isay" in the OneSearch box. You will have to log in with your Ole Miss WebID and password to access the e-book.
 
-3. Inside the J.D. Williams Library, students may check out a
-`Reserve <https://umiss.lib.olemiss.edu/search~S1/?searchtype=p&searcharg=dennis&SORT=D&extended=0&SUBMIT=Search&searchlimits=&searchorigarg=pMelissa+dEnnis>`__
-copy of *Callings* at the main desk on the 1st floor for one day. On
-Reserve for EDHE 105/305 are two copies of *Callings*, one copy of *The
-A Game*, and one copy of *The Ole Miss Experience*, under the instructor
-name: Melissa Dennis.
+3. Inside the J.D. Williams Library, students may check out a `Reserve <https://umiss.lib.olemiss.edu/search~S1/?searchtype=p&searcharg=dennis&SORT=D&extended=0&SUBMIT=Search&searchlimits=&searchorigarg=pMelissa+dEnnis>`__ copy of *Callings* at the main desk on the 1st floor for one day. On Reserve for EDHE 105/305 are two copies of *Callings*, one copy of *The A Game*, and one copy of *The Ole Miss Experience*, under the instructor name: Melissa Dennis.
 
-4. There is one print copy of the book in the main stacks of the library
-that students can check out using this call number:
-`H <http://umiss.lib.olemiss.edu/record=b8028291>`__\ `D8072.I83
-2017 <https://umiss.lib.olemiss.edu/search~S2?/Xcallings&SORT=D/Xcallings&SORT=D&SUBKEY=callings/1%2C44%2C44%2CB/frameset&FF=Xcallings&SORT=D&2%2C2%2C>`__.
+4. There is one print copy of the book in the main stacks of the library that students can check out using this call number: `H <http://umiss.lib.olemiss.edu/record=b8028291>`__\ `D8072.I83 2017 <https://umiss.lib.olemiss.edu/search~S2?/Xcallings&SORT=D/Xcallings&SORT=D&SUBKEY=callings/1%2C44%2C44%2CB/frameset&FF=Xcallings&SORT=D&2%2C2%2C>`__.
 
-5. Finally, a copy of all Common Read titles (`2011 -
-present <https://guides.lib.olemiss.edu/c.php?g=1331284&p=9804180>`__)
-are available in Archives & Special Collections (but these can only be
-viewed inside the library).
+5. Finally, a copy of all Common Read titles (`2011-present <https://guides.lib.olemiss.edu/c.php?g=1331284&p=9804180>`__) are available in Archives & Special Collections (but these can only be viewed inside the library).
 
 If anyone needs help with finding books or finding other library
 materials for the Common Read, please email Melissa Dennis at
@@ -389,22 +301,15 @@ an appropriate format. The SDS website,
 https://sds.olemiss.edu/faculty/, has some helpful resources for
 instructors.
 
-Chapter 2: *Callings* Critical Thinking Exercises
+*Callings* Critical Thinking Exercises
 -------------------------------------------------
 
-**The UM QEP, Think Forward, defines critical thinking as the ability to
-conceptualize**
+The UM QEP, Think Forward, defines critical thinking as the ability to conceptualize problems, gather pertinent information, interpret data, appraise evidence, distinguish diverse points of view, and articulate personal insights in order to present reasonable and effective arguments, responses, or conclusions.
 
-**problems, gather pertinent information, interpret data, appraise
-evidence, distinguish diverse points of view, and articulate personal
-insights in order to present reasonable and effective arguments,
-responses, or conclusions.**
+    .. image:: /assets/qep.png
+        :align: center
+        :alt: Diagram of the Think Forward QEP Learning outcomes
 
-.. image:: vertopal_2cca697af5f448a088297004e347d686/media/image4.png
-   :width: 6.73438in
-   :height: 3.65296in
-
-**(Diagram from Think Forward Quality Enhancement Plan)**
 
 **These small group exercises may help students develop critical
 thinking skills.**
@@ -469,28 +374,26 @@ Lessons <https://storycorps.org/discover/education/lesson-the-power-of-active-li
 to encourage students to consider and practice the role of wait time in
 active listening.
 
--  Display and discuss author Diana Senechal's quote: “Listening . . .
-      involves a certain surrender, a willingness to sit with what one
-      does not already know . . . [it] requires us to stretch a little
-      beyond what we know, expect, or want.”
+-  Display and discuss author Diana Senechal's quote: “Listening . . . involves a certain surrender, a willingness to sit with what one does not already know . . . [it] requires us to stretch a little beyond what we know, expect, or want.”
 
--  Ask students to interview each other, using the following prompt:
-      *Who has been the most important person in your life?* As they
-      interview each other, they will practice using short silences.
-      Whenever the interviewee stops speaking, the interviewer should
-      pause for six to eight seconds (counting quietly to themselves)
-      before asking a follow-up question. During this silence, the
-      interviewee is free to add any details to their story. The
-      interviewer will then need to wait for another opportunity to ask
-      a follow-up question. Each interview should last five minutes.
+-  Ask students to interview each other, using the following prompt: 
+  
+   *Who has been the most important person in your life?* 
 
--  Following the interviews, bring the class back together to discuss
-      the following questions: How did it feel to pause before the
-      follow-up question? Do you think people generally use these short
-      silences in real life conversations? What does it feel like when
-      someone interrupts you? Why do people interrupt?
+   As they interview each other, they will practice using short silences.
+   Whenever the interviewee stops speaking, the interviewer should
+   pause for six to eight seconds (counting quietly to themselves)
+   before asking a follow-up question. During this silence, the
+   interviewee is free to add any details to their story. The
+   interviewer will then need to wait for another opportunity to ask
+   a follow-up question. Each interview should last five minutes.
 
-Chapter 3: CRE Community of Voices Essay 
+-  Following the interviews, bring the class back together to discuss the following questions: 
+   How did it feel to pause before the follow-up question?  
+   Do you think people generally use these short silences in real life conversations?  
+   What does it feel like when someone interrupts you? Why do people interrupt? 
+
+CRE Community of Voices Essay 
 -----------------------------------------
 
 **An Essay Challenge Connecting Diverse Ideas, Experiences, Disciplines,
@@ -512,29 +415,21 @@ to the common book. Below are challenge and submission details:
 
 -  The winner will receive $400.
 
--  There is no length requirement. Writers will determine the
-      appropriate length required to effectively answer the prompt
-<<<<<<< HEAD
+-  There is no length requirement. Writers will determine the appropriate length required to effectively answer the prompt
 
-..
+**Submission details:**
 
-   Submission details:
-
--  All essays should include the student's name, ID number, and
-      classification (first-year, sophomore, junior, senior).
+-  All essays should include the student's name, ID number, and classification (first-year, sophomore, junior, senior).
 
 -  Entries must be submitted through the online submission portal.
 
--  The deadline to submit is Dec. 31, 2023, with the winners and
-      finalists announced in early 2024.
+-  The deadline to submit is Dec. 31, 2023, with the winners and finalists announced in early 2024.
 
 -  Submit essays through the online portal by following these steps:
 
-   -  Access the Department of Writing and Rhetoric Awards site at
-         https://rhetoric.olemiss.edu/awards/.
+   -  Access the Department of Writing and Rhetoric Awards site at https://rhetoric.olemiss.edu/awards/.
 
-   -  Click the Common Reading Experience: Community of Voices
-         Outstanding Essay button.
+   -  Click the Common Reading Experience: Community of Voices Outstanding Essay button.
 
    -  Click the Submit an Essay button.
 
@@ -590,7 +485,7 @@ https://storycorps.org/stories/dawn-maestas/
 
 https://storycorps.org/stories/burnell-cotlon-and-lillie-cotlon-150821/
 
-Chapter 4: Integrating *Callings* into EDHE 105/305
+Integrating *Callings* into EDHE 105/305
 ---------------------------------------------------
 
 The Common Reading Text is used each year in EDHE 105/305 courses
@@ -611,202 +506,37 @@ are short enough to be read in the first ten-fifteen minutes of class.
 Also, each story can stand independently from the others, so each can be
 treated as a primary text.
 
-=======
-
-..
-
-   Submission details:
-
--  All essays should include the student's name, ID number, and
-      classification (first-year, sophomore, junior, senior).
-
--  Entries must be submitted through the online submission portal.
-
--  The deadline to submit is Dec. 31, 2023, with the winners and
-      finalists announced in early 2024.
-
--  Submit essays through the online portal by following these steps:
-
-   -  Access the Department of Writing and Rhetoric Awards site at
-         https://rhetoric.olemiss.edu/awards/.
-
-   -  Click the Common Reading Experience: Community of Voices
-         Outstanding Essay button.
-
-   -  Click the Submit an Essay button.
-
-   -  Fill out the form and attach the essay.
-
-**Fall 2023 Prompt**
-
-In Dave Isay's 2016 book *Callings*, he presents stories of people
-describing the career paths they chose to pursue, their inspirations for
-choosing those paths, and the connections to their communities created
-through their work. The book is part of the StoryCorps project, whose
-mission is to “preserve and share humanity's stories in order to build
-connections between people and create a more just and compassionate
-world.” Our UM community is also built from these connections shared
-among students who are pursuing their callings, and like the people in
-Isay's book, the diversity of those stories creates a vibrant portrait
-of our students' lived experiences. For this year's Community of Voices
-essay contest, we want to hear your stories. What calling are you
-pursuing? What inspired you to follow that path? What challenges have
-you faced along the way, and how have you worked to overcome those
-challenges? Why is your calling important, and how do you plan to use it
-to connect to your community both now and in your future? Consider these
-questions and write a personal narrative that tells the story of your
-own calling.
-
-While the Common Read is a text provided to incoming first-year
-students, we encourage participation from all UM undergraduate students.
-The following links lead to some of the recorded interviews that are
-included in *Callings*. Each recording is around two minutes. Students
-who don't have access to the book might consider listening to some of
-these stories on the StoryCorps site for inspiration. Note, though, that
-the recordings are interviews and not essays. Use them for inspiration
-to think about your own story, but present your work as a narrative
-essay for the contest. For more links to the interviews behind the
-essays, use the `UM Common Reading Experience Library
-Guide. <https://guides.lib.olemiss.edu/cre2023>`__
-
-https://storycorps.org/stories/barbara-moore-and-olivia-fite/
-
-https://storycorps.org/stories/don-and-mackenzie-byles/
-
-https://storycorps.org/stories/carl-mcnair/
-
-https://storycorps.org/stories/barb-abelhauser-and-john-maycumber-160415/
-
-https://storycorps.org/stories/james-taylor-and-darlene-lewis/
-
-https://storycorps.org/stories/al-siedlecki-and-lee-buono/
-
-https://storycorps.org/stories/ayodeji-ogunniyi/
-
-https://storycorps.org/stories/dawn-maestas/
-
-https://storycorps.org/stories/burnell-cotlon-and-lillie-cotlon-150821/
-
-Chapter 4: Integrating *Callings* into EDHE 105/305
----------------------------------------------------
-
-The Common Reading Text is used each year in EDHE 105/305 courses
-primarily as a framework for class discussions, projects, and writing
-assignments that explore social themes and/or issues from the book. EDHE
-105/305 instructors use the book (with a focus on those themes and
-issues) to teach students how to explore their personal reactions, to
-understand and appreciate both the things that make them different from
-their peers and the things that they have in common, and to effectively
-and respectfully voice their own opinions and viewpoints.
-
-Affordances of *Callings*
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The short story structure of *Callings* affords instructors and students
-some options previous Common Reading Texts have not. Most of the stories
-are short enough to be read in the first ten-fifteen minutes of class.
-Also, each story can stand independently from the others, so each can be
-treated as a primary text.
-
->>>>>>> a84026c0d91396fc85341817ed044816835cd2bb
 **Class Discussion/Writing Prompts** 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.  Dave Isay's *Callings* is about finding and living your passion.
-       Think about your major and your aspirations for after college. Do
-       they inspire the passion that we find in the stories we have
-       read?
+1.	Dave Isay’s Callings is about finding and living your passion. Think about your major and your aspirations for after college. Do they inspire the passion that we find in the stories we have read?
+2.	Library Assistant Storm Reyes talks about a chance encounter with a bookmobile staff member that set her on her path to loving books, which ultimately broadened her view of the world. Reflect on an interaction you’ve had with someone who turned out to be pivotal in changing your perspective or view of the world. 
+3.	Bridgetender Barbara Abelhauser discusses leaving the corporate job that she was miserable in to go to the lower paying but more Zen-like job of bridgetending. What are some of the pros and cons of choosing happiness over monetary compensation?
+4.	Tool and Die Maker Phil Kerner reflects on the difficulty of losing his business and talks about how it inspired him to start an organization to help small businesses. Think about a time in your life where you had to face a “crushing” disappointment. How did you respond to it? Were you able to find a way to use the experience for growth?
+5.	Farmer Johnny Bradley remembers his father saying, “Son, you can’t whip a man that don’t quit.” Think about a time when you persevered through adversity; share the situation and the outcome. 
+6.	Street-corner astronomer Herman Heyn was inspired by “Miss Wicker’s class” to share his love of astronomy. Think back on the interactions you have had in your life; write/discuss how a teacher may have influenced your life’s direction.
+7.	Angelo Bruno and Eddie Nieves were the sanitation workers who found a great partnership in helping their community. Think about the ways the people around you can help fuel your ability to find your calling.
+8.	Beekeeper Ted Dennard talks about being totally in the moment when he’s working with his bees. What is an activity or pursuit that keeps you completely engaged? Reflect on what you experience through your various senses “in the moment.” 
+9.	Marc Anderson Lawson discusses his video game inventor father with his sister. When he decided to go to college, he said to himself, “What could I do for a living that I would want to do for free?” He decided to do programming, like his father. If asked that question, how would you answer?
+10.	Building contractor Lyle Link talks about how successes don’t teach you much, but mistakes are learning situations. In college you’ll encounter both successes and failures. Think back on your life; what is a mistake you learned more from than you did from any of your successes?
 
-2.  Library Assistant Storm Reyes talks about a chance encounter with a
-       bookmobile staff member that set her on her path to loving books,
-       which ultimately broadened her view of the world. Reflect on an
-       interaction you've had with someone who turned out to be pivotal
-       in changing your perspective or view of the world.
-
-3.  Bridgetender Barbara Abelhauser discusses leaving the corporate job
-       that she was *miserable* in to go to the lower paying but more
-       Zen-like job of bridgetending. What are some of the pros and cons
-       of choosing happiness over monetary compensation?
-
-4.  Tool and Die Maker Phil Kerner reflects on the difficulty of losing
-       his business and talks about how it inspired him to start an
-       organization to help small businesses. Think about a time in your
-       life where you had to face a “crushing” disappointment. How did
-       you respond to it? Were you able to find a way to use the
-       experience for growth?
-
-5.  Farmer Johnny Bradley remembers his father saying, “Son, you can't
-       whip a man that don't quit.” Think about a time when you
-       persevered through adversity; share the situation and the
-       outcome.
-
-6.  Street-corner astronomer Herman Heyn was inspired by “Miss Wicker's
-       class” to share his love of astronomy. Think back on the
-       interactions you have had in your life; write/discuss how a
-       teacher may have influenced your life's direction.
-
-7.  Angelo Bruno and Eddie Nieves were the sanitation workers who found
-       a great partnership in helping their community. Think about the
-       ways the people around you can help fuel your ability to find
-       your calling.
-
-8.  Beekeeper Ted Dennard talks about being totally in the moment when
-       he's working with his bees. What is an activity or pursuit that
-       keeps you completely engaged? Reflect on what you experience
-       through your various senses “in the moment.”
-
-9.  Marc Anderson Lawson discusses his video game inventor father with
-       his sister. When he decided to go to college, he said to himself,
-       “What could I do for a living that I would want to do for free?”
-       He decided to do programming, like his father. If asked that
-       question, how would you answer?
-
-10. Building contractor Lyle Link talks about how successes don't teach
-       you much, but mistakes are learning situations. In college you'll
-       encounter both successes and failures. Think back on your life;
-       what is a mistake you learned more from than you did from any of
-       your successes?
 
 GROUP/INDIVIDUAL PROJECT ASSIGNMENTS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. **Research Project/Presentation**: Think about your own calling.
-      Interview a person who is in that field. Ask them about their
-      pathway to finding their calling. Present your findings to the
-      class.
+1.	Research Project/Presentation: Think about your own calling. Interview a person who is in that field. Ask them about their pathway to finding their calling. Present your findings to the class.
+2.	Research Project/Presentation: Create a PowerPoint presentation on the career of your choice. Include pertinent information, such as salary, education requirements, nature of the work, working conditions, occupational outlook, and pros/cons of the career. 
 
-2. **Research Project/Presentation**: Create a PowerPoint presentation
-      on the career of your choice. Include pertinent information, such
-      as salary, education requirements, nature of the work, working
-      conditions, occupational outlook, and pros/cons of the career.
 
-3. **Talk Response**: *Callings* (*StoryCorps*) is also a podcast that
-      can be found on all major podcast platforms. Go to the `StoryCorps
-      website <https://storycorps.org/>`__ and search for your favorite
-      story by the person's name. While the written word can be very
-      powerful, think about how you feel after you listen to the podcast
-      in their own words. Links to the stories in each chapter of the
-      book are available for your convenience on the `UM Common Reading
-      Experience Library
-      Guide. <https://guides.lib.olemiss.edu/cre2023>`__
+3. **Talk Response**: *Callings* (*StoryCorps*) is also a podcast that can be found on all major podcast platforms. Go to the `StoryCorps website <https://storycorps.org/>`__ and search for your favorite story by the person's name. While the written word can be very powerful, think about how you feel after you listen to the podcast in their own words. Links to the stories in each chapter of the book are available for your convenience on the `UM Common Reading Experience Library   Guide. <https://guides.lib.olemiss.edu/cre2023>`__
 
-4. **Vignette Writing Assignment:** All of the stories in *Callings*
-      connect humans to their passion. Think about your life at the
-      University of Mississippi and how you will be able to connect with
-      your future self as you find your passion. How do you see yourself
-      in five, ten, and/or fifteen years? Write a vignette (experience)
-      about your future self in the midst of your own calling.
+4. Vignette Writing Assignment: All of the stories in Callings connect humans to their passion. Think about your life at the University of Mississippi and how you will be able to connect with your future self as you find your passion. How do you see yourself in five, ten, and/or fifteen years? Write a vignette (experience) about your future self in the midst of your own calling.
 
-5. **Outside-of-Class Activity**: Choose a `Career
-      Fair <https://career.olemiss.edu/career-fairs/>`__ that piques
-      your interest and attend. Write a reflection on your attendance
-      and interactions.
-
-6. **Research Project/Presentation**: Write an aspirational resume that
-      will help you realize what you should be striving for with regard
-      to skills for the job you aspire to attain.
-
-Chapter 5: Integrating *Callings* into WRIT 100/101
+5. **Outside-of-Class Activity**: Choose a `Career Fair <https://career.olemiss.edu/career-fairs/>`__ that piques your interest and attend. Write a reflection on your attendance and interactions.
+   
+6. Research Project/Presentation: Write an aspirational resume that will help you realize what you should be striving for with regard to skills for the job you aspire to attain.
+   
+Integrating *Callings* into WRIT 100/101
 ---------------------------------------------------
 
 The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use
@@ -978,7 +708,6 @@ to hear someone's truth, and listen to it, we begin to recognize where
 our lives intersect.” Reflect on a moment of “intersection” that you
 felt when you read one of the stories in *Callings*. What was that
 connection like for you? Why do you think it resonated?
-<<<<<<< HEAD
 
 Essay Prompts
 ^^^^^^^^^^^^^
@@ -1130,34 +859,14 @@ skills such as interviewing and writing interview questions, editing
 through making rhetorical choices about content, and thinking critically
 about different forms of media.
 
--  First, you will decide on a subject to interview. The person you
-      select should be someone whose career/job is interesting to you
-      and something you would like to learn more about. Whom you
-      interview is entirely up to you.
+- First, you will decide on a subject to interview. The person you select should be someone whose career/job is interesting to you and something you would like to learn more about. Whom you interview is entirely up to you.
+- Write a series of interview questions that will get your interviewee talking about their career/job. These questions may range from origin stories (how the person became interested in or got into the career/job) to questions about the day-to-day work to questions about how the work is rewarding and fulfilling.
+- Obtain permission from the interviewee to record and edit the interview for your assignment purposes.
+- Interview the subject, ideally recording at least ten minutes of material either through video/audio or just audio. 
+- Edit the interview so your final product is between three-five minutes in length (editing should cut down the length of the project, not change meaning).
+- Make sure the interviewee is the focus of the final product (i.e., even if you are part of the final product asking questions or participating in small ways, the interviewee should be the one mainly featured).
+- Submit the final product as an audio file or a video using approved file forms or platforms.
 
--  Write a series of interview questions that will get your interviewee
-      talking about their career/job. These questions may range from
-      origin stories (how the person became interested in or got into
-      the career/job) to questions about the day-to-day work to
-      questions about how the work is rewarding and fulfilling.
-
--  Obtain permission from the interviewee to record and edit the
-      interview for your assignment purposes.
-
--  Interview the subject, ideally recording at least ten minutes of
-      material either through video/audio or just audio.
-
--  Edit the interview so your final product is between three-five
-      minutes in length (editing should cut down the length of the
-      project, not change meaning).
-
--  Make sure the interviewee is the focus of the final product (i.e.,
-      even if you are part of the final product asking questions or
-      participating in small ways, the interviewee should be the one
-      mainly featured).
-
--  Submit the final product as an audio file or a video using approved
-      file forms or platforms.
 
 Remember, the subtitle of *Callings* is *The Purpose and Passion of
 Work*, so your goal should be to interview someone who enjoys their work
@@ -1171,384 +880,7 @@ Appendix
 Sample Rubrics
 ~~~~~~~~~~~~~~
 
-**Sample Group Presentation Rubric**
+.. raw:: html
 
-1. Was the content of the presentation well organized and presented with
-compelling evidence?
-
-1 2 3 4 5
-
-Comments:___________________________________________________________________\_
-
-2. Did the visual component enhance the presentation?
-
-   1 2 3 4 5
-
-Comments:___________________________________________________________________\_
-
-3. Was the verbal presentation clear and engaging?
-
-   1 2 3 4 5
-
-Comments:___________________________________________________________________\_
-
-4. Did the group engage the class in a discussion?
-
-   1 2 3 4 5
-
-Comments:___________________________________________________________________\_
-
-5. Did the group follow the time limits?
-
-   1 2 3 4 5
-
-Comments:___________________________________________________________________\_
-
-**Sample Group Presentation Peer Evaluation**
-
-**Your name: \_____________________________________\_**
-
-1) Team member name:
-   \_______________________________________________________\_
-
-This team member contributed fairly to the creation of the outline. Yes
-No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-This team member contributed fairly to the creation of the presentation.
-Yes No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-2) Team member name:
-\_______________________________________________________\_
-
-This team member contributed fairly to the creation of the outline. Yes
-No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-This team member contributed fairly to the creation of the presentation.
-Yes No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-3) Team member name:
-\_______________________________________________________\_
-
-This team member contributed fairly to the creation of the outline. Yes
-No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-This team member contributed fairly to the creation of the presentation.
-Yes No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-4) Team member name:
-\_______________________________________________________\_
-
-This team member contributed fairly to the creation of the outline. Yes
-No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-This team member contributed fairly to the creation of the presentation.
-Yes No
-
-If no, please explain:
-\__________________________________________________________________________\_
-
-Other comments or concerns about your group and how you worked together?
-(use back)
-
-**ASSESSMENT RUBRIC FOR RESPONSE PAPERS**
-=======
-
-Essay Prompts
-^^^^^^^^^^^^^
-
-(1) In the “Author's Note” section, Dave Isay points out that “[w]ords
-and phrases that read well are not always the strongest spoken moments,
-and the reverse is also the case.” Many of the stories in *Callings* are
-available as audio recordings on
-`storycorps.org <https://storycorps.org/>`__ (enter an interviewee's
-name on the top of the page using the “Search” feature). You can also
-find some of them in the `UM Common Reading Experience Library
-Guide <https://guides.lib.olemiss.edu/cre2023>`__. Select one story to
-work with that is available on audio, and listen to the recording a
-couple of times. Then, compose a thesis-driven essay in which you
-analyze the differences between the written and spoken story, arguing
-which is more rhetorically effective to you and why. Think about the
-differences rhetorically, that is, how the different formats work to
-reach you and other readers or listeners. Is one more emotionally
-impactful? If so, why? Do the editing differences between the audio
-recording and the written story impact the experiences in any ways? If
-so, how? To Isay's point, are there words or phrases in either the
-recording or the story that are stronger or more clear in one form over
-the other? If so, why? How does hearing the voices in the interview
-differ from reading their words, and why does that matter in considering
-the subject matter? Be sure to cite from the text and the interview.
-
-(2) In his story, Lyle Link reflects back on being a contractor and says
-that he was essentially a “salesman” (256). Really, a lot of jobs that
-aren't classified as sales involve being a salesperson in some way(s).
-Why is this? Select two other stories from *Callings* to work with, and
-examine how the people are selling something in one form or another.
-Keep in mind that you might be liberal with your definition of sales.
-Then, compose a thesis-driven essay in which you define how you are
-using the term “sales” or “salesperson,” and examine how you see your
-chosen subjects as being salespeople. You might construct a thesis that
-lets you contrast your subjects or focus on similarities, or perhaps
-some combination. Be sure to cite from the text.
-
-(3) Sharon Long says of her field, forensic artistry, that now “they
-have state-of-the-art equipment” (25) and that “technology is moving so
-fast” that she would be left behind if she were to keep working. What
-roles might technology and artificial intelligence play in the
-careers/jobs people currently hold? Select two other stories from
-*Callings* for a focus, and examine how AI or technology in general
-might impact the fields in the future. Will humans still be necessary
-for these positions? If so, will it be in the same ways as in the past?
-Do you see the technology having a positive or negative impact on the
-positions? Do the stories you selected contain any information that
-helps you shape your argument? Consider doing a little research to help
-you, and then compose a thesis-driven essay in which you argue how
-technology will impact your chosen positions in the coming years. You
-are welcome to bring in outside sources, but be sure to cite *Callings*,
-as well.
-
-(4) Read the StoryCorps mission statement below:
-
-   StoryCorps' mission is to preserve and share humanity's stories in
-   order to build connections between people and create a more just and
-   compassionate world. We do this to remind one another of our shared
-   humanity, to strengthen and build the connections between people, to
-   teach the value of listening, and to weave into the fabric of our
-   culture the understanding that everyone's story matters. At the same
-   time, we are creating an invaluable archive for future generations.
-   -- About StoryCorps, storycorps.org
-
-How can reading about the work some people do help “strengthen and build
-the connections between people”? Why does “everyone's story” matter?
-Think about StoryCorps' mission statement, and consider the different
-stories in *Callings*. Then, select two stories to focus on. Why should
-we care about what your chosen subjects have to say? What do they help
-us understand about humanity? How do they make us or help us think about
-being “more just and compassionate”? What does reading these stories
-teach us about listening? And why does this matter in relation to
-StoryCorps' mission statement? Why is compiling an “archive for future
-generations” important? Construct a thesis-driven essay in which you
-argue how the stories and people you chose exemplify and help perpetuate
-StoryCorps' mission statement. Be sure to cite from the text.
-
-(5) Read Jeremy Hsu's *Scientific American* article, “\ `The Secrets of
-Storytelling: Why We Love a Good
-Yarn <https://www.scientificamerican.com/article/the-secrets-of-storytelling/>`__,”
-paying particular attention to his discussion of narrative transport
-factors (familiarity, empathy, learning, and social cohesion). Choose
-two or three stories in *Callings* that appeal to you and apply those
-narrative transport factors to your experience in reading the stories.
-Construct a thesis-driven essay analyzing how these factors affected
-your experience as a reader of these stories. Be sure to include
-evidence from Hsu's article and from the *Callings* stories to support
-your argument.
-
-(6) Read “\ `Speaking my truth: Why personal experiences can bridge
-divides but
-mislead <https://www.pnas.org/doi/10.1073/pnas.2100280118>`__,”Van Bavel
-et al.'s commentary in *PNAS* (Proceedings of the National Academy of
-Sciences). Consider their argument that stories of personal experience
-can help readers engage with outgroups, build respect, and humanize
-marginalized individuals. Choose one or two *Callings* stories featuring
-individuals whom you perceive as very different from you. How did these
-stories help you understand these individuals in new and positive ways?
-Which of the factors that Van Bavel et al. covered were in play? Then
-consider Van Bavel et al.'s point that stories of personal experience
-can be exploited. How might the stories you have chosen be subject to
-exploitation in larger cultural conversations about income inequality,
-fair labor practices, gender or racial stereotyping, etc.? Construct a
-thesis-driven essay in which you analyze how the stories you have chosen
-may bridge divides but also mislead. Be sure to include evidence from
-the *PNAS* article as well as the *Callings* stories to support your
-analysis.
-
-(7) The stories in *Callings* paint a portrait of work as fulfilling and
-life-enriching. Is that how everyone views work? Watch Gallup's “\ `The
-State of the Global Workplace 2022
-Report <https://www.youtube.com/watch?v=ZZ48l9OQIZ8>`__\ ” and download
-the
-`report <https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx?utm_source=google&utm_medium=cpc&utm_campaign=gallup_access_branded&utm_term=gallup%20employee%20engagement&gclid=CjwKCAjwvdajB>`__.
-Pay particular attention to the key findings on global
-engagement/well-being and employee stress. Think about how the stories
-in *Callings* address those issues. Construct a thesis-driven argument
-about how and why workplace leaders should or should not address these
-issues, using evidence from the Gallup report and the first-hand
-accounts in *Callings*.
-
-(8) In an *Oral History Review* article, “\ `Under Storytelling's Spell?
-Oral History in a Neoliberal
-Age <https://www-tandfonline-com.umiss.idm.oclc.org/doi/epdf/10.1093/ohr/ohv002?needAccess=true&role=button>`__,”Alexander
-Freund cautions against conflating storytelling and history, arguing our
-current fascination with storytelling is rooted in neoliberalism,
-hyperindividualism, and therapy culture. Read Freund's article and think
-about the stories in *Callings*. Construct a thesis-driven argument
-agreeing with or refuting Freund's case, using the stories in *Callings*
-as evidence.
-
-(9) Read Simone Stolzoff's essay, “\ `Please Don't Call My Job a
-Calling <https://www.nytimes.com/2023/06/05/opinion/employment-exploitation-unions.html?unlocked_article_code=9hpU9k3pdB-XkYLzc0yC3TjWA90YKc3D0iceG0rfuu7HVzDpzWCUNGTpbQBS7wqmZ__rugHbgJQzRNhH07aXF6phwBatQxK0S6-UT5quIzrbscMji_0fx9WTwaKkNqHSzQ0zeTCV1Vn7fo8TBSHRs3qUM8bDtNRpPb3FvhMNDJdCk5tcPR-NWM5TD_9q2JRRgsapT0DHdXFFaVHpicZsncV8HCpOIIycYdWweZv_x46HlpJooCKtefrBxmoAXnO3swghXvy3oYw16uM70xfiyFUR0Gs8kz6bG8-tk2pFkGmE4G-alWg7Q8rOm6OAlbEItI49vIWU8ajr2RyhOrnAOYDckLzQRL0H&smid=url-share>`__,”
-in *The New York Times* and his *Forbes* interview, “\ `Understanding
-What is the Good Enough
-Job <https://www.forbes.com/sites/goldiechan/2023/05/23/understanding-what-is-the-good-enough-job-with-author-simone-stolzoff/?sh=653e82432150>`__.”
-Think about his arguments that the term “calling” can lead to worker
-exploitation and that work-centric lives may not be healthy. Then think
-about *Callings* as a complete text. In what ways does the book
-intrinsically or extrinsically foster worker exploitation and
-work-centric lives? In what ways does it not? Compose a thesis-driven
-argument supporting or refuting Stolzoff's argument, using evidence from
-*Callings* to shore up your points.
-
-(10) *Multimodal option*: For this assignment, you will create your own
-story like the ones featured in *Callings*. The process should help with
-skills such as interviewing and writing interview questions, editing
-through making rhetorical choices about content, and thinking critically
-about different forms of media.
-
--  First, you will decide on a subject to interview. The person you
-      select should be someone whose career/job is interesting to you
-      and something you would like to learn more about. Whom you
-      interview is entirely up to you.
-
--  Write a series of interview questions that will get your interviewee
-      talking about their career/job. These questions may range from
-      origin stories (how the person became interested in or got into
-      the career/job) to questions about the day-to-day work to
-      questions about how the work is rewarding and fulfilling.
-
--  Obtain permission from the interviewee to record and edit the
-      interview for your assignment purposes.
-
--  Interview the subject, ideally recording at least ten minutes of
-      material either through video/audio or just audio.
-
--  Edit the interview so your final product is between three-five
-      minutes in length (editing should cut down the length of the
-      project, not change meaning).
-
--  Make sure the interviewee is the focus of the final product (i.e.,
-      even if you are part of the final product asking questions or
-      participating in small ways, the interviewee should be the one
-      mainly featured).
-
--  Submit the final product as an audio file or a video using approved
-      file forms or platforms.
-
-Remember, the subtitle of *Callings* is *The Purpose and Passion of
-Work*, so your goal should be to interview someone who enjoys their work
-and/or feels fulfilled. An interview featuring a subject complaining a
-lot about a job wouldn't fit well in *Callings*, so it won't work well
-for this assignment either.
-
-Appendix
---------
-
-Sample Rubrics
-~~~~~~~~~~~~~~
->>>>>>> a84026c0d91396fc85341817ed044816835cd2bb
-
-STUDENT'S NAME: \___________________________\_
-
-<<<<<<< HEAD
-ASSIGNMENT TITLE: \_______________________________________\_
-
-SCORE: \____________\_
-
-+-----------------------+-----------------------+-----------------------+
-| **CO                  |                       |                       |
-| NVENTIONS/MECHANICS** |                       |                       |
-+=======================+=======================+=======================+
-| Ineffective           | Partially-effective   | Effective             |
-+-----------------------+-----------------------+-----------------------+
-| Multiple errors in    | Minimal errors in     | The writing meets     |
-| writing hamper        | standard English,     | guidelines for        |
-| communication, and    | grammar, punctuation, | standard English      |
-| text does not         | and/or usage are      | grammar, punctuation, |
-| demonstrate standard  | present in some of    | and usage, with very  |
-| English grammar,      | the writing, and/or   | few minor errors      |
-| punctuation, and/or   | the text does not     | present. Meets        |
-| usage, and/or does    | meet requirements for | requirements for      |
-| not meet the          | assignment length     | assignment length and |
-| requirements for      | and/or format.        | format.               |
-| length and format.    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| D / F                 | C                     | B                     |
-+-----------------------+-----------------------+-----------------------+
-
-+----------------+-----------------+----------------+-----------------+
-| **INFORMATION  |                 |                |                 |
-| PRESENTED**    |                 |                |                 |
-+================+=================+================+=================+
-| Ineffective    | Part            | Effective      | Exceptional     |
-|                | ially-effective |                |                 |
-+----------------+-----------------+----------------+-----------------+
-| Does not       | Demonstrates    | Introduces and | Demonstrates    |
-| introduce or   | only minimal or | integrates     | exceptionally   |
-| integrate      | ineffective use | information    | strong,         |
-| information    | of integrating  | relevant to    | integrated      |
-| relevant to    | information     | the            | information     |
-| the            | relevant to the | topic/event.   | that enhances   |
-| topic/event,   | topic/event.    | Writing        | credibility of  |
-| or includes    | Writing only    | addresses      | writing.        |
-| inappropriate  | barely          | details of     | Writing         |
-| use of         | addresses       | event or class | includes        |
-| sources. In    | details of      | materials and  | skillfully      |
-| the case of an | event or class  | places         | represented     |
-| event paper,   | materials.      | information    | details about   |
-| it is unclear  |                 | within a       | event or class  |
-| that the event |                 | larger         | materials.      |
-| was attended.  |                 | context.       |                 |
-+----------------+-----------------+----------------+-----------------+
-| D / F          | C               | B              | A               |
-+----------------+-----------------+----------------+-----------------+
-
-+----------------+-----------------+----------------+-----------------+
-| **REFLECT      |                 |                |                 |
-| ION/RESPONSE** |                 |                |                 |
-+================+=================+================+=================+
-| Ineffective    | Part            | Effective      | Exceptional     |
-|                | ially-effective |                |                 |
-+----------------+-----------------+----------------+-----------------+
-| Fails to       | Begins          | Explores ideas | Exhibits a      |
-| explore new    | exploration of  | unfamiliar to  | significant     |
-| ideas and/or   | new ideas but   | the reader,    | investigation   |
-| works without  | could push      | and questions  | of new ideas by |
-| making any     | further.        | different      | way of          |
-| connection     | Experience of   | thinking. Puts | exploring an    |
-| between event  | event or class  | experience of  | event or class  |
-| or class       | materials is    | event or class | materials.      |
-| materials and  | put in a        | materials in a |                 |
-| a personal     | personal        | personal       | Shows signs of  |
-| context.       | context but     | context, is    | personal growth |
-|                | lacks           | w              | and/or          |
-|                | development of  | ell-developed, | considerable    |
-|                | ideas.          | and includes   | s               |
-|                |                 | se             | elf-evaluation. |
-|                |                 | lf-evaluation. |                 |
-+----------------+-----------------+----------------+-----------------+
-| D / F          | C               | B              | A               |
-+----------------+-----------------+----------------+-----------------+
-
-**Write additional comments on the back of the rubric.**
-=======
     <iframe src="https://app.box.com/embed_widget/s/vxp5riqtfnnu8b7ecvf2kay74jmdgf3x?view=list&amp;sort=name&amp;direction=ASC&amp;theme=gray" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
->>>>>>> a84026c0d91396fc85341817ed044816835cd2bb
+
