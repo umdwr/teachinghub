@@ -1,6 +1,6 @@
-================================
-WRIT 100/101 NYT Curriculum
-================================
+======================================
+WRIT 100/101 with *The New York Times*
+======================================
 .. admonition:: See Also
 
     * Required Text: A semester-long subscription to The New York Times
@@ -17,7 +17,7 @@ Welcome to the Writing 100/101 New York Times assignment library. Assignment she
 
 Common Reading Text Project
 ----------------------------
-The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for the first major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with outside sources and the student’s own ideas. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
+The first-semester, first-year writing courses—WRIT 100 and WRIT 101—use the Common Reading Text as the basis for the first major writing project. This project emphasizes the critical reading, critical thinking, analysis, research, and synthesis skills that are vital to college writing. In this assignment, students are given a prompt pertaining to the Common Reading Text and asked to compose an essay that integrates the Common Reading Text with the student’s own ideas and perhaps outside sources. First-year writing courses use the Common Reading Text as a basis for student reading and writing rather than as a literary study.
 
 .. admonition:: See Also
 
@@ -47,7 +47,7 @@ In an analysis, a writer closely examines an issue or an artifact, systematicall
 
 Argument
 ---------
-In argument, students make a claim and support that claim with evidence. While instructors may assign for this project different types of argument, the assignment should require background information on the topic as context for the argument, a clearly-expressed main claim, evidence, integration of outside sources, and refutation of counter-arguments. Argument is roughly a three-week unit.
+In argument, students make a claim and support that claim with evidence. While instructors may assign for this project different types of argument, the assignment should require background information on the topic as context for the argument, a clearly-expressed main claim, evidence, integration of outside sources, and consideration of counter-arguments. Argument is a three- to four-week unit.
 
 Areas to highlight: Students often need help narrowing a topic to a specific, debatable claim. Some students struggle to provide enough specific evidence to support their claims and need help brainstorming places to find evidence. Students often need help integrating quoted material and paraphrases into their texts as well as documenting their sources. Students may also need help considering opposing viewpoints or counterarguments and refutation.
 
@@ -64,7 +64,7 @@ Areas to highlight: Students often need help narrowing a topic to a specific, de
 
 Multimodal
 -----------
-In a multimodal project, a writer recomposes an earlier project in a different mode. This assignment has several flavors based on *The New York Times*.
+In the multimodal assignment, students may rework or rethink an earlier project in a different mode or medium. This assignment has several flavors based on *The New York Times*.
 
 .. admonition:: See Also
 
@@ -77,9 +77,9 @@ In a multimodal project, a writer recomposes an earlier project in a different m
 
 -------------------------------------
 
-Reflection Blog
+Reflection
 ----------------
-The reflection to blog is a personalized space for recording, organizing, and reflecting on a student’s learning. This semester-long project incorporates daily, weekly, and unit reflections, culminating in a final reflective post.
+Students will reflect on their writing and learning throughout the semester. This may involve daily, weekly, and unit reflections, culminating in a final reflection.
 
 Areas to highlight: Students are generally unfamiliar with self-reflection and metacognition and need many opportunities throughout the semester to practice. Many will need help with being more specific about their learning. Students may have difficulty demonstrating their progress, or lack thereof, through examples, often resorting to more telling than showing. Students may also struggle to understand how tagging can be a mechanism to represent the larger structures of their learning.
 

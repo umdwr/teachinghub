@@ -20,19 +20,27 @@ placed into either course by test score or writing sample.
 
 .. admonition:: Sample Syllabi
 
-    * `Standard Curriculum <https://olemiss.box.com/s/vup4xmyxqyj91vled0z39ci3zi0a4rba>`__
-    * `NYT Curriculum <https://olemiss.box.com/s/59p9icokrrwcsl2uavz63joypfoegwfm>`__
-    * `NPR Curriculum <https://olemiss.box.com/s/j3v5msd789mmv2n700w5jbb2a1z4rf3h>`__
+  * `WRIT 100/101 with Let's Talk <https://olemiss.box.com/s/agbi3kvrnzbqimku6bns9zmdug3nszdw>`__   
+  * `WRIT 100/101 with The Writer's Practice <https://olemiss.box.com/s/vup4xmyxqyj91vled0z39ci3zi0a4rba>`__   
+  * `WRIT 100/101 with The New York Times <https://olemiss.box.com/s/59p9icokrrwcsl2uavz63joypfoegwfm>`__   
+  * `WRIT 100/101 with National Public Radio <https://olemiss.box.com/s/j3v5msd789mmv2n700w5jbb2a1z4rf3h>`__   
 
 Required Texts
 --------------
 
-Standard Curriculum:
+*Let's Talk* Curriculum:
 ~~~~~~~~~~~~~~~~~~~~
 
--  *The Writer's Practice*
+-  *Let's Talk*
 -  Common Reading Experience Text
 -  UM RhetLab modules
+
+*The Writer's Practice* Curriculum:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- *The Writer's Practice*
+- Common Reading Experience Text
+- UM RhetLab modules
 
 *New York Times* Curriculum:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +48,6 @@ Standard Curriculum:
 -  Semester-long subscription to *The New York Times*
 -  Common Reading Experience Text
 -  UM RhetLab modules
--  *The Writer's Practice* (optional)
 
 NPR Curriculum
 ~~~~~~~~~~~~~~
@@ -48,7 +55,6 @@ NPR Curriculum
 -  Access to the internet and the NPR website
 -  Common Reading Experience Text
 -  UM RhetLab modules
--  *The Writer's Practice* (optional)
 
 Suggested Assignment Sequence
 -----------------------------
@@ -108,7 +114,7 @@ included in the annual Common Reading Resource Guide.
 Analysis
 ~~~~~~~~~~~~~~
 In analysis, students examine an issue or an artifact’s component parts
-to understand how it makes meaning. Analysis is roughly a three-week
+to understand how they work together to make meaning. Analysis is roughly a three-week
 unit.
 
 .. admonition:: Areas to Highlight
@@ -132,7 +138,7 @@ In argument, students make a claim and support that claim with evidence.
 While instructors may assign for this project different types of
 argument, the essay should require background information on the topic
 as context for the argument, a clearly-expressed main claim, evidence,
-and refutation of counter-arguments. Argument is roughly a four-week
+and consideration of counter-arguments. Argument is a three- to four-week
 unit.
 
 .. admonition:: Areas to Highlight
@@ -147,7 +153,7 @@ unit.
 
 Multimodal
 ~~~~~~~~~~~~~~
-In the multimodal assignment, students re-work or re-think an earlier
+In the multimodal assignment, students may rework or rethink an earlier
 project in a different mode or medium. Multimodal is roughly a two-week
 project.
 
@@ -159,11 +165,10 @@ project.
     print text and, thus, how to think about audience. Students may also
     need help with unfamiliar technology.
 
-Commonplace Book
+Reflection
 ~~~~~~~~~~~~~~~~~~
-The commonplace book is apersonalized space for recording, organizing, and reflecting on a
-student’s learning. This semester-long project incorporates daily,
-weekly, and unit reflections, culminating in a final reflective post.
+Students will reflect on their writing and learning throughout the semsester. This 
+may involve daily, weekly, and unit reflections, culminating in a final reflection.
 
 .. admonition:: Areas to Highlight
 
