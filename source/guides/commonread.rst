@@ -514,6 +514,7 @@ to the common book. Below are challenge and submission details:
 
 -  There is no length requirement. Writers will determine the
       appropriate length required to effectively answer the prompt
+<<<<<<< HEAD
 
 ..
 
@@ -610,6 +611,104 @@ are short enough to be read in the first ten-fifteen minutes of class.
 Also, each story can stand independently from the others, so each can be
 treated as a primary text.
 
+=======
+
+..
+
+   Submission details:
+
+-  All essays should include the student's name, ID number, and
+      classification (first-year, sophomore, junior, senior).
+
+-  Entries must be submitted through the online submission portal.
+
+-  The deadline to submit is Dec. 31, 2023, with the winners and
+      finalists announced in early 2024.
+
+-  Submit essays through the online portal by following these steps:
+
+   -  Access the Department of Writing and Rhetoric Awards site at
+         https://rhetoric.olemiss.edu/awards/.
+
+   -  Click the Common Reading Experience: Community of Voices
+         Outstanding Essay button.
+
+   -  Click the Submit an Essay button.
+
+   -  Fill out the form and attach the essay.
+
+**Fall 2023 Prompt**
+
+In Dave Isay's 2016 book *Callings*, he presents stories of people
+describing the career paths they chose to pursue, their inspirations for
+choosing those paths, and the connections to their communities created
+through their work. The book is part of the StoryCorps project, whose
+mission is to “preserve and share humanity's stories in order to build
+connections between people and create a more just and compassionate
+world.” Our UM community is also built from these connections shared
+among students who are pursuing their callings, and like the people in
+Isay's book, the diversity of those stories creates a vibrant portrait
+of our students' lived experiences. For this year's Community of Voices
+essay contest, we want to hear your stories. What calling are you
+pursuing? What inspired you to follow that path? What challenges have
+you faced along the way, and how have you worked to overcome those
+challenges? Why is your calling important, and how do you plan to use it
+to connect to your community both now and in your future? Consider these
+questions and write a personal narrative that tells the story of your
+own calling.
+
+While the Common Read is a text provided to incoming first-year
+students, we encourage participation from all UM undergraduate students.
+The following links lead to some of the recorded interviews that are
+included in *Callings*. Each recording is around two minutes. Students
+who don't have access to the book might consider listening to some of
+these stories on the StoryCorps site for inspiration. Note, though, that
+the recordings are interviews and not essays. Use them for inspiration
+to think about your own story, but present your work as a narrative
+essay for the contest. For more links to the interviews behind the
+essays, use the `UM Common Reading Experience Library
+Guide. <https://guides.lib.olemiss.edu/cre2023>`__
+
+https://storycorps.org/stories/barbara-moore-and-olivia-fite/
+
+https://storycorps.org/stories/don-and-mackenzie-byles/
+
+https://storycorps.org/stories/carl-mcnair/
+
+https://storycorps.org/stories/barb-abelhauser-and-john-maycumber-160415/
+
+https://storycorps.org/stories/james-taylor-and-darlene-lewis/
+
+https://storycorps.org/stories/al-siedlecki-and-lee-buono/
+
+https://storycorps.org/stories/ayodeji-ogunniyi/
+
+https://storycorps.org/stories/dawn-maestas/
+
+https://storycorps.org/stories/burnell-cotlon-and-lillie-cotlon-150821/
+
+Chapter 4: Integrating *Callings* into EDHE 105/305
+---------------------------------------------------
+
+The Common Reading Text is used each year in EDHE 105/305 courses
+primarily as a framework for class discussions, projects, and writing
+assignments that explore social themes and/or issues from the book. EDHE
+105/305 instructors use the book (with a focus on those themes and
+issues) to teach students how to explore their personal reactions, to
+understand and appreciate both the things that make them different from
+their peers and the things that they have in common, and to effectively
+and respectfully voice their own opinions and viewpoints.
+
+Affordances of *Callings*
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The short story structure of *Callings* affords instructors and students
+some options previous Common Reading Texts have not. Most of the stories
+are short enough to be read in the first ten-fifteen minutes of class.
+Also, each story can stand independently from the others, so each can be
+treated as a primary text.
+
+>>>>>>> a84026c0d91396fc85341817ed044816835cd2bb
 **Class Discussion/Writing Prompts** 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -879,6 +978,7 @@ to hear someone's truth, and listen to it, we begin to recognize where
 our lives intersect.” Reflect on a moment of “intersection” that you
 felt when you read one of the stories in *Callings*. What was that
 connection like for you? Why do you think it resonated?
+<<<<<<< HEAD
 
 Essay Prompts
 ^^^^^^^^^^^^^
@@ -1172,9 +1272,203 @@ Other comments or concerns about your group and how you worked together?
 (use back)
 
 **ASSESSMENT RUBRIC FOR RESPONSE PAPERS**
+=======
+
+Essay Prompts
+^^^^^^^^^^^^^
+
+(1) In the “Author's Note” section, Dave Isay points out that “[w]ords
+and phrases that read well are not always the strongest spoken moments,
+and the reverse is also the case.” Many of the stories in *Callings* are
+available as audio recordings on
+`storycorps.org <https://storycorps.org/>`__ (enter an interviewee's
+name on the top of the page using the “Search” feature). You can also
+find some of them in the `UM Common Reading Experience Library
+Guide <https://guides.lib.olemiss.edu/cre2023>`__. Select one story to
+work with that is available on audio, and listen to the recording a
+couple of times. Then, compose a thesis-driven essay in which you
+analyze the differences between the written and spoken story, arguing
+which is more rhetorically effective to you and why. Think about the
+differences rhetorically, that is, how the different formats work to
+reach you and other readers or listeners. Is one more emotionally
+impactful? If so, why? Do the editing differences between the audio
+recording and the written story impact the experiences in any ways? If
+so, how? To Isay's point, are there words or phrases in either the
+recording or the story that are stronger or more clear in one form over
+the other? If so, why? How does hearing the voices in the interview
+differ from reading their words, and why does that matter in considering
+the subject matter? Be sure to cite from the text and the interview.
+
+(2) In his story, Lyle Link reflects back on being a contractor and says
+that he was essentially a “salesman” (256). Really, a lot of jobs that
+aren't classified as sales involve being a salesperson in some way(s).
+Why is this? Select two other stories from *Callings* to work with, and
+examine how the people are selling something in one form or another.
+Keep in mind that you might be liberal with your definition of sales.
+Then, compose a thesis-driven essay in which you define how you are
+using the term “sales” or “salesperson,” and examine how you see your
+chosen subjects as being salespeople. You might construct a thesis that
+lets you contrast your subjects or focus on similarities, or perhaps
+some combination. Be sure to cite from the text.
+
+(3) Sharon Long says of her field, forensic artistry, that now “they
+have state-of-the-art equipment” (25) and that “technology is moving so
+fast” that she would be left behind if she were to keep working. What
+roles might technology and artificial intelligence play in the
+careers/jobs people currently hold? Select two other stories from
+*Callings* for a focus, and examine how AI or technology in general
+might impact the fields in the future. Will humans still be necessary
+for these positions? If so, will it be in the same ways as in the past?
+Do you see the technology having a positive or negative impact on the
+positions? Do the stories you selected contain any information that
+helps you shape your argument? Consider doing a little research to help
+you, and then compose a thesis-driven essay in which you argue how
+technology will impact your chosen positions in the coming years. You
+are welcome to bring in outside sources, but be sure to cite *Callings*,
+as well.
+
+(4) Read the StoryCorps mission statement below:
+
+   StoryCorps' mission is to preserve and share humanity's stories in
+   order to build connections between people and create a more just and
+   compassionate world. We do this to remind one another of our shared
+   humanity, to strengthen and build the connections between people, to
+   teach the value of listening, and to weave into the fabric of our
+   culture the understanding that everyone's story matters. At the same
+   time, we are creating an invaluable archive for future generations.
+   -- About StoryCorps, storycorps.org
+
+How can reading about the work some people do help “strengthen and build
+the connections between people”? Why does “everyone's story” matter?
+Think about StoryCorps' mission statement, and consider the different
+stories in *Callings*. Then, select two stories to focus on. Why should
+we care about what your chosen subjects have to say? What do they help
+us understand about humanity? How do they make us or help us think about
+being “more just and compassionate”? What does reading these stories
+teach us about listening? And why does this matter in relation to
+StoryCorps' mission statement? Why is compiling an “archive for future
+generations” important? Construct a thesis-driven essay in which you
+argue how the stories and people you chose exemplify and help perpetuate
+StoryCorps' mission statement. Be sure to cite from the text.
+
+(5) Read Jeremy Hsu's *Scientific American* article, “\ `The Secrets of
+Storytelling: Why We Love a Good
+Yarn <https://www.scientificamerican.com/article/the-secrets-of-storytelling/>`__,”
+paying particular attention to his discussion of narrative transport
+factors (familiarity, empathy, learning, and social cohesion). Choose
+two or three stories in *Callings* that appeal to you and apply those
+narrative transport factors to your experience in reading the stories.
+Construct a thesis-driven essay analyzing how these factors affected
+your experience as a reader of these stories. Be sure to include
+evidence from Hsu's article and from the *Callings* stories to support
+your argument.
+
+(6) Read “\ `Speaking my truth: Why personal experiences can bridge
+divides but
+mislead <https://www.pnas.org/doi/10.1073/pnas.2100280118>`__,”Van Bavel
+et al.'s commentary in *PNAS* (Proceedings of the National Academy of
+Sciences). Consider their argument that stories of personal experience
+can help readers engage with outgroups, build respect, and humanize
+marginalized individuals. Choose one or two *Callings* stories featuring
+individuals whom you perceive as very different from you. How did these
+stories help you understand these individuals in new and positive ways?
+Which of the factors that Van Bavel et al. covered were in play? Then
+consider Van Bavel et al.'s point that stories of personal experience
+can be exploited. How might the stories you have chosen be subject to
+exploitation in larger cultural conversations about income inequality,
+fair labor practices, gender or racial stereotyping, etc.? Construct a
+thesis-driven essay in which you analyze how the stories you have chosen
+may bridge divides but also mislead. Be sure to include evidence from
+the *PNAS* article as well as the *Callings* stories to support your
+analysis.
+
+(7) The stories in *Callings* paint a portrait of work as fulfilling and
+life-enriching. Is that how everyone views work? Watch Gallup's “\ `The
+State of the Global Workplace 2022
+Report <https://www.youtube.com/watch?v=ZZ48l9OQIZ8>`__\ ” and download
+the
+`report <https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx?utm_source=google&utm_medium=cpc&utm_campaign=gallup_access_branded&utm_term=gallup%20employee%20engagement&gclid=CjwKCAjwvdajB>`__.
+Pay particular attention to the key findings on global
+engagement/well-being and employee stress. Think about how the stories
+in *Callings* address those issues. Construct a thesis-driven argument
+about how and why workplace leaders should or should not address these
+issues, using evidence from the Gallup report and the first-hand
+accounts in *Callings*.
+
+(8) In an *Oral History Review* article, “\ `Under Storytelling's Spell?
+Oral History in a Neoliberal
+Age <https://www-tandfonline-com.umiss.idm.oclc.org/doi/epdf/10.1093/ohr/ohv002?needAccess=true&role=button>`__,”Alexander
+Freund cautions against conflating storytelling and history, arguing our
+current fascination with storytelling is rooted in neoliberalism,
+hyperindividualism, and therapy culture. Read Freund's article and think
+about the stories in *Callings*. Construct a thesis-driven argument
+agreeing with or refuting Freund's case, using the stories in *Callings*
+as evidence.
+
+(9) Read Simone Stolzoff's essay, “\ `Please Don't Call My Job a
+Calling <https://www.nytimes.com/2023/06/05/opinion/employment-exploitation-unions.html?unlocked_article_code=9hpU9k3pdB-XkYLzc0yC3TjWA90YKc3D0iceG0rfuu7HVzDpzWCUNGTpbQBS7wqmZ__rugHbgJQzRNhH07aXF6phwBatQxK0S6-UT5quIzrbscMji_0fx9WTwaKkNqHSzQ0zeTCV1Vn7fo8TBSHRs3qUM8bDtNRpPb3FvhMNDJdCk5tcPR-NWM5TD_9q2JRRgsapT0DHdXFFaVHpicZsncV8HCpOIIycYdWweZv_x46HlpJooCKtefrBxmoAXnO3swghXvy3oYw16uM70xfiyFUR0Gs8kz6bG8-tk2pFkGmE4G-alWg7Q8rOm6OAlbEItI49vIWU8ajr2RyhOrnAOYDckLzQRL0H&smid=url-share>`__,”
+in *The New York Times* and his *Forbes* interview, “\ `Understanding
+What is the Good Enough
+Job <https://www.forbes.com/sites/goldiechan/2023/05/23/understanding-what-is-the-good-enough-job-with-author-simone-stolzoff/?sh=653e82432150>`__.”
+Think about his arguments that the term “calling” can lead to worker
+exploitation and that work-centric lives may not be healthy. Then think
+about *Callings* as a complete text. In what ways does the book
+intrinsically or extrinsically foster worker exploitation and
+work-centric lives? In what ways does it not? Compose a thesis-driven
+argument supporting or refuting Stolzoff's argument, using evidence from
+*Callings* to shore up your points.
+
+(10) *Multimodal option*: For this assignment, you will create your own
+story like the ones featured in *Callings*. The process should help with
+skills such as interviewing and writing interview questions, editing
+through making rhetorical choices about content, and thinking critically
+about different forms of media.
+
+-  First, you will decide on a subject to interview. The person you
+      select should be someone whose career/job is interesting to you
+      and something you would like to learn more about. Whom you
+      interview is entirely up to you.
+
+-  Write a series of interview questions that will get your interviewee
+      talking about their career/job. These questions may range from
+      origin stories (how the person became interested in or got into
+      the career/job) to questions about the day-to-day work to
+      questions about how the work is rewarding and fulfilling.
+
+-  Obtain permission from the interviewee to record and edit the
+      interview for your assignment purposes.
+
+-  Interview the subject, ideally recording at least ten minutes of
+      material either through video/audio or just audio.
+
+-  Edit the interview so your final product is between three-five
+      minutes in length (editing should cut down the length of the
+      project, not change meaning).
+
+-  Make sure the interviewee is the focus of the final product (i.e.,
+      even if you are part of the final product asking questions or
+      participating in small ways, the interviewee should be the one
+      mainly featured).
+
+-  Submit the final product as an audio file or a video using approved
+      file forms or platforms.
+
+Remember, the subtitle of *Callings* is *The Purpose and Passion of
+Work*, so your goal should be to interview someone who enjoys their work
+and/or feels fulfilled. An interview featuring a subject complaining a
+lot about a job wouldn't fit well in *Callings*, so it won't work well
+for this assignment either.
+
+Appendix
+--------
+
+Sample Rubrics
+~~~~~~~~~~~~~~
+>>>>>>> a84026c0d91396fc85341817ed044816835cd2bb
 
 STUDENT'S NAME: \___________________________\_
 
+<<<<<<< HEAD
 ASSIGNMENT TITLE: \_______________________________________\_
 
 SCORE: \____________\_
@@ -1255,3 +1549,6 @@ SCORE: \____________\_
 +----------------+-----------------+----------------+-----------------+
 
 **Write additional comments on the back of the rubric.**
+=======
+    <iframe src="https://app.box.com/embed_widget/s/vxp5riqtfnnu8b7ecvf2kay74jmdgf3x?view=list&amp;sort=name&amp;direction=ASC&amp;theme=gray" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+>>>>>>> a84026c0d91396fc85341817ed044816835cd2bb
