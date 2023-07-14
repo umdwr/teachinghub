@@ -5,8 +5,8 @@ Common Reading Resource Guide
 
 .. admonition:: See Also
 
-    * `Callings Resource Guide (pdf) <https://olemiss.box.com/s/x6nnv60aumgkkp7hf2tbr6lmemhmusng>`__
-    * `Callings Resource Guide (docx) <https://olemiss.box.com/s/rfrbt9vck1gyvcx5dup7o1qy8i9rgk8s>`__
+    * `Callings Resource Guide (pdf) <https://olemiss.box.com/s/7zl5sx3prk81fpqy8oht6q5zl944xcek>`__
+    * `Callings Resource Guide (docx) <https://olemiss.box.com/s/azbliuokh52ttqvvmzsz451181u933vu>`__
     * :doc:`/alib/writing/writ101`
 
 .. sidebar:: Contents
