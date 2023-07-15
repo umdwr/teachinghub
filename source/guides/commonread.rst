@@ -205,13 +205,11 @@ If a student raises a controversial issue unexpectedly, you may want to:
 
    1. Acknowledge the student's remark.
 
-   2. Acknowledge that other students may hold different views or
-   positions.
+   2. Acknowledge that other students may hold different views or positions.
+   
+   3. Assess your willingness to continue the discussion further.
 
-   1. Assess your willingness to continue the discussion further.
-
-   2. Assess other students' willingness to continue the discussion
-   further.
+   4. Assess other students' willingness to continue the discussion further.
 
 The following guidelines may be helpful for facilitating planned
 discussions of controversial issues:
