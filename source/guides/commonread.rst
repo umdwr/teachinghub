@@ -16,7 +16,7 @@ Common Reading Resource Guide
         :depth: 1
 
 Using *Callings* in the Classroom
---------------------------------------------
+------------------------------------
 
 Why does UM have a Common Reading Experience Program? 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
