@@ -1,5 +1,11 @@
-WRIT 440: WRITING FOR ACCOUNTANCY CLASS RESOURCE GUIDE
+WRIT 440: Writing for Accountancy
 ======================================================
+
+.. sidebar:: Contents
+    
+    .. contents::
+        :local:
+        :depth: 1
 
 COURSE RATIONALE:
 -----------------
