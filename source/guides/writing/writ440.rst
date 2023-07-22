@@ -5,7 +5,7 @@ WRIT 440: Writing for Accountancy
     
     .. contents::
         :local:
-        :depth: 1
+        :depth: 2
 
 COURSE RATIONALE
 -----------------
