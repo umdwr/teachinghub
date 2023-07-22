@@ -7,7 +7,7 @@ WRIT 440: Writing for Accountancy
         :local:
         :depth: 1
 
-COURSE RATIONALE:
+COURSE RATIONALE
 -----------------
 
 Accounting students need to be effective communicators if they are to
@@ -34,7 +34,7 @@ between the assignments and job requirements. If they find the
 assignments relevant to future job success, they may be motivated to do
 their best work and to improve areas where they are weak.
 
-MOTVIATING STUDENTS TO WRITE WELL:
+MOTVIATING STUDENTS TO WRITE WELL
 ----------------------------------
 
 If WRIT 440 students are to improve their communication skills, they
@@ -60,10 +60,10 @@ WRIT 440 class:
    easier than the elaborate rhetorical styles encouraged in some
    disciplines.
 
-EVALUATING STUDENT WORK:
+EVALUATING STUDENT WORK
 ------------------------
 
-COURSE OUTLINE:
+COURSE OUTLINE
 ---------------
 
 This particular course outline is structured for a regular,
@@ -110,496 +110,13 @@ accounting topic)
 
 *Module 15*: The White Paper Final Draft
 
-SAMPLE WRIT 440 SYLLABUS:
--------------------------
-
-*Course Information*:
-
-WRIT 440: Writing for Accountancy:
-
-Meeting Times and Days: Online Class (no live class meetings)
-
-Classroom: Blackboard Course Management System
-
-*Instructor Information*:
-
-Office:
-
-Office Phone:
-
-Email:
-
-Office Hours:
-
-*Required Textbooks:*
-
-May, C. B., & May, G. S. (2019). Effective writing: A handbook for
-accountants, 11th edition.
-
-United States: Pearson.
-
-*Credits*: 3 Hours
-
-*Course Description*:
-
-This course covers rhetorical, analytical, and research skills for
-writers in accountancy and related fields. Students will write academic
-and professional documents in multiple genres and modes.
-
-*Course Objectives*:
-
-By the end of the course, students should be able to do the following:
-
-*Research and Process Outcomes*:
-
-1. Recognize that research relies on processes that include identifying
-   a topic, question, and problem that warrant investigation as well as
-   using appropriate secondary and/or primary methods to collect
-   information.
-
-2. Recognize that effective writing and composing in various media rely
-   on processes that including planning, research, drafting, revising,
-   and editing.
-
-*Exploration and Argumentation Outcomes:*
-
-1. Examine current issues within the discipline, proposing
-   research-based solutions to problems they identify.
-
-2. Apply rhetorical strategies effectively and ethically to different
-   genres, producing compositions that demonstrate well-informed
-   understanding of selected issues within their discipline
-
-3. Demonstrate proficiency in matching writing style to specific
-   audiences, including academic and professional audiences and those
-   accessing information digitially.
-
-    *Purpose and Audience Outcomes*:
-
-1. Determine and use appropriate methods of delivery to present
-   research to academic and professional audiences.
-
-2. Use an inquiry-driven approach to identify and select timely topics
-   within their discipline to investigate.
-
-3. Locate, evaluate, and integrate external credible sources,
-   synthesizing the information into research-based writing and
-   adhering to appropriate citation practices.
-
-    *Conventions and Mechanics Outcomes*:
-
-1. Produce compositions that are free of logical fallacies and
-   mechanical errors that distort meaning or interfere with clarity and
-   comprehension.
-
-2. Produce compositions that adhere to the conventions of academic
-   research-based as well as professional writing.
-
-*Why do I need to take WRIT 440? Why does writing matter?*
-
-The world we live in is driven by language. From text messages sent in
-the morning, to the books studied at night, the business contracts
-signed… tutorials, instructions, and of course homework, it’s all what
-is referred to as “informational text.” In fact, about ninety (90)
-percent of the words read and written every day carry important
-information. In order to succeed in this verbal whirlwind, it is
-important to know how to” read between the lines”, how to compose,
-persuade, understand and respond.
-
-Lastly, English and writing matters because…
-
-1. Writing is about communication. In college, that can sometimes
-   become complicated. You will have to explain yourself, negotiate,
-   work on teams, and otherwise use your language skills to improve
-   your grades.
-
-2. Additionally, every subject has its own “language”: a unique set of
-   terms and a distinct style of talking about the information.
-   Language involves picking up new words and concepts quickly and
-   using them at a high level.
-
-3. Since everyone has a different educational background, the best way
-   to “even the playing field” is to learn vital skills like language.
-   That’s why English is usually a prerequisite for higher-level
-   courses.
-
-*Course Philosophy*:
-
-In essence, reading and writing are skills learned. Like any skill, it
-can become dull and awkward if not practiced effectively. How will those
-skills be sharpened this semester?
-
--  *“Active Learning:”* writing and reading are skills best learned by
-   “doing.” Definitions, concepts, and ideas can be discussed and
-   memorized, but the real practice comes from engaging with other
-   material and ideas. In the class this semester, we will engage with
-   course concepts as “active learners.” Basically, that means through
-   a process whereby you engage in activities, such as reading,
-   writing, discussion, or problem solving that promote analysis,
-   synthesis, and evaluation of class content.
-
--  *“Read/Write Projects:”* In this class this semester, we are going
-   to engage with a variety of short and long texts centered around
-   four major topics/themes. What is read will be connected to the
-   themes, and some of it will be informative while some of it will be
-   opinionated. The writing assignments (both short and long) come from
-   responses and analysis of the readings. Everything will be connected
-   together, leading to a “scaffolding” effect of learning. The initial
-   readings serve as the foundation of the scaffold, and all other
-   activities will add depth and structure to the scaffold.
-
-*Personal Learning Goals for the Course:*
-
-Use the space below to list two personal goals for this class. We will
-discuss them throughout the
-semester
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*Class Procedures:*
-
-This course requires three (3) hours of classroom time each week.
-Depending on how quickly you (the student) reads and writes, you should
-prepare for at least two-to-four (2-4) hours of work outside of class
-each week. This class will be taught using group activities,
-assessments, discussions, in-class exercises, and lectures. Assignments
-and assessments will support the learning outcomes/course objectives of
-the class.
-
-    *Assessments:* Assessments will consist of activities designed to
-    evaluate your knowledge and abilities to accomplish the intended
-    learning outcomes. There will be different types of assessments:
-    writing essays and shorter writing responses, working in teams,
-    classroom discussions, and taking quizzes. Not all assessments will be
-    graded. Some assessments will be used to receive feedback for
-    improvement. Please use the assessments as a way to reflect on the
-    depth and value of your learning.
-
-    *Technology:* This class will have some information available through
-    Blackboard. In addition, some assignments will be submitted to me
-    using Blackboard. You will need to have access to the Internet and a
-    computer for these assignments. If you do not have Internet access or
-    a personal computer, consider using one of the computers available on
-    campus.
-
-*Participation:*
-
-Readiness to learn means that you will come to class with questions and
-insights to offer and be prepared to discuss and write about the
-relevance and application of course concepts.
-
-Characteristics of students who succeed in this course:
-
--  Come to “class” with reading/writing assignments completed
-
--  Bring thoughtful questions to class discussion board posts
-
--  Prepare for the assignments by following the writing process
-
--  Take notes during “class” and while completing reading assignments
-
--  Ask questions if you do not understand or need help
-
--  Understand writing is a process and that not every writing
-   assignment will “come to you easily.” Part of becoming a better
-   writer involves being challenged through the thinking, drafting, and
-   revision process of writing.
-
-*Tips on using the syllabus:*
-
--  Use the course objectives to evaluate academic progress throughout
-   the semester
-
--  Refer to the assignment descriptions and point values often
-
--  Follow the information listed in the course schedule
-
-*Course Overview:*
-
-This class uses the Blackboard course management and program system. Our
-class has its own Blackboard page. You can access the WRIT 440
-Blackboard homepage by logging onto www.mctc.edu and clicking the link.
-**All of the information you need regarding the course (including this
-syllabus), class assignments, assignment sheets, rubrics, etc. will be
-located within this program** **under the “Course Content” folder**.
-
-Your assignments for this class are divided into modules. Within each
-module, you will find various assignments. All assignments must be
-completed within each module, so be sure that you do all of the required
-module assignments. Once you select an individual module and select an
-individual assignment, the instructions for the individual assignment
-will be listed. Please let me know if the assignment information
-confuses you or if you have trouble viewing the information. You can
-email me through the email link/button on the Blackboard program.
-
-Please do not email me unless you are using the Blackboard program.
-
-You can expect email responses from me to most questions by the next
-working day.
-
-*Submitting Assignments:*
-
-All assignments must be submitted in the “Submission” screen in the
-Blackboard program. Assignments should not be emailed to me as
-attachments unless I have given you permission to do so. Please let me
-know if you are having trouble viewing the information in each module or
-if you are having problems with submitting assignments through the
-Blackboard program. **All assignments are due on Friday’s by midnight
-eastern time**.
-
-All students will work on modules together. Therefore, there is no
-“working ahead” in the class. Business and Technical writing is a
-skill set that must be built upon gradually. Therefore, completing one
-module at a time will ensure you are learning the necessary skills and
-that you are able to demonstrate them accurately on a variety of
-assignments.
-
-I cannot open assignments that are typed in anything other than
-Microsoft Word. **Please do not send me an assignment typed in WordPad,
-WordPerfect, or any other word processing program other than**
-**Microsoft Word**.
-
-*Computer Requirements*:
-
-You should have access to a modern computer, complete with a high-speed
-Internet connection. Using an antiquated computer and/or a dial-up
-Internet connection will frustrate you in being able to access
-information quickly and submit assignments by their due dates.
-
-Overall, computer issues are not valid excuses for late assignments.
-Many times, students will procrastinate and complete assignments right
-before the deadline. For whatever reason, computer and/or printer
-problems emerge and the assignment cannot be submitted by the due date.
-It is your responsibility to get the assignment turned in on time
-
-*Minimum Technical Requirements and Online Resources*
-
-In addition to a web browser (preferable Firefox or Google Chrome) that
-is Blackboard compatible, you will need the following software in order
-to complete the activities in this class:
-
-1. Word processing package capable of reading and creating .doc, .docx
-   or rich text formatted (rtf) documents.
-
-2. *Adobe Acrobat Reader*: If you do not have *Adobe Acrobat Reader*,
-   you can download it free from
-   http://www.adobe.com/products/acrobat/readstep.html
-
-3. PDF Creator Software: If you are using a MAC or do not have software
-   capable of saving a file as a .doc or .docx file and do not have the
-   capability on your campus to print files to PDF, you can download a
-   free version of *CutePDF* at
-   http://www.cutepdf.com/Products/CutePDF/writer.asp This software
-   installs a virtual printer on your PC that allows you to print files
-   to the PDF format.
-
-4. Virus Protection Software\*\*:\*\* This course requires you to download
-   and upload files from your PC. Virus protection software protects
-   your computer and my computer.
-
-**Online Resources:**  This course makes use of many online resources. I
-have made every effort to make sure the links I have are up-to-date.
-However, due to the changing nature of the web, you may find that a
-resource is temporarily unavailable or has been removed. If this should
-happen, please send me an email and I will find an alternative resource
-or modify the assignment accordingly.
-
-*Assignments and Grading*:
-
-*Assignments Points*
-
-“Start Here” Module 1: 10
-
-Grammar Exercises 30
-
-Video Lecture Activities 25
-
-Discussion Board Posts (8) 80
-
-LinkedIn Assignment 25
-
-Email (with Memo) 25
-
-Literature Review Topic Proposal 25
-
-Literature Review 50
-
-Reflective Writing Assignments 75
-
-\*“White Paper” Research Project 100
-
-Writing Assignments 155
-
-*Course Point Total:* 600 points
-
-*\*Students who do not complete the White Paper assignment cannot pass
-the class, no matter the scores on other assignments\**
-
-*University of Mississippi Grading Scale:*
-
-100-90%- A 89-80%-B 79-70%-C 69-60% D 59%-0%- F
-
-*Late Work*:
-
-I am not inclined to be lenient. Late work is not accepted, unless prior
-arrangements were made with me. I do not accept emailed assignments
-submitted outside of the “Assignment Dropbox” section of the Blackboard
-program unless prior arrangements are made in advance or I tell you
-otherwise. Any assignment turned in late will result in a loss of one
-letter grade per day late (i.e., if an assignment is due on Friday and
-you submit it on Saturday, then your grade will automatically be dropped
-to a “B”).
-
-*Disability Services*
-
-If a student has a documented disability as described by the
-Rehabilitation Act of 1973 (P.L. 933-112 Section 504) or the Americans
-with Disabilities Act (ADA) and would like to request academic and/or
-physical accommodations, they should contact Student Disability Services
-at 234 Martindale Center, 662-915-7128. Course requirements will not be
-waived but reasonable accommodations may be provided as appropriate.
-Please consult http://sds.olemiss.edu/ for more information on student
-disability services.
-
-*Plagiarism Policy*
-
-All work that a student submits under their name for credit at UM is
-assumed to be their original work. While teachers hope and expect for
-students to incorporate the thinking of others in their work, students
-*must* credit others’ work when they rely upon it. In written
-assignments, there are only three methods for properly importing the
-work of others: quotation, paraphrase, and summary. (The Excelsior OWL
-has a good tutorial on plagiarism, and the section on How To Avoid
-Plagiarism may be helpful in answering any questions; students should
-also talk with the instructor if they have questions about using and
-citing the sources and research they use.)
-
-The penalty for plagiarism in in WRIT 440 may include an “F” on the
-assignment, an “F” in the course, suspension or expulsion from the
-university, or other sanctions.
-
-Upon determining plagiarism, the instructor will notify the student and
-the Chair of the Department of Writing and Rhetoric and the Dean of the
-Patterson School of Accounting in writing. The instructor will also make
-a recommendation for the penalty he/she finds most appropriate for the
-offense. Students may appeal the instructor’s finding and/or recommended
-penalty by notifying the UM Academic Discipline Committee within 14 days
-of the instructor’s decision. The applicable full UM policy is
-ACA.AR.600.001 and should be consulted by any student concerned with
-plagiarism. Broadly speaking, plagiarism is completely avoidable: if you
-are ever uncertain whether or not you are committing plagiarism, ask
-your instructor.
-
-*J. D. Williams Library*
-
-University librarians are available to help you find and evaluate
-sources for your papers. You can go to the library website at
-http://www.libraries.olemiss.edu/uml/ask-librarian and click on “Ask A
-Librarian” for help via live chat, email, and phone. Librarians are also
-available at the Reference Desk on the first floor in the Information
-Commons. Open tours of the library are also available during the
-semester if you'd like to take a guided tour. Information about tours
-can be found at http://www.libraries.olemiss.edu/uml/events-tours
-
-*Communication*
-
-E-mail has become the most common (and convenient and reliable) way for
-students and faculty to communicate outside of class and is also now
-serving as an official communications channel for the university.
-Students should check their university accounts (WebID@go.olemiss.edu)
-frequently; the instructor will use that address when sending important
-messages related to the course. Note that a go.olemiss.edu e-mail
-address may be configured to forward incoming e-mail to a different
-address if a student prefers. Each student should use the
-individually-assigned, unique go.olemiss.edu e-mail address (or the
-“Send Email” Tool on Blackboard) as their “From:” address when
-communicating with the instructor, for clarity and future reference.
-
-*Free Inquiry*
-
-In accordance with FERPA privacy requirements, the university’s Academic
-Conduct Policy regarding classroom disruptions, and the principles of
-the UM Creed regarding dignity, fairness, and civility, any audio,
-photographic, and/or video recording of classroom activity in the course
-without the prior written consent of all parties present is strictly
-prohibited.
-
-In order to facilitate the fundamental human right of academic free
-inquiry pursuant to discovering truth and advancing any given academic
-discipline, and in particular to accommodate the pedagogy of the
-Socratic Method, it is necessary that the classroom environment allow
-students to openly and objectively consider and evaluate any ideas or
-propositions relevant to the course’s discipline without the chilling
-effect that could result from fear of their comments in a discussion –
-or questions that might be asked of or by the instructor – being later
-presented out of context. Students may take from the classroom only
-ideas in their heads and notes in their notebooks as the results of
-classroom learning.
-
-Any violation of the prohibition on recording classroom activity in this
-course may result in any or all of the following: failure in the course
-by the offending student, reporting of the misconduct by to the UM
-Behavioral Intervention Team, filing of a complaint with the Office of
-Conflict Resolution and Student Conduct, and any other civil and/or
-criminal penalties as may also apply including, but not limited to,
-civil rights and/or intellectual property rights and/or privacy rights
-violations, as particular circumstances may warrant.
-
-All students are required to abide by the UM Creed and to observe proper
-classroom decorum. The free inquiry into truth that is the basis of
-scholars’ academic freedom is not the same thing as unconstrained free
-speech – the former is appropriate to the classroom; the latter is
-specifically not.
-
-*Title IX: What does it mean for students?*
-
-Title IX protects all students, regardless of gender, in educational
-programs and activities from sex discrimination, including sexual
-harassment, by any school employee, another student, or a non-employee
-third party. The University of Mississippi has a Title IX coordinator
-who oversees policies and procedures that apply to complaints alleging
-sex discrimination (including sexual harassment, sexual assault and
-sexual violence). The University prohibits sexual misconduct in any
-form, including sexual assault or sexual abuse, sexual harassment and
-other forms of nonconsensual sexual conduct.
-
-Incidents of sexual misconduct can be reported to **faculty members**
-(who will assist the student in contacting Honey Ussery, our Title IX
-coordinator), the Office of the Dean of Students, the University Police
-Department, the LiveSafe app, and/or directly to the Title IX
-coordinator (email: *eeo@olemiss.edu* or phone number: 662-915-7045).
-Retaliation for reporting sexual misconduct will not be tolerated at the
-University of Mississippi. Steps will be taken to protect any individual
-who makes a report of sexual misconduct or participates in an
-investigation into sexual misconduct. Such steps may include the issuing
-of no contact letters, changing of course schedules and/or housing
-assignments. For more information about sexual misconduct policies as
-well as information about your rights, see the Title IX website at
-http://eorc.olemiss.edu/title-ix-coordinator/ as needed.
-
-Personal Commitment
-
--  My personal commitments to you as a participant include:
-
--  I will reply to course mail messages within 48 hours
-
--  I will read all discussion postings and will reply where appropriate
-   within (five) 5 days of submission. Major assignments will be graded
-   and returned with seven (7) business days of submission.
-
--  I will acknowledge my receipt of every course mail message
-   immediately upon reading it. If I am unable to respond to the
-   request or concern at the time of initial reply, I will give you an
-   estimated time for my next
-   reply.
-
-SAMPLE MODULE(S) BREAKDOWN AND ASSIGNMENTS:
+SAMPLE MODULE(S) BREAKDOWN AND ASSIGNMENTS
 -------------------------------------------
 
-MODULE 1: “START HERE”: INTRODUCTION TO THE CLASS/BLACKBOARD NAVIGATION.
+MODULE 1: “START HERE”: INTRODUCTION TO THE CLASS/BLACKBOARD NAVIGATION
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-\*For this module, do not assume that students are proficient in using
+For this module, do not assume that students are proficient in using
 Blackboard. Although most of them can use the LMS, some of them are not
 as skilled in locating information as others. If students are more
 skilled in using Blackboard, they will be able to complete the module
@@ -633,7 +150,7 @@ should be able to:
 -  Write a discussion board post using the discussion board post tool
    in Blackboard
 
-MODULE ASSIGNMENTS:
+MODULE ASSIGNMENTS
 ^^^^^^^^^^^^^^^^^^^
 
 1. Professor Introduction Video: record a short video that introduces
@@ -671,10 +188,10 @@ introduces themselves to their classmates. Students must respond to at
 least two (2) classmates’ responses by the deadline in order to receive
 full credit.
 
-MODULE 2: ACCOUNTANTS AS WRITERS:
+MODULE 2: ACCOUNTANTS AS WRITERS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MODULE DESCRIPTION:
+MODULE DESCRIPTION
 ^^^^^^^^^^^^^^^^^^^
 
 The accounting profession has changed dramatically in recent years, due
@@ -684,7 +201,7 @@ services. In spite of these changes, the ability to communicate through
 writing effectively is essential to the success of the accounting
 profession and in the business world in general.
 
-MODULE OBJECTIVES:
+MODULE OBJECTIVES
 ^^^^^^^^^^^^^^^^^^
 
 After completing readings and assignments in this module, students
@@ -769,7 +286,7 @@ Explain
 MODULE 3: STANDARD ENGLISH: GRAMMAR, PUNCTUATION, AND SPELLING
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MODULE DESCRIPTION:
+MODULE DESCRIPTION
 ^^^^^^^^^^^^^^^^^^^
 
 Accounting is much more than financial statements and debits and
@@ -789,7 +306,7 @@ Reflective writing helps you make connections between what you are
 taught in theory and what you need to do in practice. Reflection equals
 learning.
 
-MODULE OBJECTIVES:
+MODULE OBJECTIVES
 ^^^^^^^^^^^^^^^^^^
 
 After completing readings and assignments in this module, students
@@ -1001,10 +518,10 @@ memo can either be typed in the submission box or typed in a Microsoft
 Word document (Times New Roman or Calibri 12-point font only and
 double-spaced) and sent to me as an attachment.
 
-MODULE 4: UNDERSTANDING AUDIENCE:
+MODULE 4: UNDERSTANDING AUDIENCE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MODULE DESCRIPTION:
+MODULE DESCRIPTION
 ^^^^^^^^^^^^^^^^^^^
 
 When you’re in the process of writing a document as an accountant, it’s
@@ -1017,7 +534,7 @@ you write can help you make good decisions about what material to
 include, how to organize your ideas, and how best to support your
 argument.
 
-MODULE OBJECTIVES:
+MODULE OBJECTIVES
 ^^^^^^^^^^^^^^^^^^
 
 After completing readings and assignments in this module, students
@@ -1183,10 +700,10 @@ paragraphs in a Microsoft Word document (Times New Roman or Calibri,
 12-point font only and double-spaced) and submit the response to me as
 an attachment.
 
-MODULE 5: ORGANIZING DOCUMENTS FOR CONCISENESS AND CLARITY:
+MODULE 5: ORGANIZING DOCUMENTS FOR CONCISENESS AND CLARITY
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MODULE DESCRIPTION:
+MODULE DESCRIPTION
 ^^^^^^^^^^^^^^^^^^^
 
 As an accountant, you will be working with a variety of colleagues and
@@ -1200,7 +717,7 @@ having face-to-face meetings, or even giving presentations. In all these
 tasks, one needs to be able to relay information as concisely, quickly,
 and professionally as possible.
 
-MODULE OBJECTIVES:
+MODULE OBJECTIVES
 ^^^^^^^^^^^^^^^^^^
 
 After completing readings and assignments in this module, students
@@ -1491,10 +1008,10 @@ solve any problems promptly using the manual in its current format.
 *How should Donneil organize the required information into a simplified
 manual?*
 
-MODULE 6: MEMORANDUMS AND EMAILS:
+MODULE 6: MEMORANDUMS AND EMAILS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MODULE DESCRIPTION:
+MODULE DESCRIPTION
 ^^^^^^^^^^^^^^^^^^^
 
 All accountants, no matter their specialty, write memorandums and emails
@@ -1509,7 +1026,7 @@ For example, a tax accountant might write a letter seeking data about a
 client’s tax situation or to clarify issues for a client. This module
 deals with those issues.
 
-MODULE OBJECTIVES:
+MODULE OBJECTIVES
 ^^^^^^^^^^^^^^^^^^
 
 After completing readings and assignments in this module, students
@@ -1803,10 +1320,10 @@ The email will be evaluated using the attached rubric. 
    </tbody>
    </table>
 
-MODULE 7: ETHICS IN ACCOUNTING:
+MODULE 7: ETHICS IN ACCOUNTING
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MODULE DESCRIPTION:
+MODULE DESCRIPTION
 ^^^^^^^^^^^^^^^^^^^
 
 Objectivity and independence are important ethical values in the
@@ -1816,7 +1333,7 @@ accounting services. This module discusses ethics in accounting and
 provides an opportunity to analyze and reflect upon some ethical
 scenarios in accounting.
 
-MODULE OBJECTIVES:
+MODULE OBJECTIVES
 ^^^^^^^^^^^^^^^^^^
 
 After completing readings and assignments in this module, students
@@ -1981,4 +1498,3 @@ anything, should Rosalie do right now if she wants to demonstrate the
 highest regard for professional ethics?*
 
 .. |image0| image:: media/image1.png
-
