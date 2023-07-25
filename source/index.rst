@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://umdwr.github.io/teachinghub-v3/'" />
+
+
 DWR Teaching Hub
 ============================================
 Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching resources from the Department of Writing and Rhetoric. The Hub contains curriculum materials, teaching guides, and vetted assignments for DWR writing and speech courses. All content on the DWR Teaching Hub is licensed under a Creative Commons Attribution 4.0 International License unless otherwise indicated.
